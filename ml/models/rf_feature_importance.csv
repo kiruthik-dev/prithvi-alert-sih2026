@@ -1,0 +1,17 @@
+feature,importance
+num__historical_landslide_distance,0.3795836283758939
+num__is_ner,0.3516954687606126
+num__historical_landslide_frequency,0.24776093005615454
+num__latitude,0.00629772740094053
+num__rainfall_12h,0.004811478676061622
+num__longitude,0.0036717557881904383
+num__rainfall_48h,0.0012543429288852275
+num__rainfall_intensity,0.0012371927183294786
+num__rainfall_7d,0.0009756630883015771
+num__rainfall_6h,0.000874712860633998
+num__rainfall_24h,0.0007445021477963628
+num__rainfall_1h,0.00029694326737822593
+num__infrastructure_exposure,0.00023063512043720917
+num__distance_to_river,0.00022570616955308207
+num__population_exposure,0.0001976747565164885
+num__distance_to_road,0.00014163788431475154

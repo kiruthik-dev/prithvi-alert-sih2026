@@ -1,0 +1,81 @@
+{
+  "mode": "MIXED_DEMO",
+  "processing_timestamp": "2026-08-30T07:08:08.357007+00:00",
+  "source_datasets": [
+    {
+      "name": "ISRO Atlas NER",
+      "path": "C:\\SIH2026 Project\\prithvi-alert-sih\\data\\raw\\isro_atlas\\isro_atlas_ner.csv",
+      "records": 1200,
+      "quality": "simulated"
+    },
+    {
+      "name": "NASA COOLR NER",
+      "path": "C:\\SIH2026 Project\\prithvi-alert-sih\\data\\raw\\nasa_coolr\\nasa_glc_ner.csv",
+      "records": 800,
+      "quality": "simulated"
+    },
+    {
+      "name": "GPM IMERG Rainfall",
+      "path": "C:\\SIH2026 Project\\prithvi-alert-sih\\data\\raw\\gpm_imerg\\gpm_rainfall_features.csv",
+      "records": 2000,
+      "quality": "simulated"
+    },
+    {
+      "name": "Exposure (synthetic \u2014 WorldPop/OSM placeholder)",
+      "path": "generated_in_pipeline",
+      "records": 4990,
+      "quality": "simulated"
+    }
+  ],
+  "missing_sources": [
+    {
+      "name": "DEM / Terrain",
+      "reason": "File not found: C:\\SIH2026 Project\\prithvi-alert-sih\\data\\raw\\dem\\terrain_features.csv",
+      "missing_features": [
+        "elevation",
+        "slope",
+        "aspect",
+        "curvature",
+        "terrain_ruggedness"
+      ]
+    },
+    {
+      "name": "SoilGrids",
+      "reason": "File not found: C:\\SIH2026 Project\\prithvi-alert-sih\\data\\raw\\soilgrids\\soilgrids_features.csv",
+      "missing_features": [
+        "soil_moisture",
+        "soil_texture",
+        "soil_ph",
+        "soil_organic_carbon"
+      ]
+    },
+    {
+      "name": "Sentinel-2 Vegetation",
+      "reason": "File not found: C:\\SIH2026 Project\\prithvi-alert-sih\\data\\raw\\sentinel2\\sentinel2_vegetation.csv",
+      "missing_features": [
+        "ndvi",
+        "land_cover"
+      ]
+    },
+    {
+      "name": "Sentinel-1 SAR Deformation",
+      "reason": "File not found: C:\\SIH2026 Project\\prithvi-alert-sih\\data\\raw\\sentinel1\\sentinel1_deformation.csv",
+      "missing_features": [
+        "ground_displacement"
+      ]
+    }
+  ],
+  "real_record_count": 0,
+  "synthetic_record_count": 4990,
+  "total_processed": 4990,
+  "feature_count": 39,
+  "split_report": {
+    "split_method": "temporal",
+    "train_years": "<= 2019",
+    "val_years": "2020-2021",
+    "test_years": ">= 2022",
+    "train_size": 4303,
+    "val_size": 459,
+    "test_size": 228
+  }
+}

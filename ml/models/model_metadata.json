@@ -1,0 +1,13 @@
+{
+  "model_version": "1.0",
+  "training_timestamp": "2026-08-30T09:07:43.149716+00:00",
+  "dataset_version": "synthetic_v1",
+  "target": "landslide_event",
+  "feature_count": 16,
+  "training_rows": 3992,
+  "validation_rows": 0,
+  "test_rows": 998,
+  "source_type": "SYNTHETIC DEMO DATA",
+  "model_type": "Classification Ensemble (XGBoost + RF)",
+  "preprocessing_version": "1.0"
+}

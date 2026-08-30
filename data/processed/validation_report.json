@@ -1,0 +1,1785 @@
+{
+  "generated": "2026-08-30",
+  "pipeline_version": "0.1.0-prototype",
+  "raw_data": {
+    "raw_dir": "C:\\SIH2026 Project\\prithvi-alert-sih\\data\\raw",
+    "sources": {
+      "isro_atlas": {
+        "directory": "C:\\SIH2026 Project\\prithvi-alert-sih\\data\\raw\\isro_atlas",
+        "file": "C:\\SIH2026 Project\\prithvi-alert-sih\\data\\raw\\isro_atlas\\isro_atlas_ner.csv",
+        "dir_exists": true,
+        "file_exists": true,
+        "requirement": "required",
+        "record_count": 1200,
+        "columns": [
+          "event_id",
+          "latitude",
+          "longitude",
+          "date",
+          "year",
+          "state",
+          "district",
+          "event_type",
+          "trigger",
+          "severity",
+          "inventory_type",
+          "data_source",
+          "data_quality",
+          "source_citation",
+          "license"
+        ],
+        "status": "FOUND"
+      },
+      "nasa_coolr": {
+        "directory": "C:\\SIH2026 Project\\prithvi-alert-sih\\data\\raw\\nasa_coolr",
+        "file": "C:\\SIH2026 Project\\prithvi-alert-sih\\data\\raw\\nasa_coolr\\nasa_glc_ner.csv",
+        "dir_exists": true,
+        "file_exists": true,
+        "requirement": "required",
+        "record_count": 800,
+        "columns": [
+          "event_id",
+          "latitude",
+          "longitude",
+          "date",
+          "trigger",
+          "event_type",
+          "severity",
+          "state",
+          "district",
+          "source_name",
+          "source_link",
+          "data_source",
+          "data_quality",
+          "license"
+        ],
+        "status": "FOUND"
+      },
+      "gpm_imerg": {
+        "directory": "C:\\SIH2026 Project\\prithvi-alert-sih\\data\\raw\\gpm_imerg",
+        "file": "C:\\SIH2026 Project\\prithvi-alert-sih\\data\\raw\\gpm_imerg\\gpm_rainfall_features.csv",
+        "dir_exists": true,
+        "file_exists": true,
+        "requirement": "optional",
+        "record_count": 2000,
+        "columns": [
+          "event_id",
+          "latitude",
+          "longitude",
+          "date",
+          "rainfall_1h",
+          "rainfall_6h",
+          "rainfall_12h",
+          "rainfall_24h",
+          "rainfall_48h",
+          "rainfall_7d",
+          "rainfall_intensity",
+          "data_source",
+          "data_quality"
+        ],
+        "status": "FOUND"
+      },
+      "dem": {
+        "directory": "C:\\SIH2026 Project\\prithvi-alert-sih\\data\\raw\\dem",
+        "file": "C:\\SIH2026 Project\\prithvi-alert-sih\\data\\raw\\dem\\terrain_features.csv",
+        "dir_exists": true,
+        "file_exists": false,
+        "requirement": "optional",
+        "record_count": null,
+        "columns": null,
+        "status": "MISSING"
+      },
+      "soilgrids": {
+        "directory": "C:\\SIH2026 Project\\prithvi-alert-sih\\data\\raw\\soilgrids",
+        "file": "C:\\SIH2026 Project\\prithvi-alert-sih\\data\\raw\\soilgrids\\soilgrids_features.csv",
+        "dir_exists": true,
+        "file_exists": false,
+        "requirement": "optional",
+        "record_count": null,
+        "columns": null,
+        "status": "MISSING"
+      },
+      "sentinel2": {
+        "directory": "C:\\SIH2026 Project\\prithvi-alert-sih\\data\\raw\\sentinel2",
+        "file": "C:\\SIH2026 Project\\prithvi-alert-sih\\data\\raw\\sentinel2\\sentinel2_vegetation.csv",
+        "dir_exists": true,
+        "file_exists": false,
+        "requirement": "optional",
+        "record_count": null,
+        "columns": null,
+        "status": "MISSING"
+      },
+      "sentinel1": {
+        "directory": "C:\\SIH2026 Project\\prithvi-alert-sih\\data\\raw\\sentinel1",
+        "file": "C:\\SIH2026 Project\\prithvi-alert-sih\\data\\raw\\sentinel1\\sentinel1_deformation.csv",
+        "dir_exists": true,
+        "file_exists": false,
+        "requirement": "optional",
+        "record_count": null,
+        "columns": null,
+        "status": "MISSING"
+      }
+    },
+    "found_required": [
+      "isro_atlas",
+      "nasa_coolr"
+    ],
+    "missing_required": [],
+    "found_optional": [
+      "gpm_imerg"
+    ],
+    "missing_optional": [
+      "dem",
+      "soilgrids",
+      "sentinel2",
+      "sentinel1"
+    ]
+  },
+  "processed_data": {
+    "available": true,
+    "datasets": {
+      "training_dataset": {
+        "total_records": 4990,
+        "columns": 39,
+        "class_balance": {
+          "positive": 1996,
+          "negative": 2994,
+          "ratio_pos_neg": 0.667
+        },
+        "by_state": {
+          "NER": 2994,
+          "Arunachal Pradesh": 358,
+          "Assam": 331,
+          "Nagaland": 242,
+          "Meghalaya": 236,
+          "Manipur": 228,
+          "Mizoram": 223,
+          "Sikkim": 217,
+          "Tripura": 161
+        },
+        "by_year": {
+          "1998": 53,
+          "1999": 41,
+          "2000": 206,
+          "2001": 188,
+          "2002": 160,
+          "2003": 178,
+          "2004": 178,
+          "2005": 177,
+          "2006": 182,
+          "2007": 230,
+          "2008": 227,
+          "2009": 247,
+          "2010": 226,
+          "2011": 243,
+          "2012": 227,
+          "2013": 222,
+          "2014": 242,
+          "2015": 222,
+          "2016": 221,
+          "2017": 218,
+          "2018": 235,
+          "2019": 180,
+          "2020": 221,
+          "2021": 238,
+          "2022": 228
+        },
+        "by_source": {
+          "negative_sample_synthetic": 2994,
+          "isro_atlas_synthetic": 1198,
+          "nasa_coolr_synthetic": 798
+        },
+        "missing_values": {
+          "canonical_event_id": {
+            "count": 0,
+            "pct": 0.0
+          },
+          "latitude": {
+            "count": 0,
+            "pct": 0.0
+          },
+          "longitude": {
+            "count": 0,
+            "pct": 0.0
+          },
+          "date": {
+            "count": 0,
+            "pct": 0.0
+          },
+          "state": {
+            "count": 0,
+            "pct": 0.0
+          },
+          "district": {
+            "count": 2994,
+            "pct": 60.0
+          },
+          "event_type": {
+            "count": 0,
+            "pct": 0.0
+          },
+          "trigger": {
+            "count": 0,
+            "pct": 0.0
+          },
+          "severity": {
+            "count": 0,
+            "pct": 0.0
+          },
+          "data_source": {
+            "count": 0,
+            "pct": 0.0
+          },
+          "data_quality": {
+            "count": 0,
+            "pct": 0.0
+          },
+          "landslide_event": {
+            "count": 0,
+            "pct": 0.0
+          },
+          "rainfall_1h": {
+            "count": 0,
+            "pct": 0.0
+          },
+          "rainfall_6h": {
+            "count": 0,
+            "pct": 0.0
+          },
+          "rainfall_12h": {
+            "count": 0,
+            "pct": 0.0
+          },
+          "rainfall_24h": {
+            "count": 0,
+            "pct": 0.0
+          },
+          "rainfall_48h": {
+            "count": 0,
+            "pct": 0.0
+          },
+          "rainfall_7d": {
+            "count": 0,
+            "pct": 0.0
+          },
+          "rainfall_intensity": {
+            "count": 0,
+            "pct": 0.0
+          },
+          "rainfall_data_source": {
+            "count": 0,
+            "pct": 0.0
+          },
+          "elevation": {
+            "count": 4990,
+            "pct": 100.0
+          },
+          "slope": {
+            "count": 4990,
+            "pct": 100.0
+          },
+          "aspect": {
+            "count": 4990,
+            "pct": 100.0
+          },
+          "curvature": {
+            "count": 4990,
+            "pct": 100.0
+          },
+          "terrain_ruggedness": {
+            "count": 4990,
+            "pct": 100.0
+          },
+          "soil_moisture": {
+            "count": 4990,
+            "pct": 100.0
+          },
+          "soil_texture": {
+            "count": 4990,
+            "pct": 100.0
+          },
+          "soil_ph": {
+            "count": 4990,
+            "pct": 100.0
+          },
+          "soil_organic_carbon": {
+            "count": 4990,
+            "pct": 100.0
+          },
+          "ndvi": {
+            "count": 4990,
+            "pct": 100.0
+          },
+          "land_cover": {
+            "count": 4990,
+            "pct": 100.0
+          },
+          "ground_displacement": {
+            "count": 4990,
+            "pct": 100.0
+          },
+          "historical_landslide_frequency": {
+            "count": 0,
+            "pct": 0.0
+          },
+          "historical_landslide_distance": {
+            "count": 0,
+            "pct": 0.0
+          },
+          "population_exposure": {
+            "count": 0,
+            "pct": 0.0
+          },
+          "infrastructure_exposure": {
+            "count": 0,
+            "pct": 0.0
+          },
+          "distance_to_road": {
+            "count": 0,
+            "pct": 0.0
+          },
+          "distance_to_river": {
+            "count": 0,
+            "pct": 0.0
+          },
+          "is_ner": {
+            "count": 0,
+            "pct": 0.0
+          }
+        },
+        "validity_issues": {},
+        "invalid_record_count": 0,
+        "target_check": {
+          "present": true,
+          "missing_count": 0,
+          "valid": true
+        },
+        "event_id_duplicates": {
+          "checked": true,
+          "duplicate_event_ids": 0,
+          "valid": true
+        },
+        "source_quality_check": {
+          "issues": [],
+          "valid": true
+        },
+        "duplicate_rows": {
+          "duplicate_rows": 0,
+          "key_cols": [
+            "latitude",
+            "longitude",
+            "date",
+            "landslide_event"
+          ]
+        },
+        "feature_distributions": {
+          "rainfall_1h": {
+            "count": 4990,
+            "mean": 2.6518,
+            "std": 5.5427,
+            "min": 0.0,
+            "p25": 0.18,
+            "p50": 0.72,
+            "p75": 2.57,
+            "max": 99.94,
+            "missing_pct": 0.0
+          },
+          "rainfall_6h": {
+            "count": 4990,
+            "mean": 15.5178,
+            "std": 31.7932,
+            "min": 0.0,
+            "p25": 1.37,
+            "p50": 5.07,
+            "p75": 14.7825,
+            "max": 430.48,
+            "missing_pct": 0.0
+          },
+          "rainfall_12h": {
+            "count": 4990,
+            "mean": 34.4535,
+            "std": 93.244,
+            "min": 0.0,
+            "p25": 1.93,
+            "p50": 7.02,
+            "p75": 29.39,
+            "max": 788.97,
+            "missing_pct": 0.0
+          },
+          "rainfall_24h": {
+            "count": 4990,
+            "mean": 54.9857,
+            "std": 64.5352,
+            "min": 0.03,
+            "p25": 11.64,
+            "p50": 32.57,
+            "p75": 67.62,
+            "max": 350.0,
+            "missing_pct": 0.0
+          },
+          "rainfall_48h": {
+            "count": 4990,
+            "mean": 85.7031,
+            "std": 109.1082,
+            "min": 0.05,
+            "p25": 15.8325,
+            "p50": 46.96,
+            "p75": 121.27,
+            "max": 2315.09,
+            "missing_pct": 0.0
+          },
+          "rainfall_7d": {
+            "count": 4990,
+            "mean": 193.404,
+            "std": 274.6407,
+            "min": 0.07,
+            "p25": 31.0075,
+            "p50": 92.81,
+            "p75": 229.395,
+            "max": 3451.47,
+            "missing_pct": 0.0
+          },
+          "rainfall_intensity": {
+            "count": 4990,
+            "mean": 2.6519,
+            "std": 5.5426,
+            "min": 0.0,
+            "p25": 0.184,
+            "p50": 0.7195,
+            "p75": 2.5743,
+            "max": 99.938,
+            "missing_pct": 0.0
+          },
+          "soil_moisture": {
+            "count": 0,
+            "all_missing": true
+          },
+          "soil_ph": {
+            "count": 0,
+            "all_missing": true
+          },
+          "soil_organic_carbon": {
+            "count": 0,
+            "all_missing": true
+          },
+          "elevation": {
+            "count": 0,
+            "all_missing": true
+          },
+          "slope": {
+            "count": 0,
+            "all_missing": true
+          },
+          "aspect": {
+            "count": 0,
+            "all_missing": true
+          },
+          "curvature": {
+            "count": 0,
+            "all_missing": true
+          },
+          "terrain_ruggedness": {
+            "count": 0,
+            "all_missing": true
+          },
+          "ndvi": {
+            "count": 0,
+            "all_missing": true
+          },
+          "ground_displacement": {
+            "count": 0,
+            "all_missing": true
+          },
+          "historical_landslide_frequency": {
+            "count": 4990,
+            "mean": 3.5912,
+            "std": 4.9689,
+            "min": 0.0,
+            "p25": 0.0,
+            "p50": 0.0,
+            "p75": 7.0,
+            "max": 22.0,
+            "missing_pct": 0.0
+          },
+          "historical_landslide_distance": {
+            "count": 4990,
+            "mean": 21.4105,
+            "std": 23.7368,
+            "min": 0.0,
+            "p25": 0.0,
+            "p50": 14.17,
+            "p75": 37.6475,
+            "max": 106.611,
+            "missing_pct": 0.0
+          },
+          "population_exposure": {
+            "count": 4990,
+            "mean": 502.1307,
+            "std": 522.7156,
+            "min": 0.0,
+            "p25": 142.25,
+            "p50": 331.0,
+            "p75": 681.75,
+            "max": 5199.0,
+            "missing_pct": 0.0
+          },
+          "infrastructure_exposure": {
+            "count": 4990,
+            "mean": 4.9642,
+            "std": 5.0228,
+            "min": 0.0,
+            "p25": 1.41,
+            "p50": 3.36,
+            "p75": 6.88,
+            "max": 45.38,
+            "missing_pct": 0.0
+          },
+          "distance_to_road": {
+            "count": 4990,
+            "mean": 2.9964,
+            "std": 2.9673,
+            "min": 0.0,
+            "p25": 0.89,
+            "p50": 2.09,
+            "p75": 4.16,
+            "max": 27.82,
+            "missing_pct": 0.0
+          },
+          "distance_to_river": {
+            "count": 4990,
+            "mean": 1.9715,
+            "std": 1.9868,
+            "min": 0.0,
+            "p25": 0.56,
+            "p50": 1.36,
+            "p75": 2.74,
+            "max": 17.0,
+            "missing_pct": 0.0
+          }
+        }
+      },
+      "train": {
+        "total_records": 4303,
+        "columns": 40,
+        "class_balance": {
+          "positive": 1705,
+          "negative": 2598,
+          "ratio_pos_neg": 0.656
+        },
+        "by_state": {
+          "NER": 2598,
+          "Arunachal Pradesh": 299,
+          "Assam": 281,
+          "Meghalaya": 211,
+          "Nagaland": 209,
+          "Manipur": 192,
+          "Sikkim": 187,
+          "Mizoram": 186,
+          "Tripura": 140
+        },
+        "by_year": {
+          "1998": 53,
+          "1999": 41,
+          "2000": 206,
+          "2001": 188,
+          "2002": 160,
+          "2003": 178,
+          "2004": 178,
+          "2005": 177,
+          "2006": 182,
+          "2007": 230,
+          "2008": 227,
+          "2009": 247,
+          "2010": 226,
+          "2011": 243,
+          "2012": 227,
+          "2013": 222,
+          "2014": 242,
+          "2015": 222,
+          "2016": 221,
+          "2017": 218,
+          "2018": 235,
+          "2019": 180
+        },
+        "by_source": {
+          "negative_sample_synthetic": 2598,
+          "isro_atlas_synthetic": 1066,
+          "nasa_coolr_synthetic": 639
+        },
+        "missing_values": {
+          "canonical_event_id": {
+            "count": 0,
+            "pct": 0.0
+          },
+          "latitude": {
+            "count": 0,
+            "pct": 0.0
+          },
+          "longitude": {
+            "count": 0,
+            "pct": 0.0
+          },
+          "date": {
+            "count": 0,
+            "pct": 0.0
+          },
+          "state": {
+            "count": 0,
+            "pct": 0.0
+          },
+          "district": {
+            "count": 2598,
+            "pct": 60.38
+          },
+          "event_type": {
+            "count": 0,
+            "pct": 0.0
+          },
+          "trigger": {
+            "count": 0,
+            "pct": 0.0
+          },
+          "severity": {
+            "count": 0,
+            "pct": 0.0
+          },
+          "data_source": {
+            "count": 0,
+            "pct": 0.0
+          },
+          "data_quality": {
+            "count": 0,
+            "pct": 0.0
+          },
+          "landslide_event": {
+            "count": 0,
+            "pct": 0.0
+          },
+          "rainfall_1h": {
+            "count": 0,
+            "pct": 0.0
+          },
+          "rainfall_6h": {
+            "count": 0,
+            "pct": 0.0
+          },
+          "rainfall_12h": {
+            "count": 0,
+            "pct": 0.0
+          },
+          "rainfall_24h": {
+            "count": 0,
+            "pct": 0.0
+          },
+          "rainfall_48h": {
+            "count": 0,
+            "pct": 0.0
+          },
+          "rainfall_7d": {
+            "count": 0,
+            "pct": 0.0
+          },
+          "rainfall_intensity": {
+            "count": 0,
+            "pct": 0.0
+          },
+          "rainfall_data_source": {
+            "count": 0,
+            "pct": 0.0
+          },
+          "elevation": {
+            "count": 4303,
+            "pct": 100.0
+          },
+          "slope": {
+            "count": 4303,
+            "pct": 100.0
+          },
+          "aspect": {
+            "count": 4303,
+            "pct": 100.0
+          },
+          "curvature": {
+            "count": 4303,
+            "pct": 100.0
+          },
+          "terrain_ruggedness": {
+            "count": 4303,
+            "pct": 100.0
+          },
+          "soil_moisture": {
+            "count": 4303,
+            "pct": 100.0
+          },
+          "soil_texture": {
+            "count": 4303,
+            "pct": 100.0
+          },
+          "soil_ph": {
+            "count": 4303,
+            "pct": 100.0
+          },
+          "soil_organic_carbon": {
+            "count": 4303,
+            "pct": 100.0
+          },
+          "ndvi": {
+            "count": 4303,
+            "pct": 100.0
+          },
+          "land_cover": {
+            "count": 4303,
+            "pct": 100.0
+          },
+          "ground_displacement": {
+            "count": 4303,
+            "pct": 100.0
+          },
+          "historical_landslide_frequency": {
+            "count": 0,
+            "pct": 0.0
+          },
+          "historical_landslide_distance": {
+            "count": 0,
+            "pct": 0.0
+          },
+          "population_exposure": {
+            "count": 0,
+            "pct": 0.0
+          },
+          "infrastructure_exposure": {
+            "count": 0,
+            "pct": 0.0
+          },
+          "distance_to_road": {
+            "count": 0,
+            "pct": 0.0
+          },
+          "distance_to_river": {
+            "count": 0,
+            "pct": 0.0
+          },
+          "is_ner": {
+            "count": 0,
+            "pct": 0.0
+          },
+          "split": {
+            "count": 0,
+            "pct": 0.0
+          }
+        },
+        "validity_issues": {},
+        "invalid_record_count": 0,
+        "target_check": {
+          "present": true,
+          "missing_count": 0,
+          "valid": true
+        },
+        "event_id_duplicates": {
+          "checked": true,
+          "duplicate_event_ids": 0,
+          "valid": true
+        },
+        "source_quality_check": {
+          "issues": [],
+          "valid": true
+        },
+        "duplicate_rows": {
+          "duplicate_rows": 0,
+          "key_cols": [
+            "latitude",
+            "longitude",
+            "date",
+            "landslide_event"
+          ]
+        },
+        "feature_distributions": {
+          "rainfall_1h": {
+            "count": 4303,
+            "mean": 2.6528,
+            "std": 5.4357,
+            "min": 0.0,
+            "p25": 0.19,
+            "p50": 0.72,
+            "p75": 2.58,
+            "max": 55.97,
+            "missing_pct": 0.0
+          },
+          "rainfall_6h": {
+            "count": 4303,
+            "mean": 15.6448,
+            "std": 32.4542,
+            "min": 0.0,
+            "p25": 1.37,
+            "p50": 5.07,
+            "p75": 14.76,
+            "max": 430.48,
+            "missing_pct": 0.0
+          },
+          "rainfall_12h": {
+            "count": 4303,
+            "mean": 34.6941,
+            "std": 93.7883,
+            "min": 0.0,
+            "p25": 1.93,
+            "p50": 7.02,
+            "p75": 29.39,
+            "max": 788.97,
+            "missing_pct": 0.0
+          },
+          "rainfall_24h": {
+            "count": 4303,
+            "mean": 55.0839,
+            "std": 64.5946,
+            "min": 0.03,
+            "p25": 11.64,
+            "p50": 32.57,
+            "p75": 67.62,
+            "max": 350.0,
+            "missing_pct": 0.0
+          },
+          "rainfall_48h": {
+            "count": 4303,
+            "mean": 85.7231,
+            "std": 109.6669,
+            "min": 0.05,
+            "p25": 16.005,
+            "p50": 46.09,
+            "p75": 121.27,
+            "max": 2315.09,
+            "missing_pct": 0.0
+          },
+          "rainfall_7d": {
+            "count": 4303,
+            "mean": 191.2795,
+            "std": 268.7666,
+            "min": 0.07,
+            "p25": 31.185,
+            "p50": 92.81,
+            "p75": 224.59,
+            "max": 3451.47,
+            "missing_pct": 0.0
+          },
+          "rainfall_intensity": {
+            "count": 4303,
+            "mean": 2.6529,
+            "std": 5.4357,
+            "min": 0.0,
+            "p25": 0.1875,
+            "p50": 0.723,
+            "p75": 2.576,
+            "max": 55.974,
+            "missing_pct": 0.0
+          },
+          "soil_moisture": {
+            "count": 0,
+            "all_missing": true
+          },
+          "soil_ph": {
+            "count": 0,
+            "all_missing": true
+          },
+          "soil_organic_carbon": {
+            "count": 0,
+            "all_missing": true
+          },
+          "elevation": {
+            "count": 0,
+            "all_missing": true
+          },
+          "slope": {
+            "count": 0,
+            "all_missing": true
+          },
+          "aspect": {
+            "count": 0,
+            "all_missing": true
+          },
+          "curvature": {
+            "count": 0,
+            "all_missing": true
+          },
+          "terrain_ruggedness": {
+            "count": 0,
+            "all_missing": true
+          },
+          "ndvi": {
+            "count": 0,
+            "all_missing": true
+          },
+          "ground_displacement": {
+            "count": 0,
+            "all_missing": true
+          },
+          "historical_landslide_frequency": {
+            "count": 4303,
+            "mean": 3.5643,
+            "std": 4.9524,
+            "min": 0.0,
+            "p25": 0.0,
+            "p50": 0.0,
+            "p75": 7.0,
+            "max": 22.0,
+            "missing_pct": 0.0
+          },
+          "historical_landslide_distance": {
+            "count": 4303,
+            "mean": 21.6217,
+            "std": 23.8662,
+            "min": 0.0,
+            "p25": 0.0,
+            "p50": 14.399,
+            "p75": 37.7885,
+            "max": 106.611,
+            "missing_pct": 0.0
+          },
+          "population_exposure": {
+            "count": 4303,
+            "mean": 501.8266,
+            "std": 523.3029,
+            "min": 0.0,
+            "p25": 144.0,
+            "p50": 331.0,
+            "p75": 680.0,
+            "max": 5199.0,
+            "missing_pct": 0.0
+          },
+          "infrastructure_exposure": {
+            "count": 4303,
+            "mean": 4.9445,
+            "std": 4.9467,
+            "min": 0.0,
+            "p25": 1.44,
+            "p50": 3.39,
+            "p75": 6.865,
+            "max": 45.38,
+            "missing_pct": 0.0
+          },
+          "distance_to_road": {
+            "count": 4303,
+            "mean": 2.9912,
+            "std": 2.9592,
+            "min": 0.0,
+            "p25": 0.88,
+            "p50": 2.11,
+            "p75": 4.15,
+            "max": 27.82,
+            "missing_pct": 0.0
+          },
+          "distance_to_river": {
+            "count": 4303,
+            "mean": 1.9892,
+            "std": 1.9722,
+            "min": 0.0,
+            "p25": 0.57,
+            "p50": 1.39,
+            "p75": 2.77,
+            "max": 17.0,
+            "missing_pct": 0.0
+          }
+        }
+      },
+      "val": {
+        "total_records": 459,
+        "columns": 40,
+        "class_balance": {
+          "positive": 198,
+          "negative": 261,
+          "ratio_pos_neg": 0.759
+        },
+        "by_state": {
+          "NER": 261,
+          "Arunachal Pradesh": 41,
+          "Assam": 34,
+          "Mizoram": 25,
+          "Manipur": 23,
+          "Nagaland": 23,
+          "Sikkim": 21,
+          "Meghalaya": 20,
+          "Tripura": 11
+        },
+        "by_year": {
+          "2020": 221,
+          "2021": 238
+        },
+        "by_source": {
+          "negative_sample_synthetic": 261,
+          "nasa_coolr_synthetic": 112,
+          "isro_atlas_synthetic": 86
+        },
+        "missing_values": {
+          "canonical_event_id": {
+            "count": 0,
+            "pct": 0.0
+          },
+          "latitude": {
+            "count": 0,
+            "pct": 0.0
+          },
+          "longitude": {
+            "count": 0,
+            "pct": 0.0
+          },
+          "date": {
+            "count": 0,
+            "pct": 0.0
+          },
+          "state": {
+            "count": 0,
+            "pct": 0.0
+          },
+          "district": {
+            "count": 261,
+            "pct": 56.86
+          },
+          "event_type": {
+            "count": 0,
+            "pct": 0.0
+          },
+          "trigger": {
+            "count": 0,
+            "pct": 0.0
+          },
+          "severity": {
+            "count": 0,
+            "pct": 0.0
+          },
+          "data_source": {
+            "count": 0,
+            "pct": 0.0
+          },
+          "data_quality": {
+            "count": 0,
+            "pct": 0.0
+          },
+          "landslide_event": {
+            "count": 0,
+            "pct": 0.0
+          },
+          "rainfall_1h": {
+            "count": 0,
+            "pct": 0.0
+          },
+          "rainfall_6h": {
+            "count": 0,
+            "pct": 0.0
+          },
+          "rainfall_12h": {
+            "count": 0,
+            "pct": 0.0
+          },
+          "rainfall_24h": {
+            "count": 0,
+            "pct": 0.0
+          },
+          "rainfall_48h": {
+            "count": 0,
+            "pct": 0.0
+          },
+          "rainfall_7d": {
+            "count": 0,
+            "pct": 0.0
+          },
+          "rainfall_intensity": {
+            "count": 0,
+            "pct": 0.0
+          },
+          "rainfall_data_source": {
+            "count": 0,
+            "pct": 0.0
+          },
+          "elevation": {
+            "count": 459,
+            "pct": 100.0
+          },
+          "slope": {
+            "count": 459,
+            "pct": 100.0
+          },
+          "aspect": {
+            "count": 459,
+            "pct": 100.0
+          },
+          "curvature": {
+            "count": 459,
+            "pct": 100.0
+          },
+          "terrain_ruggedness": {
+            "count": 459,
+            "pct": 100.0
+          },
+          "soil_moisture": {
+            "count": 459,
+            "pct": 100.0
+          },
+          "soil_texture": {
+            "count": 459,
+            "pct": 100.0
+          },
+          "soil_ph": {
+            "count": 459,
+            "pct": 100.0
+          },
+          "soil_organic_carbon": {
+            "count": 459,
+            "pct": 100.0
+          },
+          "ndvi": {
+            "count": 459,
+            "pct": 100.0
+          },
+          "land_cover": {
+            "count": 459,
+            "pct": 100.0
+          },
+          "ground_displacement": {
+            "count": 459,
+            "pct": 100.0
+          },
+          "historical_landslide_frequency": {
+            "count": 0,
+            "pct": 0.0
+          },
+          "historical_landslide_distance": {
+            "count": 0,
+            "pct": 0.0
+          },
+          "population_exposure": {
+            "count": 0,
+            "pct": 0.0
+          },
+          "infrastructure_exposure": {
+            "count": 0,
+            "pct": 0.0
+          },
+          "distance_to_road": {
+            "count": 0,
+            "pct": 0.0
+          },
+          "distance_to_river": {
+            "count": 0,
+            "pct": 0.0
+          },
+          "is_ner": {
+            "count": 0,
+            "pct": 0.0
+          },
+          "split": {
+            "count": 0,
+            "pct": 0.0
+          }
+        },
+        "validity_issues": {},
+        "invalid_record_count": 0,
+        "target_check": {
+          "present": true,
+          "missing_count": 0,
+          "valid": true
+        },
+        "event_id_duplicates": {
+          "checked": true,
+          "duplicate_event_ids": 0,
+          "valid": true
+        },
+        "source_quality_check": {
+          "issues": [],
+          "valid": true
+        },
+        "duplicate_rows": {
+          "duplicate_rows": 0,
+          "key_cols": [
+            "latitude",
+            "longitude",
+            "date",
+            "landslide_event"
+          ]
+        },
+        "feature_distributions": {
+          "rainfall_1h": {
+            "count": 459,
+            "mean": 2.5812,
+            "std": 5.1628,
+            "min": 0.0,
+            "p25": 0.21,
+            "p50": 0.85,
+            "p75": 2.53,
+            "max": 42.95,
+            "missing_pct": 0.0
+          },
+          "rainfall_6h": {
+            "count": 459,
+            "mean": 14.7763,
+            "std": 25.5975,
+            "min": 0.02,
+            "p25": 1.44,
+            "p50": 5.07,
+            "p75": 16.23,
+            "max": 181.41,
+            "missing_pct": 0.0
+          },
+          "rainfall_12h": {
+            "count": 459,
+            "mean": 34.754,
+            "std": 96.7882,
+            "min": 0.01,
+            "p25": 2.07,
+            "p50": 7.61,
+            "p75": 30.085,
+            "max": 788.97,
+            "missing_pct": 0.0
+          },
+          "rainfall_24h": {
+            "count": 459,
+            "mean": 55.1527,
+            "std": 63.4351,
+            "min": 0.03,
+            "p25": 11.35,
+            "p50": 32.29,
+            "p75": 67.995,
+            "max": 350.0,
+            "missing_pct": 0.0
+          },
+          "rainfall_48h": {
+            "count": 459,
+            "mean": 88.1661,
+            "std": 108.3319,
+            "min": 0.05,
+            "p25": 15.485,
+            "p50": 49.04,
+            "p75": 117.945,
+            "max": 732.93,
+            "missing_pct": 0.0
+          },
+          "rainfall_7d": {
+            "count": 459,
+            "mean": 209.7158,
+            "std": 313.7483,
+            "min": 0.07,
+            "p25": 32.24,
+            "p50": 97.14,
+            "p75": 245.765,
+            "max": 2739.25,
+            "missing_pct": 0.0
+          },
+          "rainfall_intensity": {
+            "count": 459,
+            "mean": 2.5814,
+            "std": 5.1626,
+            "min": 0.0,
+            "p25": 0.212,
+            "p50": 0.846,
+            "p75": 2.529,
+            "max": 42.949,
+            "missing_pct": 0.0
+          },
+          "soil_moisture": {
+            "count": 0,
+            "all_missing": true
+          },
+          "soil_ph": {
+            "count": 0,
+            "all_missing": true
+          },
+          "soil_organic_carbon": {
+            "count": 0,
+            "all_missing": true
+          },
+          "elevation": {
+            "count": 0,
+            "all_missing": true
+          },
+          "slope": {
+            "count": 0,
+            "all_missing": true
+          },
+          "aspect": {
+            "count": 0,
+            "all_missing": true
+          },
+          "curvature": {
+            "count": 0,
+            "all_missing": true
+          },
+          "terrain_ruggedness": {
+            "count": 0,
+            "all_missing": true
+          },
+          "ndvi": {
+            "count": 0,
+            "all_missing": true
+          },
+          "ground_displacement": {
+            "count": 0,
+            "all_missing": true
+          },
+          "historical_landslide_frequency": {
+            "count": 459,
+            "mean": 3.7342,
+            "std": 4.9662,
+            "min": 0.0,
+            "p25": 0.0,
+            "p50": 0.0,
+            "p75": 7.0,
+            "max": 21.0,
+            "missing_pct": 0.0
+          },
+          "historical_landslide_distance": {
+            "count": 459,
+            "mean": 19.5143,
+            "std": 22.9479,
+            "min": 0.0,
+            "p25": 0.0,
+            "p50": 11.995,
+            "p75": 32.5855,
+            "max": 91.169,
+            "missing_pct": 0.0
+          },
+          "population_exposure": {
+            "count": 459,
+            "mean": 490.3377,
+            "std": 474.6955,
+            "min": 2.0,
+            "p25": 136.5,
+            "p50": 336.0,
+            "p75": 690.0,
+            "max": 2974.0,
+            "missing_pct": 0.0
+          },
+          "infrastructure_exposure": {
+            "count": 459,
+            "mean": 5.1303,
+            "std": 5.4984,
+            "min": 0.0,
+            "p25": 1.38,
+            "p50": 3.25,
+            "p75": 6.78,
+            "max": 34.24,
+            "missing_pct": 0.0
+          },
+          "distance_to_road": {
+            "count": 459,
+            "mean": 3.1184,
+            "std": 3.0361,
+            "min": 0.01,
+            "p25": 0.955,
+            "p50": 2.12,
+            "p75": 4.54,
+            "max": 16.75,
+            "missing_pct": 0.0
+          },
+          "distance_to_river": {
+            "count": 459,
+            "mean": 1.9449,
+            "std": 2.2174,
+            "min": 0.0,
+            "p25": 0.515,
+            "p50": 1.29,
+            "p75": 2.68,
+            "max": 16.36,
+            "missing_pct": 0.0
+          }
+        }
+      },
+      "test": {
+        "total_records": 228,
+        "columns": 40,
+        "class_balance": {
+          "positive": 93,
+          "negative": 135,
+          "ratio_pos_neg": 0.689
+        },
+        "by_state": {
+          "NER": 135,
+          "Arunachal Pradesh": 18,
+          "Assam": 16,
+          "Manipur": 13,
+          "Mizoram": 12,
+          "Tripura": 10,
+          "Nagaland": 10,
+          "Sikkim": 9,
+          "Meghalaya": 5
+        },
+        "by_year": {
+          "2022": 228
+        },
+        "by_source": {
+          "negative_sample_synthetic": 135,
+          "nasa_coolr_synthetic": 47,
+          "isro_atlas_synthetic": 46
+        },
+        "missing_values": {
+          "canonical_event_id": {
+            "count": 0,
+            "pct": 0.0
+          },
+          "latitude": {
+            "count": 0,
+            "pct": 0.0
+          },
+          "longitude": {
+            "count": 0,
+            "pct": 0.0
+          },
+          "date": {
+            "count": 0,
+            "pct": 0.0
+          },
+          "state": {
+            "count": 0,
+            "pct": 0.0
+          },
+          "district": {
+            "count": 135,
+            "pct": 59.21
+          },
+          "event_type": {
+            "count": 0,
+            "pct": 0.0
+          },
+          "trigger": {
+            "count": 0,
+            "pct": 0.0
+          },
+          "severity": {
+            "count": 0,
+            "pct": 0.0
+          },
+          "data_source": {
+            "count": 0,
+            "pct": 0.0
+          },
+          "data_quality": {
+            "count": 0,
+            "pct": 0.0
+          },
+          "landslide_event": {
+            "count": 0,
+            "pct": 0.0
+          },
+          "rainfall_1h": {
+            "count": 0,
+            "pct": 0.0
+          },
+          "rainfall_6h": {
+            "count": 0,
+            "pct": 0.0
+          },
+          "rainfall_12h": {
+            "count": 0,
+            "pct": 0.0
+          },
+          "rainfall_24h": {
+            "count": 0,
+            "pct": 0.0
+          },
+          "rainfall_48h": {
+            "count": 0,
+            "pct": 0.0
+          },
+          "rainfall_7d": {
+            "count": 0,
+            "pct": 0.0
+          },
+          "rainfall_intensity": {
+            "count": 0,
+            "pct": 0.0
+          },
+          "rainfall_data_source": {
+            "count": 0,
+            "pct": 0.0
+          },
+          "elevation": {
+            "count": 228,
+            "pct": 100.0
+          },
+          "slope": {
+            "count": 228,
+            "pct": 100.0
+          },
+          "aspect": {
+            "count": 228,
+            "pct": 100.0
+          },
+          "curvature": {
+            "count": 228,
+            "pct": 100.0
+          },
+          "terrain_ruggedness": {
+            "count": 228,
+            "pct": 100.0
+          },
+          "soil_moisture": {
+            "count": 228,
+            "pct": 100.0
+          },
+          "soil_texture": {
+            "count": 228,
+            "pct": 100.0
+          },
+          "soil_ph": {
+            "count": 228,
+            "pct": 100.0
+          },
+          "soil_organic_carbon": {
+            "count": 228,
+            "pct": 100.0
+          },
+          "ndvi": {
+            "count": 228,
+            "pct": 100.0
+          },
+          "land_cover": {
+            "count": 228,
+            "pct": 100.0
+          },
+          "ground_displacement": {
+            "count": 228,
+            "pct": 100.0
+          },
+          "historical_landslide_frequency": {
+            "count": 0,
+            "pct": 0.0
+          },
+          "historical_landslide_distance": {
+            "count": 0,
+            "pct": 0.0
+          },
+          "population_exposure": {
+            "count": 0,
+            "pct": 0.0
+          },
+          "infrastructure_exposure": {
+            "count": 0,
+            "pct": 0.0
+          },
+          "distance_to_road": {
+            "count": 0,
+            "pct": 0.0
+          },
+          "distance_to_river": {
+            "count": 0,
+            "pct": 0.0
+          },
+          "is_ner": {
+            "count": 0,
+            "pct": 0.0
+          },
+          "split": {
+            "count": 0,
+            "pct": 0.0
+          }
+        },
+        "validity_issues": {},
+        "invalid_record_count": 0,
+        "target_check": {
+          "present": true,
+          "missing_count": 0,
+          "valid": true
+        },
+        "event_id_duplicates": {
+          "checked": true,
+          "duplicate_event_ids": 0,
+          "valid": true
+        },
+        "source_quality_check": {
+          "issues": [],
+          "valid": true
+        },
+        "duplicate_rows": {
+          "duplicate_rows": 0,
+          "key_cols": [
+            "latitude",
+            "longitude",
+            "date",
+            "landslide_event"
+          ]
+        },
+        "feature_distributions": {
+          "rainfall_1h": {
+            "count": 228,
+            "mean": 2.7738,
+            "std": 7.8379,
+            "min": 0.0,
+            "p25": 0.13,
+            "p50": 0.635,
+            "p75": 2.3325,
+            "max": 99.94,
+            "missing_pct": 0.0
+          },
+          "rainfall_6h": {
+            "count": 228,
+            "mean": 14.615,
+            "std": 30.4971,
+            "min": 0.0,
+            "p25": 1.37,
+            "p50": 4.425,
+            "p75": 14.37,
+            "max": 329.94,
+            "missing_pct": 0.0
+          },
+          "rainfall_12h": {
+            "count": 228,
+            "mean": 29.307,
+            "std": 73.8571,
+            "min": 0.02,
+            "p25": 1.0675,
+            "p50": 6.28,
+            "p75": 21.94,
+            "max": 788.97,
+            "missing_pct": 0.0
+          },
+          "rainfall_24h": {
+            "count": 228,
+            "mean": 52.795,
+            "std": 65.8402,
+            "min": 0.04,
+            "p25": 9.44,
+            "p50": 30.955,
+            "p75": 66.3475,
+            "max": 350.0,
+            "missing_pct": 0.0
+          },
+          "rainfall_48h": {
+            "count": 228,
+            "mean": 80.3678,
+            "std": 99.9628,
+            "min": 0.05,
+            "p25": 13.29,
+            "p50": 41.9,
+            "p75": 113.02,
+            "max": 745.36,
+            "missing_pct": 0.0
+          },
+          "rainfall_7d": {
+            "count": 228,
+            "mean": 200.6607,
+            "std": 299.1379,
+            "min": 0.31,
+            "p25": 26.1925,
+            "p50": 79.06,
+            "p75": 265.015,
+            "max": 2061.48,
+            "missing_pct": 0.0
+          },
+          "rainfall_intensity": {
+            "count": 228,
+            "mean": 2.7737,
+            "std": 7.8377,
+            "min": 0.001,
+            "p25": 0.127,
+            "p50": 0.6335,
+            "p75": 2.3315,
+            "max": 99.938,
+            "missing_pct": 0.0
+          },
+          "soil_moisture": {
+            "count": 0,
+            "all_missing": true
+          },
+          "soil_ph": {
+            "count": 0,
+            "all_missing": true
+          },
+          "soil_organic_carbon": {
+            "count": 0,
+            "all_missing": true
+          },
+          "elevation": {
+            "count": 0,
+            "all_missing": true
+          },
+          "slope": {
+            "count": 0,
+            "all_missing": true
+          },
+          "aspect": {
+            "count": 0,
+            "all_missing": true
+          },
+          "curvature": {
+            "count": 0,
+            "all_missing": true
+          },
+          "terrain_ruggedness": {
+            "count": 0,
+            "all_missing": true
+          },
+          "ndvi": {
+            "count": 0,
+            "all_missing": true
+          },
+          "ground_displacement": {
+            "count": 0,
+            "all_missing": true
+          },
+          "historical_landslide_frequency": {
+            "count": 228,
+            "mean": 3.8114,
+            "std": 5.2877,
+            "min": 0.0,
+            "p25": 0.0,
+            "p50": 0.0,
+            "p75": 7.0,
+            "max": 20.0,
+            "missing_pct": 0.0
+          },
+          "historical_landslide_distance": {
+            "count": 228,
+            "mean": 21.2417,
+            "std": 22.7567,
+            "min": 0.0,
+            "p25": 0.0,
+            "p50": 14.189,
+            "p75": 38.5023,
+            "max": 82.017,
+            "missing_pct": 0.0
+          },
+          "population_exposure": {
+            "count": 228,
+            "mean": 531.6096,
+            "std": 599.5643,
+            "min": 0.0,
+            "p25": 112.75,
+            "p50": 321.0,
+            "p75": 685.5,
+            "max": 3429.0,
+            "missing_pct": 0.0
+          },
+          "infrastructure_exposure": {
+            "count": 228,
+            "mean": 5.002,
+            "std": 5.4471,
+            "min": 0.02,
+            "p25": 1.0575,
+            "p50": 2.985,
+            "p75": 7.32,
+            "max": 36.09,
+            "missing_pct": 0.0
+          },
+          "distance_to_road": {
+            "count": 228,
+            "mean": 2.8492,
+            "std": 2.9846,
+            "min": 0.03,
+            "p25": 0.965,
+            "p50": 1.855,
+            "p75": 3.69,
+            "max": 18.75,
+            "missing_pct": 0.0
+          },
+          "distance_to_river": {
+            "count": 228,
+            "mean": 1.6904,
+            "std": 1.7413,
+            "min": 0.0,
+            "p25": 0.455,
+            "p50": 1.085,
+            "p75": 2.2375,
+            "max": 9.52,
+            "missing_pct": 0.0
+          }
+        }
+      }
+    }
+  }
+}

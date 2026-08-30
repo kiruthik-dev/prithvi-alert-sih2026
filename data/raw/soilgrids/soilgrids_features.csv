@@ -1,0 +1,2001 @@
+event_id,latitude,longitude,soil_ph,soil_organic_carbon,soil_texture,soil_moisture,data_source,data_quality
+ISRO-2017-0001,27.269439,95.379299,6.66,35.45,clay,44.38,soilgrids_synthetic,simulated
+ISRO-2001-0002,25.475193,90.935399,4.69,22.98,clay loam,30.14,soilgrids_synthetic,simulated
+ISRO-2011-0003,27.081909,95.363816,6.78,41.74,loam,74.75,soilgrids_synthetic,simulated
+ISRO-2017-0004,23.547319,92.483361,4.71,20.15,clay,52.48,soilgrids_synthetic,simulated
+ISRO-2006-0005,24.43523,93.884778,5.79,4.89,clay,57.38,soilgrids_synthetic,simulated
+ISRO-2008-0006,23.966339,91.400133,5.12,26.68,sandy clay loam,59.61,soilgrids_synthetic,simulated
+ISRO-2015-0007,25.319876,92.549954,6.34,28.09,clay loam,83.2,soilgrids_synthetic,simulated
+ISRO-2009-0008,25.734371,90.119898,4.79,4.7,clay loam,69.73,soilgrids_synthetic,simulated
+ISRO-2013-0009,25.72679,90.329604,5.88,18.5,sandy loam,70.66,soilgrids_synthetic,simulated
+ISRO-2019-0010,23.36697,91.379151,5.3,3.58,sandy clay loam,66.28,soilgrids_synthetic,simulated
+ISRO-2014-0011,23.453193,91.75701,5.64,2.51,clay loam,36.86,soilgrids_synthetic,simulated
+ISRO-2002-0012,26.200522,94.326156,6.01,10.89,silty clay loam,60.34,soilgrids_synthetic,simulated
+ISRO-2007-0013,23.193825,92.509003,6.82,42.84,clay,50.44,soilgrids_synthetic,simulated
+ISRO-2017-0014,25.608445,92.674681,5.17,26.01,silty clay loam,38.83,soilgrids_synthetic,simulated
+ISRO-2005-0015,26.23961,94.338386,5.9,38.74,sandy loam,53.04,soilgrids_synthetic,simulated
+ISRO-2012-0016,27.074923,92.792222,5.5,8.58,sandy clay loam,79.96,soilgrids_synthetic,simulated
+ISRO-2000-0017,23.743822,92.335296,6.0,6.17,silty clay loam,38.88,soilgrids_synthetic,simulated
+ISRO-2021-0018,26.991152,93.141368,5.3,13.86,loam,55.35,soilgrids_synthetic,simulated
+ISRO-2009-0019,25.583488,90.215784,5.26,0.44,loam,75.46,soilgrids_synthetic,simulated
+ISRO-2001-0020,25.727018,90.104288,6.58,5.0,clay loam,49.46,soilgrids_synthetic,simulated
+ISRO-2000-0021,25.608006,91.265107,5.5,32.82,clay,57.88,soilgrids_synthetic,simulated
+ISRO-2005-0022,23.72645,91.495459,5.77,122.03,loam,73.0,soilgrids_synthetic,simulated
+ISRO-2008-0023,26.346188,94.095839,6.32,15.13,clay loam,67.69,soilgrids_synthetic,simulated
+ISRO-2017-0024,27.680831,91.736829,6.59,19.56,silty clay loam,56.51,soilgrids_synthetic,simulated
+ISRO-2001-0025,27.765556,91.626642,5.84,23.66,loam,71.37,soilgrids_synthetic,simulated
+ISRO-2017-0026,23.735913,91.600371,5.48,9.36,silty clay loam,51.98,soilgrids_synthetic,simulated
+ISRO-2001-0027,23.503165,91.697131,5.95,110.03,clay loam,58.84,soilgrids_synthetic,simulated
+ISRO-2001-0028,27.111877,88.813781,5.21,60.64,sandy clay loam,68.96,soilgrids_synthetic,simulated
+ISRO-2005-0029,25.712404,90.76243,6.42,6.27,loam,49.67,soilgrids_synthetic,simulated
+ISRO-2022-0030,27.648021,92.016512,5.7,25.28,clay loam,39.7,soilgrids_synthetic,simulated
+ISRO-2018-0031,26.248409,93.76632,5.83,7.42,clay loam,48.63,soilgrids_synthetic,simulated
+ISRO-2007-0032,26.962941,93.075966,6.88,15.88,clay loam,62.15,soilgrids_synthetic,simulated
+ISRO-2018-0033,27.102639,88.383279,5.53,17.37,sandy loam,70.9,soilgrids_synthetic,simulated
+ISRO-2021-0034,27.032766,88.19236,5.16,0.65,sandy loam,71.3,soilgrids_synthetic,simulated
+ISRO-1999-0035,27.345572,88.690357,6.77,46.76,loam,57.31,soilgrids_synthetic,simulated
+ISRO-1999-0036,25.340749,90.868372,4.8,13.24,loam,31.74,soilgrids_synthetic,simulated
+ISRO-2011-0037,23.600836,91.466729,5.23,78.59,clay loam,45.06,soilgrids_synthetic,simulated
+ISRO-2022-0038,25.651013,92.839739,4.78,27.11,sandy loam,32.11,soilgrids_synthetic,simulated
+ISRO-2019-0039,23.4814,91.542545,4.78,7.82,sandy clay loam,35.26,soilgrids_synthetic,simulated
+ISRO-2003-0040,23.333756,92.633196,6.09,14.96,clay loam,30.21,soilgrids_synthetic,simulated
+ISRO-2020-0041,23.690455,92.414181,6.23,30.62,sandy clay loam,84.84,soilgrids_synthetic,simulated
+ISRO-2013-0042,26.394078,94.117447,6.09,10.35,loam,64.64,soilgrids_synthetic,simulated
+ISRO-2000-0043,23.012858,92.592247,6.68,7.48,loam,63.37,soilgrids_synthetic,simulated
+ISRO-2017-0044,25.147557,94.323014,6.64,13.12,clay loam,63.88,soilgrids_synthetic,simulated
+ISRO-2012-0045,27.036215,92.982993,5.69,20.92,sandy clay loam,74.9,soilgrids_synthetic,simulated
+ISRO-2021-0046,26.809867,92.808552,4.89,0.04,loam,53.26,soilgrids_synthetic,simulated
+ISRO-2006-0047,26.399183,94.631266,4.91,2.88,silty clay loam,70.66,soilgrids_synthetic,simulated
+ISRO-2021-0048,27.268952,95.14166,6.55,6.93,loam,59.3,soilgrids_synthetic,simulated
+ISRO-2007-0049,27.243316,93.10888,6.34,94.05,clay loam,74.68,soilgrids_synthetic,simulated
+ISRO-2012-0050,25.393048,91.856151,6.86,55.38,loam,36.59,soilgrids_synthetic,simulated
+ISRO-2005-0051,27.809221,91.940647,5.22,32.95,loam,70.89,soilgrids_synthetic,simulated
+ISRO-2000-0052,28.349552,94.782842,5.98,23.05,clay,32.55,soilgrids_synthetic,simulated
+ISRO-2001-0053,25.138384,93.949102,6.1,82.63,loam,44.45,soilgrids_synthetic,simulated
+ISRO-2013-0054,27.450741,88.469276,5.47,7.49,sandy loam,54.23,soilgrids_synthetic,simulated
+ISRO-2015-0055,27.46899,88.370076,4.72,73.42,clay loam,51.31,soilgrids_synthetic,simulated
+ISRO-2019-0056,27.127606,95.317311,5.73,41.9,clay loam,39.93,soilgrids_synthetic,simulated
+ISRO-1999-0057,25.558154,90.771175,5.05,2.67,sandy clay loam,57.59,soilgrids_synthetic,simulated
+ISRO-2022-0058,24.77928,94.54204,6.27,1.88,clay loam,54.07,soilgrids_synthetic,simulated
+ISRO-2012-0059,24.599888,93.974617,5.01,2.04,loam,70.62,soilgrids_synthetic,simulated
+ISRO-2000-0060,26.817047,92.889038,6.36,37.87,loam,58.54,soilgrids_synthetic,simulated
+ISRO-2008-0061,26.858814,93.044153,6.32,27.14,clay,31.19,soilgrids_synthetic,simulated
+ISRO-2012-0062,27.332886,95.301001,6.24,3.57,clay loam,51.59,soilgrids_synthetic,simulated
+ISRO-2008-0063,26.563006,94.130329,5.63,3.17,sandy loam,32.7,soilgrids_synthetic,simulated
+ISRO-2011-0064,26.649935,93.907225,6.84,47.08,loam,38.37,soilgrids_synthetic,simulated
+ISRO-1999-0065,27.190306,88.517065,5.76,8.69,clay,51.48,soilgrids_synthetic,simulated
+ISRO-2019-0066,26.136131,94.326806,4.82,26.0,loam,69.29,soilgrids_synthetic,simulated
+ISRO-2017-0067,24.905481,94.193833,6.5,167.13,loam,51.33,soilgrids_synthetic,simulated
+ISRO-2011-0068,26.331876,93.832953,6.55,12.92,loam,76.13,soilgrids_synthetic,simulated
+ISRO-2001-0069,22.874123,92.746286,4.8,1.17,sandy loam,58.04,soilgrids_synthetic,simulated
+ISRO-2002-0070,26.303552,93.672325,5.03,18.42,clay loam,59.11,soilgrids_synthetic,simulated
+ISRO-2000-0071,27.471834,91.971794,5.48,3.95,clay,77.62,soilgrids_synthetic,simulated
+ISRO-2007-0072,26.219764,94.419228,5.91,17.79,sandy clay loam,36.57,soilgrids_synthetic,simulated
+ISRO-2020-0073,25.043562,94.275137,6.7,136.4,loam,62.51,soilgrids_synthetic,simulated
+ISRO-2020-0074,23.565416,91.438753,5.88,1.71,clay loam,72.63,soilgrids_synthetic,simulated
+ISRO-2005-0075,24.549239,93.653657,6.09,6.1,loam,68.23,soilgrids_synthetic,simulated
+ISRO-2009-0076,27.630716,88.601664,4.57,53.65,clay loam,51.15,soilgrids_synthetic,simulated
+ISRO-2016-0077,25.470044,91.026552,5.55,34.35,sandy loam,81.0,soilgrids_synthetic,simulated
+ISRO-2016-0078,23.423246,91.411935,5.55,49.69,sandy loam,78.35,soilgrids_synthetic,simulated
+ISRO-2022-0079,25.355788,91.546841,6.24,28.96,sandy clay loam,78.29,soilgrids_synthetic,simulated
+ISRO-1998-0080,25.436351,92.474349,5.66,5.57,clay,30.25,soilgrids_synthetic,simulated
+ISRO-2016-0081,26.650436,93.774482,6.88,34.73,sandy loam,81.86,soilgrids_synthetic,simulated
+ISRO-2014-0082,25.264804,92.650678,5.21,61.43,clay,39.8,soilgrids_synthetic,simulated
+ISRO-2019-0083,26.199472,94.74516,5.36,39.36,silty clay loam,68.62,soilgrids_synthetic,simulated
+ISRO-2006-0084,23.80882,92.653716,5.09,19.74,sandy loam,44.52,soilgrids_synthetic,simulated
+ISRO-2022-0085,26.500441,92.847606,5.12,0.27,clay loam,31.83,soilgrids_synthetic,simulated
+ISRO-1999-0086,27.15099,94.958834,6.96,78.98,silty clay loam,59.12,soilgrids_synthetic,simulated
+ISRO-2016-0087,23.520428,91.49227,4.81,7.77,sandy loam,46.49,soilgrids_synthetic,simulated
+ISRO-2016-0088,23.545372,91.67672,6.09,18.15,sandy clay loam,64.91,soilgrids_synthetic,simulated
+ISRO-2005-0089,27.630745,91.945987,4.56,27.74,clay,44.09,soilgrids_synthetic,simulated
+ISRO-2018-0090,25.701277,92.843795,4.8,37.9,clay loam,51.66,soilgrids_synthetic,simulated
+ISRO-2010-0091,26.266486,94.467921,5.11,8.27,clay loam,68.42,soilgrids_synthetic,simulated
+ISRO-2009-0092,23.508044,91.506285,6.99,32.51,sandy loam,38.32,soilgrids_synthetic,simulated
+ISRO-2003-0093,24.901036,94.047063,5.25,194.08,silty clay loam,52.28,soilgrids_synthetic,simulated
+ISRO-2010-0094,27.294751,95.116547,5.11,64.66,silty clay loam,72.38,soilgrids_synthetic,simulated
+ISRO-2004-0095,23.389932,92.791629,5.04,5.44,sandy loam,42.24,soilgrids_synthetic,simulated
+ISRO-2015-0096,27.325227,88.173687,5.04,14.37,loam,64.07,soilgrids_synthetic,simulated
+ISRO-2000-0097,27.060075,92.870819,6.93,42.11,sandy loam,81.97,soilgrids_synthetic,simulated
+ISRO-2013-0098,25.331372,91.136469,5.47,15.14,loam,33.07,soilgrids_synthetic,simulated
+ISRO-2022-0099,27.130768,88.45658,5.21,22.38,sandy loam,83.16,soilgrids_synthetic,simulated
+ISRO-2005-0100,22.689054,92.564917,5.57,31.24,loam,79.76,soilgrids_synthetic,simulated
+ISRO-2016-0101,26.008577,94.09501,6.64,8.44,sandy loam,66.23,soilgrids_synthetic,simulated
+ISRO-2010-0102,26.545887,94.452004,5.34,2.62,clay loam,70.1,soilgrids_synthetic,simulated
+ISRO-2020-0103,27.3181,95.260896,6.15,10.17,sandy clay loam,56.48,soilgrids_synthetic,simulated
+ISRO-2018-0104,23.25908,91.647857,6.77,34.15,sandy clay loam,76.37,soilgrids_synthetic,simulated
+ISRO-2007-0105,25.58881,91.112885,4.59,19.41,silty clay loam,61.97,soilgrids_synthetic,simulated
+ISRO-1998-0106,23.948014,91.310115,4.51,19.77,clay loam,77.59,soilgrids_synthetic,simulated
+ISRO-2001-0107,25.530775,91.939221,5.48,3.31,silty clay loam,50.21,soilgrids_synthetic,simulated
+ISRO-2016-0108,27.689183,88.339526,5.32,27.66,sandy loam,31.72,soilgrids_synthetic,simulated
+ISRO-2000-0109,25.201987,94.282786,6.94,35.28,clay,56.56,soilgrids_synthetic,simulated
+ISRO-2022-0110,26.438572,94.309656,5.47,2.34,sandy loam,73.72,soilgrids_synthetic,simulated
+ISRO-2008-0111,24.550887,94.117691,5.14,36.54,sandy loam,43.47,soilgrids_synthetic,simulated
+ISRO-2002-0112,25.492281,91.319739,5.57,1.29,loam,72.71,soilgrids_synthetic,simulated
+ISRO-2004-0113,25.251044,91.242883,4.68,34.23,clay loam,58.71,soilgrids_synthetic,simulated
+ISRO-2021-0114,27.37626,95.197753,4.95,42.3,silty clay loam,61.18,soilgrids_synthetic,simulated
+ISRO-2020-0115,26.542284,94.941183,5.95,25.44,loam,61.74,soilgrids_synthetic,simulated
+ISRO-2000-0116,25.172898,94.158378,5.79,9.65,clay,48.8,soilgrids_synthetic,simulated
+ISRO-2012-0117,24.917565,94.298016,4.75,23.31,clay,36.19,soilgrids_synthetic,simulated
+ISRO-2021-0118,23.210328,92.898061,4.57,16.98,loam,38.53,soilgrids_synthetic,simulated
+ISRO-2009-0119,27.972629,94.805123,5.19,6.57,loam,59.23,soilgrids_synthetic,simulated
+ISRO-2004-0120,25.230627,91.62001,5.52,30.11,sandy loam,71.55,soilgrids_synthetic,simulated
+ISRO-2011-0121,24.467282,93.715877,6.05,34.04,loam,84.87,soilgrids_synthetic,simulated
+ISRO-2011-0122,24.653859,94.276592,6.33,61.26,clay loam,63.99,soilgrids_synthetic,simulated
+ISRO-2009-0123,28.050226,94.715943,6.23,9.51,loam,72.2,soilgrids_synthetic,simulated
+ISRO-2001-0124,27.510333,88.520694,5.29,1.44,clay loam,77.37,soilgrids_synthetic,simulated
+ISRO-2017-0125,22.755977,93.011892,5.56,41.83,sandy clay loam,38.31,soilgrids_synthetic,simulated
+ISRO-1999-0126,27.479131,88.214515,4.96,0.82,loam,37.1,soilgrids_synthetic,simulated
+ISRO-2016-0127,24.48055,93.979976,5.93,12.39,sandy loam,70.0,soilgrids_synthetic,simulated
+ISRO-2014-0128,27.473004,94.970127,6.39,32.24,loam,59.92,soilgrids_synthetic,simulated
+ISRO-2014-0129,26.40124,94.223768,6.1,24.55,sandy clay loam,48.39,soilgrids_synthetic,simulated
+ISRO-2010-0130,23.603543,92.65965,5.04,2.46,loam,72.6,soilgrids_synthetic,simulated
+ISRO-2000-0131,27.383745,88.677759,6.06,3.81,clay loam,66.4,soilgrids_synthetic,simulated
+ISRO-2019-0132,23.67334,91.383925,5.73,65.68,sandy loam,67.92,soilgrids_synthetic,simulated
+ISRO-2020-0133,27.051261,88.32104,4.64,8.27,clay loam,76.31,soilgrids_synthetic,simulated
+ISRO-2006-0134,28.338064,94.649838,4.87,4.86,clay,34.92,soilgrids_synthetic,simulated
+ISRO-2009-0135,25.017969,94.576992,5.3,76.64,clay,37.7,soilgrids_synthetic,simulated
+ISRO-2004-0136,27.506336,88.811937,4.66,21.77,loam,46.24,soilgrids_synthetic,simulated
+ISRO-2010-0137,27.278226,95.070113,4.63,8.6,clay,61.7,soilgrids_synthetic,simulated
+ISRO-2003-0138,26.258028,94.080285,4.57,3.26,clay,64.75,soilgrids_synthetic,simulated
+ISRO-2001-0139,25.637168,92.507852,4.94,4.76,silty clay loam,75.41,soilgrids_synthetic,simulated
+ISRO-2013-0140,24.71645,94.140411,6.12,9.81,clay,66.95,soilgrids_synthetic,simulated
+ISRO-2014-0141,26.305922,94.366265,6.56,11.39,clay,74.14,soilgrids_synthetic,simulated
+ISRO-2014-0142,26.546021,94.949711,5.33,3.77,clay loam,41.33,soilgrids_synthetic,simulated
+ISRO-2009-0143,26.062388,93.67571,5.36,12.17,loam,49.41,soilgrids_synthetic,simulated
+ISRO-2008-0144,23.710773,91.42441,6.25,26.33,sandy loam,65.91,soilgrids_synthetic,simulated
+ISRO-2000-0145,27.026763,88.31692,6.38,14.03,sandy loam,73.66,soilgrids_synthetic,simulated
+ISRO-1998-0146,27.376129,95.361564,6.3,1.65,loam,71.82,soilgrids_synthetic,simulated
+ISRO-2018-0147,24.796378,94.047241,6.09,3.84,loam,32.43,soilgrids_synthetic,simulated
+ISRO-2009-0148,26.133952,94.359595,6.73,30.32,loam,53.0,soilgrids_synthetic,simulated
+ISRO-2002-0149,26.561554,92.749253,6.36,2.52,sandy loam,73.0,soilgrids_synthetic,simulated
+ISRO-2019-0150,26.637798,92.986429,6.29,0.23,clay,56.21,soilgrids_synthetic,simulated
+ISRO-2012-0151,27.625454,91.964273,5.96,33.09,clay,57.41,soilgrids_synthetic,simulated
+ISRO-2004-0152,22.859328,92.928955,5.13,8.42,clay,64.74,soilgrids_synthetic,simulated
+ISRO-2005-0153,26.432048,92.888326,5.87,24.55,clay loam,81.31,soilgrids_synthetic,simulated
+ISRO-2002-0154,26.495132,94.684978,6.87,14.68,sandy loam,38.85,soilgrids_synthetic,simulated
+ISRO-2002-0155,25.389764,91.957046,5.13,17.6,silty clay loam,66.64,soilgrids_synthetic,simulated
+ISRO-2019-0156,22.810199,92.730379,5.69,34.7,sandy loam,52.67,soilgrids_synthetic,simulated
+ISRO-2020-0157,26.514833,94.499916,6.52,8.44,clay loam,68.11,soilgrids_synthetic,simulated
+ISRO-2016-0158,23.659904,91.61303,4.52,29.21,clay loam,76.66,soilgrids_synthetic,simulated
+ISRO-2012-0159,27.453095,95.035171,4.94,29.58,sandy clay loam,47.25,soilgrids_synthetic,simulated
+ISRO-2007-0160,26.342376,94.514026,6.21,44.16,clay loam,58.23,soilgrids_synthetic,simulated
+ISRO-2006-0161,23.354335,92.66576,5.8,11.79,clay loam,69.46,soilgrids_synthetic,simulated
+ISRO-2009-0162,26.133967,93.880909,5.74,12.32,loam,35.07,soilgrids_synthetic,simulated
+ISRO-2000-0163,25.333031,91.111557,4.51,102.41,loam,69.81,soilgrids_synthetic,simulated
+ISRO-2018-0164,25.713752,91.048697,6.17,31.09,loam,65.67,soilgrids_synthetic,simulated
+ISRO-2012-0165,26.952309,88.069271,5.74,46.54,clay loam,55.89,soilgrids_synthetic,simulated
+ISRO-2010-0166,25.482879,92.452737,6.08,10.12,sandy loam,59.08,soilgrids_synthetic,simulated
+ISRO-2004-0167,27.930294,94.837454,6.87,53.75,loam,57.87,soilgrids_synthetic,simulated
+ISRO-2002-0168,27.547136,88.589074,4.76,37.53,loam,62.25,soilgrids_synthetic,simulated
+ISRO-2022-0169,22.953606,92.76249,6.93,24.31,clay,30.24,soilgrids_synthetic,simulated
+ISRO-2005-0170,28.001898,94.887167,5.29,54.9,sandy loam,60.11,soilgrids_synthetic,simulated
+ISRO-2014-0171,22.838367,92.859357,5.35,8.59,sandy loam,69.43,soilgrids_synthetic,simulated
+ISRO-2002-0172,25.622071,90.098405,5.14,63.54,sandy loam,43.76,soilgrids_synthetic,simulated
+ISRO-2014-0173,23.585705,92.767117,4.87,50.15,sandy loam,43.88,soilgrids_synthetic,simulated
+ISRO-2021-0174,25.0702,92.202899,6.8,155.15,sandy loam,62.59,soilgrids_synthetic,simulated
+ISRO-2000-0175,26.979912,88.467354,6.18,33.47,loam,44.04,soilgrids_synthetic,simulated
+ISRO-2009-0176,26.081559,94.934376,6.28,11.34,silty clay loam,31.3,soilgrids_synthetic,simulated
+ISRO-2019-0177,23.803922,92.66501,5.84,25.7,sandy loam,30.18,soilgrids_synthetic,simulated
+ISRO-2011-0178,26.121748,94.099461,6.32,9.74,clay loam,30.4,soilgrids_synthetic,simulated
+ISRO-2007-0179,26.045753,93.694877,5.74,6.88,sandy loam,46.09,soilgrids_synthetic,simulated
+ISRO-1998-0180,27.128762,95.05291,5.64,21.72,loam,66.05,soilgrids_synthetic,simulated
+ISRO-2003-0181,27.874559,94.526801,6.37,3.88,sandy clay loam,49.67,soilgrids_synthetic,simulated
+ISRO-2013-0182,23.550934,92.650292,6.01,176.81,loam,71.56,soilgrids_synthetic,simulated
+ISRO-2003-0183,25.268921,92.322847,5.32,0.96,silty clay loam,51.43,soilgrids_synthetic,simulated
+ISRO-2014-0184,26.486427,92.76738,6.63,0.47,silty clay loam,54.69,soilgrids_synthetic,simulated
+ISRO-2000-0185,27.298824,88.609775,4.59,26.93,clay,78.74,soilgrids_synthetic,simulated
+ISRO-2008-0186,26.983413,88.346478,6.09,56.69,clay,81.57,soilgrids_synthetic,simulated
+ISRO-2020-0187,25.287781,91.880165,5.78,2.43,silty clay loam,32.64,soilgrids_synthetic,simulated
+ISRO-2019-0188,26.565533,94.123837,4.66,10.18,clay loam,35.22,soilgrids_synthetic,simulated
+ISRO-2018-0189,22.902881,92.918287,6.12,35.58,sandy clay loam,54.69,soilgrids_synthetic,simulated
+ISRO-2013-0190,24.923635,94.597344,6.91,5.93,clay loam,42.94,soilgrids_synthetic,simulated
+ISRO-2005-0191,24.514696,94.091413,5.41,23.77,sandy clay loam,82.21,soilgrids_synthetic,simulated
+ISRO-2001-0192,26.186715,94.604167,5.93,3.36,loam,39.17,soilgrids_synthetic,simulated
+ISRO-2017-0193,25.623995,92.857537,5.23,9.24,loam,54.63,soilgrids_synthetic,simulated
+ISRO-2009-0194,25.44603,92.570464,6.51,30.59,clay loam,56.36,soilgrids_synthetic,simulated
+ISRO-2005-0195,26.134636,94.367999,5.14,24.16,sandy loam,35.93,soilgrids_synthetic,simulated
+ISRO-2022-0196,22.956758,92.99489,5.94,47.9,sandy loam,57.49,soilgrids_synthetic,simulated
+ISRO-2009-0197,23.397157,92.653681,4.8,10.09,silty clay loam,66.61,soilgrids_synthetic,simulated
+ISRO-2017-0198,26.673918,94.447412,5.55,20.82,clay,41.29,soilgrids_synthetic,simulated
+ISRO-2013-0199,27.519403,88.52232,6.85,35.66,sandy clay loam,63.0,soilgrids_synthetic,simulated
+ISRO-2021-0200,22.85144,92.96706,6.86,29.16,clay,48.75,soilgrids_synthetic,simulated
+ISRO-2020-0201,27.020028,88.388854,6.24,50.42,clay,64.54,soilgrids_synthetic,simulated
+ISRO-2008-0202,27.566258,91.676517,5.59,0.01,silty clay loam,61.57,soilgrids_synthetic,simulated
+ISRO-1998-0203,23.735584,92.747039,4.78,49.52,loam,66.13,soilgrids_synthetic,simulated
+ISRO-2007-0204,27.123538,92.935772,5.63,81.44,silty clay loam,78.64,soilgrids_synthetic,simulated
+ISRO-2014-0205,25.595201,91.241494,6.71,0.01,clay loam,84.0,soilgrids_synthetic,simulated
+ISRO-2016-0206,27.098894,95.184116,4.56,2.61,loam,60.75,soilgrids_synthetic,simulated
+ISRO-2020-0207,26.65136,94.083015,4.7,20.86,clay,71.13,soilgrids_synthetic,simulated
+ISRO-2003-0208,23.973336,91.249598,6.27,24.43,clay loam,42.04,soilgrids_synthetic,simulated
+ISRO-2020-0209,24.675499,94.07419,5.82,38.21,loam,52.77,soilgrids_synthetic,simulated
+ISRO-2016-0210,25.314147,91.140419,6.54,1.53,sandy loam,48.95,soilgrids_synthetic,simulated
+ISRO-2016-0211,23.660253,91.724676,6.62,4.7,clay loam,67.03,soilgrids_synthetic,simulated
+ISRO-2012-0212,25.447551,91.143446,4.63,13.31,silty clay loam,31.43,soilgrids_synthetic,simulated
+ISRO-2002-0213,26.447616,94.930313,5.67,15.32,silty clay loam,31.48,soilgrids_synthetic,simulated
+ISRO-2009-0214,23.943314,92.296904,5.36,1.27,clay loam,33.93,soilgrids_synthetic,simulated
+ISRO-2022-0215,23.591765,92.60066,6.51,8.17,sandy loam,46.31,soilgrids_synthetic,simulated
+ISRO-1998-0216,23.660079,91.405959,5.84,12.57,sandy loam,72.57,soilgrids_synthetic,simulated
+ISRO-1998-0217,26.448218,94.222574,5.92,1.07,silty clay loam,34.48,soilgrids_synthetic,simulated
+ISRO-2020-0218,26.357962,94.015646,6.48,62.47,loam,30.48,soilgrids_synthetic,simulated
+ISRO-2015-0219,25.06778,94.221997,5.85,15.83,loam,51.52,soilgrids_synthetic,simulated
+ISRO-2020-0220,27.755876,91.724782,4.56,7.3,clay loam,43.86,soilgrids_synthetic,simulated
+ISRO-2006-0221,27.134567,88.455886,6.04,11.84,sandy loam,57.86,soilgrids_synthetic,simulated
+ISRO-2001-0222,27.763627,91.84012,5.12,13.07,loam,79.29,soilgrids_synthetic,simulated
+ISRO-2015-0223,23.773696,91.223032,5.94,68.24,clay loam,61.36,soilgrids_synthetic,simulated
+ISRO-2004-0224,26.671035,93.915101,5.86,59.8,sandy loam,72.47,soilgrids_synthetic,simulated
+ISRO-2003-0225,26.594451,94.204898,5.45,21.11,clay loam,64.98,soilgrids_synthetic,simulated
+ISRO-2013-0226,25.061773,93.91754,5.41,10.5,sandy loam,32.2,soilgrids_synthetic,simulated
+ISRO-2008-0227,27.893356,94.561184,5.03,46.58,sandy loam,65.65,soilgrids_synthetic,simulated
+ISRO-2017-0228,27.586278,91.799597,5.91,4.47,loam,52.54,soilgrids_synthetic,simulated
+ISRO-2016-0229,23.285925,91.607844,6.56,22.34,sandy loam,55.34,soilgrids_synthetic,simulated
+ISRO-2009-0230,25.340442,90.858458,4.66,11.02,loam,57.72,soilgrids_synthetic,simulated
+ISRO-1998-0231,26.234991,94.327142,5.85,9.98,sandy loam,36.87,soilgrids_synthetic,simulated
+ISRO-2008-0232,25.529822,91.26534,5.96,0.15,silty clay loam,62.62,soilgrids_synthetic,simulated
+ISRO-2003-0233,26.193446,94.575217,5.88,37.78,sandy loam,63.23,soilgrids_synthetic,simulated
+ISRO-2013-0234,25.579985,91.616467,5.52,39.6,clay loam,60.99,soilgrids_synthetic,simulated
+ISRO-2022-0235,25.742523,92.903053,5.54,34.49,clay loam,42.0,soilgrids_synthetic,simulated
+ISRO-2010-0236,26.468335,92.754162,4.75,20.75,sandy clay loam,66.6,soilgrids_synthetic,simulated
+ISRO-2019-0237,25.473141,90.863934,6.45,45.24,silty clay loam,47.4,soilgrids_synthetic,simulated
+ISRO-2014-0238,25.387516,92.482473,6.37,24.75,loam,61.02,soilgrids_synthetic,simulated
+ISRO-2013-0239,25.472344,90.971426,6.89,24.22,loam,80.82,soilgrids_synthetic,simulated
+ISRO-2020-0240,23.424747,92.52502,5.08,5.05,sandy loam,48.89,soilgrids_synthetic,simulated
+ISRO-2010-0241,27.400136,88.388616,6.86,19.91,loam,47.49,soilgrids_synthetic,simulated
+ISRO-1998-0242,24.769589,94.472005,6.65,15.82,loam,56.38,soilgrids_synthetic,simulated
+ISRO-2009-0243,27.551703,88.272783,6.54,18.6,silty clay loam,74.51,soilgrids_synthetic,simulated
+ISRO-2018-0244,27.212843,92.850674,4.53,5.55,loam,58.0,soilgrids_synthetic,simulated
+ISRO-2017-0245,27.735101,88.602951,4.55,42.07,sandy loam,81.64,soilgrids_synthetic,simulated
+ISRO-2013-0246,23.758627,91.335921,5.77,31.65,silty clay loam,31.47,soilgrids_synthetic,simulated
+ISRO-2009-0247,25.504915,90.906107,6.2,6.52,sandy loam,80.38,soilgrids_synthetic,simulated
+ISRO-2009-0248,26.421284,94.617073,5.08,25.23,loam,69.97,soilgrids_synthetic,simulated
+ISRO-2013-0249,23.613335,92.578947,6.48,10.05,clay loam,78.84,soilgrids_synthetic,simulated
+ISRO-2006-0250,27.285622,88.387653,5.02,2.29,silty clay loam,79.92,soilgrids_synthetic,simulated
+ISRO-2019-0251,25.373195,91.626488,5.46,24.08,loam,58.01,soilgrids_synthetic,simulated
+ISRO-2001-0252,26.193767,93.673686,6.91,73.1,clay,50.79,soilgrids_synthetic,simulated
+ISRO-2004-0253,25.266022,92.757193,5.24,36.73,sandy clay loam,66.34,soilgrids_synthetic,simulated
+ISRO-2009-0254,25.347036,91.555151,6.95,9.01,loam,33.2,soilgrids_synthetic,simulated
+ISRO-2006-0255,26.46064,93.800144,5.14,13.07,silty clay loam,42.45,soilgrids_synthetic,simulated
+ISRO-2005-0256,27.343778,88.366178,5.36,11.49,loam,51.29,soilgrids_synthetic,simulated
+ISRO-2001-0257,25.418143,91.243824,6.82,25.07,sandy clay loam,36.92,soilgrids_synthetic,simulated
+ISRO-2022-0258,26.987438,92.815461,5.28,24.15,loam,48.76,soilgrids_synthetic,simulated
+ISRO-2008-0259,25.915053,90.301206,4.75,0.35,clay loam,50.65,soilgrids_synthetic,simulated
+ISRO-2004-0260,27.177738,92.944945,5.36,36.14,silty clay loam,35.15,soilgrids_synthetic,simulated
+ISRO-2007-0261,24.350092,93.990017,4.58,4.87,sandy loam,66.5,soilgrids_synthetic,simulated
+ISRO-2015-0262,26.083255,93.830649,5.77,4.81,loam,34.04,soilgrids_synthetic,simulated
+ISRO-1998-0263,26.4973,93.811969,5.86,74.66,sandy loam,77.66,soilgrids_synthetic,simulated
+ISRO-2013-0264,26.60518,94.306793,6.5,55.87,sandy loam,79.78,soilgrids_synthetic,simulated
+ISRO-2002-0265,26.356555,94.457062,6.48,29.24,silty clay loam,42.17,soilgrids_synthetic,simulated
+ISRO-2004-0266,25.166405,91.289677,6.51,12.29,loam,71.23,soilgrids_synthetic,simulated
+ISRO-2000-0267,25.162602,91.251057,5.87,50.06,sandy loam,76.18,soilgrids_synthetic,simulated
+ISRO-2005-0268,23.93697,91.432378,5.45,17.62,sandy clay loam,32.17,soilgrids_synthetic,simulated
+ISRO-2005-0269,26.714621,93.797171,6.13,0.18,loam,84.68,soilgrids_synthetic,simulated
+ISRO-2017-0270,23.849611,92.551205,6.15,33.67,clay loam,49.34,soilgrids_synthetic,simulated
+ISRO-2009-0271,23.582607,92.446368,4.81,10.26,sandy clay loam,56.28,soilgrids_synthetic,simulated
+ISRO-2006-0272,26.501256,93.958872,5.69,79.73,sandy loam,65.6,soilgrids_synthetic,simulated
+ISRO-2008-0273,25.861956,90.178361,6.81,3.69,sandy clay loam,74.52,soilgrids_synthetic,simulated
+ISRO-2011-0274,23.634989,91.459114,6.79,8.67,clay loam,71.77,soilgrids_synthetic,simulated
+ISRO-2016-0275,24.579424,94.448928,6.46,6.74,sandy clay loam,36.61,soilgrids_synthetic,simulated
+ISRO-2000-0276,25.018526,94.597364,6.27,23.46,clay,79.38,soilgrids_synthetic,simulated
+ISRO-2001-0277,25.102076,92.349883,5.64,63.37,sandy clay loam,63.52,soilgrids_synthetic,simulated
+ISRO-2000-0278,27.414816,88.523747,6.13,1.42,loam,84.61,soilgrids_synthetic,simulated
+ISRO-2020-0279,25.576654,90.402636,6.18,15.22,clay,66.93,soilgrids_synthetic,simulated
+ISRO-2000-0280,25.224926,94.224257,5.45,10.44,loam,42.0,soilgrids_synthetic,simulated
+ISRO-2005-0281,25.080315,92.034439,5.81,4.72,silty clay loam,69.7,soilgrids_synthetic,simulated
+ISRO-2007-0282,25.322692,91.416953,5.44,0.67,silty clay loam,41.14,soilgrids_synthetic,simulated
+ISRO-2020-0283,27.146836,92.779359,5.27,10.92,silty clay loam,52.41,soilgrids_synthetic,simulated
+ISRO-2012-0284,24.813282,94.22576,5.4,46.76,silty clay loam,62.59,soilgrids_synthetic,simulated
+ISRO-2016-0285,25.171228,94.284527,6.44,24.3,sandy clay loam,65.29,soilgrids_synthetic,simulated
+ISRO-2008-0286,25.144052,92.019512,5.15,15.22,silty clay loam,33.16,soilgrids_synthetic,simulated
+ISRO-2002-0287,27.196156,95.436035,5.84,25.36,loam,81.08,soilgrids_synthetic,simulated
+ISRO-2016-0288,27.871588,94.452429,6.61,70.3,clay loam,66.08,soilgrids_synthetic,simulated
+ISRO-2008-0289,27.412322,88.410857,6.31,36.42,loam,49.7,soilgrids_synthetic,simulated
+ISRO-2007-0290,24.340353,93.82606,5.91,69.08,clay loam,83.42,soilgrids_synthetic,simulated
+ISRO-1998-0291,27.083489,88.551637,5.8,31.42,silty clay loam,84.7,soilgrids_synthetic,simulated
+ISRO-2012-0292,26.998999,93.040219,6.2,12.5,clay loam,31.95,soilgrids_synthetic,simulated
+ISRO-2019-0293,26.434786,94.233873,4.59,39.1,loam,71.76,soilgrids_synthetic,simulated
+ISRO-2016-0294,27.383199,91.981274,5.92,57.82,silty clay loam,56.15,soilgrids_synthetic,simulated
+ISRO-2003-0295,26.524137,93.963122,6.55,13.7,clay,61.02,soilgrids_synthetic,simulated
+ISRO-2018-0296,25.475875,90.288824,6.79,63.72,loam,78.11,soilgrids_synthetic,simulated
+ISRO-2007-0297,28.110722,94.681114,6.44,2.86,clay,40.18,soilgrids_synthetic,simulated
+ISRO-2019-0298,26.35106,94.516893,5.73,1.62,silty clay loam,44.91,soilgrids_synthetic,simulated
+ISRO-1999-0299,27.431126,95.443593,5.59,37.29,loam,54.37,soilgrids_synthetic,simulated
+ISRO-2006-0300,27.055467,88.647595,6.0,5.42,loam,38.29,soilgrids_synthetic,simulated
+ISRO-2012-0301,23.546135,92.826537,4.96,3.49,loam,36.83,soilgrids_synthetic,simulated
+ISRO-2006-0302,27.715972,88.490948,5.01,54.05,clay loam,68.57,soilgrids_synthetic,simulated
+ISRO-2003-0303,24.513818,93.683687,6.57,18.21,loam,55.37,soilgrids_synthetic,simulated
+ISRO-2020-0304,27.11285,92.78431,6.72,99.36,silty clay loam,60.4,soilgrids_synthetic,simulated
+ISRO-2012-0305,27.411232,88.498637,5.33,40.77,loam,71.24,soilgrids_synthetic,simulated
+ISRO-2022-0306,24.630195,94.251203,6.13,13.91,clay loam,40.54,soilgrids_synthetic,simulated
+ISRO-2012-0307,27.542596,88.478667,6.54,2.78,clay loam,52.31,soilgrids_synthetic,simulated
+ISRO-2013-0308,27.400597,91.686578,4.72,51.08,sandy loam,31.52,soilgrids_synthetic,simulated
+ISRO-2003-0309,26.517008,92.96372,5.2,23.96,sandy loam,38.91,soilgrids_synthetic,simulated
+ISRO-2016-0310,27.609877,91.734116,5.15,75.61,clay loam,79.77,soilgrids_synthetic,simulated
+ISRO-2010-0311,24.66742,94.202875,5.68,13.38,sandy clay loam,53.82,soilgrids_synthetic,simulated
+ISRO-2000-0312,25.75433,90.529548,5.02,2.14,sandy loam,60.05,soilgrids_synthetic,simulated
+ISRO-2011-0313,23.355871,91.759725,5.48,0.89,loam,32.03,soilgrids_synthetic,simulated
+ISRO-2004-0314,25.976663,94.720176,6.28,58.76,silty clay loam,79.55,soilgrids_synthetic,simulated
+ISRO-2000-0315,27.298376,88.266366,6.21,2.58,sandy loam,73.98,soilgrids_synthetic,simulated
+ISRO-2002-0316,24.831658,94.334047,5.58,98.16,sandy loam,77.49,soilgrids_synthetic,simulated
+ISRO-2018-0317,23.865643,91.360073,4.61,32.57,loam,67.06,soilgrids_synthetic,simulated
+ISRO-2017-0318,26.338641,92.556199,4.55,6.94,silty clay loam,44.97,soilgrids_synthetic,simulated
+ISRO-2011-0319,26.937639,93.234966,4.74,20.56,silty clay loam,55.98,soilgrids_synthetic,simulated
+ISRO-2014-0320,27.525001,95.092611,4.64,67.56,sandy loam,62.48,soilgrids_synthetic,simulated
+ISRO-2013-0321,27.389155,88.723366,5.65,16.13,clay,56.48,soilgrids_synthetic,simulated
+ISRO-2014-0322,25.247778,93.857902,4.7,43.45,loam,55.26,soilgrids_synthetic,simulated
+ISRO-2015-0323,25.679483,92.511145,4.87,7.94,loam,46.09,soilgrids_synthetic,simulated
+ISRO-1998-0324,24.772628,94.31718,5.14,9.02,clay loam,38.37,soilgrids_synthetic,simulated
+ISRO-2014-0325,26.112205,94.597695,4.6,1.46,loam,71.26,soilgrids_synthetic,simulated
+ISRO-2008-0326,25.083698,94.078373,6.43,11.24,loam,75.92,soilgrids_synthetic,simulated
+ISRO-2014-0327,26.225611,94.893323,6.19,35.94,clay loam,79.2,soilgrids_synthetic,simulated
+ISRO-2002-0328,26.280443,94.061534,5.51,7.39,clay,31.35,soilgrids_synthetic,simulated
+ISRO-2012-0329,27.161248,88.330187,5.55,18.35,loam,36.66,soilgrids_synthetic,simulated
+ISRO-2020-0330,27.365076,88.610488,6.03,46.1,loam,70.04,soilgrids_synthetic,simulated
+ISRO-2015-0331,26.329993,94.537435,6.72,42.59,silty clay loam,57.77,soilgrids_synthetic,simulated
+ISRO-2014-0332,27.773172,92.046549,5.66,2.0,loam,73.16,soilgrids_synthetic,simulated
+ISRO-2007-0333,26.532733,94.002971,6.08,16.19,silty clay loam,50.21,soilgrids_synthetic,simulated
+ISRO-2010-0334,26.552908,92.997582,5.92,69.54,clay,66.3,soilgrids_synthetic,simulated
+ISRO-2007-0335,26.08594,93.941,4.89,28.18,sandy loam,43.31,soilgrids_synthetic,simulated
+ISRO-2018-0336,23.876825,92.326746,4.83,3.18,sandy loam,36.49,soilgrids_synthetic,simulated
+ISRO-2004-0337,26.405572,93.024323,6.3,11.82,loam,40.64,soilgrids_synthetic,simulated
+ISRO-2018-0338,26.066075,94.646651,6.26,5.87,clay loam,42.29,soilgrids_synthetic,simulated
+ISRO-2015-0339,25.684203,90.496242,4.7,23.15,silty clay loam,68.5,soilgrids_synthetic,simulated
+ISRO-2004-0340,25.919749,94.080282,6.48,15.03,loam,78.89,soilgrids_synthetic,simulated
+ISRO-2010-0341,25.653724,90.927641,5.61,71.4,sandy loam,31.23,soilgrids_synthetic,simulated
+ISRO-2007-0342,26.596452,92.551354,4.8,41.69,silty clay loam,67.4,soilgrids_synthetic,simulated
+ISRO-2002-0343,26.314813,94.803348,6.54,43.36,loam,35.68,soilgrids_synthetic,simulated
+ISRO-2007-0344,27.641381,88.253136,6.33,109.26,silty clay loam,40.35,soilgrids_synthetic,simulated
+ISRO-2018-0345,25.290393,91.191039,6.27,42.26,silty clay loam,66.28,soilgrids_synthetic,simulated
+ISRO-2014-0346,25.209555,93.900261,6.79,4.76,loam,31.96,soilgrids_synthetic,simulated
+ISRO-2019-0347,28.3455,94.530891,6.1,25.92,clay,38.02,soilgrids_synthetic,simulated
+ISRO-2014-0348,23.707024,92.379871,6.04,8.17,clay loam,63.63,soilgrids_synthetic,simulated
+ISRO-2003-0349,25.495943,91.493425,6.87,17.7,sandy loam,62.48,soilgrids_synthetic,simulated
+ISRO-2016-0350,25.244224,94.273299,5.34,25.23,loam,83.7,soilgrids_synthetic,simulated
+ISRO-2022-0351,25.396231,91.180652,6.11,7.92,silty clay loam,38.45,soilgrids_synthetic,simulated
+ISRO-2002-0352,26.132876,94.472482,6.64,28.2,silty clay loam,38.66,soilgrids_synthetic,simulated
+ISRO-2005-0353,25.548363,90.967302,6.21,0.02,sandy loam,54.72,soilgrids_synthetic,simulated
+ISRO-2022-0354,23.619537,91.582606,5.01,17.94,silty clay loam,57.77,soilgrids_synthetic,simulated
+ISRO-2009-0355,25.863205,90.391922,5.0,32.3,silty clay loam,81.04,soilgrids_synthetic,simulated
+ISRO-2017-0356,26.366499,92.769119,4.8,1.73,sandy loam,64.36,soilgrids_synthetic,simulated
+ISRO-2017-0357,28.038235,94.640118,6.61,11.72,sandy clay loam,71.51,soilgrids_synthetic,simulated
+ISRO-2014-0358,25.265841,92.223895,5.12,11.43,loam,37.5,soilgrids_synthetic,simulated
+ISRO-2008-0359,24.311928,93.855221,4.5,9.67,sandy loam,66.42,soilgrids_synthetic,simulated
+ISRO-1998-0360,27.474774,91.609243,5.25,3.51,clay loam,33.18,soilgrids_synthetic,simulated
+ISRO-2002-0361,26.796783,93.024837,6.01,9.55,clay loam,59.34,soilgrids_synthetic,simulated
+ISRO-2000-0362,24.313429,93.723273,6.47,5.14,clay,32.79,soilgrids_synthetic,simulated
+ISRO-2022-0363,24.352007,93.961536,6.96,9.26,sandy loam,48.04,soilgrids_synthetic,simulated
+ISRO-2007-0364,25.374387,92.333953,6.42,11.31,sandy loam,72.81,soilgrids_synthetic,simulated
+ISRO-2011-0365,25.586757,90.978124,6.28,17.13,clay,69.98,soilgrids_synthetic,simulated
+ISRO-2022-0366,26.053741,94.530523,4.62,3.65,clay loam,47.76,soilgrids_synthetic,simulated
+ISRO-2007-0367,25.398641,92.147147,5.15,37.76,loam,83.83,soilgrids_synthetic,simulated
+ISRO-2006-0368,26.292943,93.872314,6.6,25.84,sandy clay loam,49.99,soilgrids_synthetic,simulated
+ISRO-2005-0369,23.659139,92.412203,6.26,5.1,loam,49.29,soilgrids_synthetic,simulated
+ISRO-2001-0370,26.606691,92.808939,5.6,1.59,clay loam,39.88,soilgrids_synthetic,simulated
+ISRO-2017-0371,27.234897,92.800381,6.5,2.03,clay loam,49.39,soilgrids_synthetic,simulated
+ISRO-2012-0372,26.241659,92.784567,6.69,22.35,silty clay loam,31.51,soilgrids_synthetic,simulated
+ISRO-2014-0373,26.605,94.308065,5.16,2.25,sandy loam,60.91,soilgrids_synthetic,simulated
+ISRO-1999-0374,26.370647,93.980354,6.68,0.04,loam,70.88,soilgrids_synthetic,simulated
+ISRO-2005-0375,27.024477,93.031505,5.35,0.12,clay loam,48.47,soilgrids_synthetic,simulated
+ISRO-2018-0376,22.947048,92.672427,6.96,1.71,silty clay loam,60.21,soilgrids_synthetic,simulated
+ISRO-1999-0377,25.525418,91.296468,6.88,20.73,clay loam,41.99,soilgrids_synthetic,simulated
+ISRO-2021-0378,26.09578,94.613081,6.14,0.76,clay loam,62.8,soilgrids_synthetic,simulated
+ISRO-2005-0379,26.220645,92.683467,5.53,15.63,loam,66.47,soilgrids_synthetic,simulated
+ISRO-2004-0380,24.665052,94.642682,5.23,95.34,clay loam,47.37,soilgrids_synthetic,simulated
+ISRO-2007-0381,27.41214,88.432362,5.48,2.97,clay loam,34.12,soilgrids_synthetic,simulated
+ISRO-2020-0382,23.574337,92.693279,5.09,10.97,clay,41.46,soilgrids_synthetic,simulated
+ISRO-2013-0383,24.825832,93.957785,6.77,11.39,sandy loam,68.69,soilgrids_synthetic,simulated
+ISRO-2007-0384,25.373016,91.354851,4.78,5.91,sandy clay loam,54.84,soilgrids_synthetic,simulated
+ISRO-2018-0385,28.21178,94.884546,6.47,23.86,loam,48.13,soilgrids_synthetic,simulated
+ISRO-2003-0386,25.306954,92.779657,4.73,1.82,loam,31.36,soilgrids_synthetic,simulated
+ISRO-2011-0387,26.709544,94.187412,6.3,94.7,silty clay loam,54.05,soilgrids_synthetic,simulated
+ISRO-2000-0388,25.445138,92.578844,5.74,97.64,loam,60.78,soilgrids_synthetic,simulated
+ISRO-2014-0389,26.188009,93.815737,6.77,15.65,loam,68.87,soilgrids_synthetic,simulated
+ISRO-2015-0390,24.878224,94.375649,5.13,27.87,sandy loam,76.42,soilgrids_synthetic,simulated
+ISRO-2002-0391,22.816189,92.715626,6.09,14.24,silty clay loam,48.76,soilgrids_synthetic,simulated
+ISRO-2015-0392,23.121974,92.763398,4.68,20.04,silty clay loam,48.37,soilgrids_synthetic,simulated
+ISRO-2019-0393,25.478409,90.438454,6.5,47.28,loam,57.25,soilgrids_synthetic,simulated
+ISRO-2018-0394,26.169747,94.01754,5.45,4.98,sandy clay loam,32.27,soilgrids_synthetic,simulated
+ISRO-2006-0395,25.911894,93.743069,5.42,35.88,silty clay loam,44.59,soilgrids_synthetic,simulated
+ISRO-2022-0396,26.532184,94.521286,5.86,28.02,silty clay loam,68.57,soilgrids_synthetic,simulated
+ISRO-1999-0397,25.752067,90.543296,4.55,47.12,clay,66.51,soilgrids_synthetic,simulated
+ISRO-2019-0398,26.932339,92.752182,6.88,39.84,sandy loam,39.01,soilgrids_synthetic,simulated
+ISRO-1999-0399,27.390272,91.913505,6.92,4.33,loam,58.66,soilgrids_synthetic,simulated
+ISRO-2011-0400,25.599961,92.773939,5.56,15.46,silty clay loam,72.58,soilgrids_synthetic,simulated
+ISRO-2017-0401,25.71137,91.20834,6.19,0.78,silty clay loam,62.87,soilgrids_synthetic,simulated
+ISRO-2000-0402,26.297677,94.125851,4.97,14.99,sandy loam,53.17,soilgrids_synthetic,simulated
+ISRO-2006-0403,25.256497,92.590294,5.64,15.03,sandy loam,39.0,soilgrids_synthetic,simulated
+ISRO-2001-0404,26.553917,92.888588,4.69,40.41,loam,65.3,soilgrids_synthetic,simulated
+ISRO-2010-0405,26.799966,92.832127,6.75,54.09,sandy loam,48.82,soilgrids_synthetic,simulated
+ISRO-2020-0406,23.731483,92.70958,4.81,1.54,sandy loam,50.94,soilgrids_synthetic,simulated
+ISRO-2019-0407,23.386287,92.93568,6.54,1.51,sandy loam,58.64,soilgrids_synthetic,simulated
+ISRO-2000-0408,27.204374,95.232658,4.96,31.36,loam,51.57,soilgrids_synthetic,simulated
+ISRO-2006-0409,27.16404,88.444389,6.01,39.59,silty clay loam,38.17,soilgrids_synthetic,simulated
+ISRO-2014-0410,26.504963,92.902059,5.35,24.58,loam,61.04,soilgrids_synthetic,simulated
+ISRO-2014-0411,22.666805,92.687818,6.98,27.91,clay,33.36,soilgrids_synthetic,simulated
+ISRO-2000-0412,27.566687,91.726372,6.85,26.51,clay loam,53.52,soilgrids_synthetic,simulated
+ISRO-2016-0413,24.79849,94.389611,6.66,53.17,loam,30.8,soilgrids_synthetic,simulated
+ISRO-2015-0414,27.073682,94.980943,6.46,43.05,clay,48.89,soilgrids_synthetic,simulated
+ISRO-2011-0415,25.558319,90.895947,6.76,42.89,sandy clay loam,48.96,soilgrids_synthetic,simulated
+ISRO-1998-0416,25.367018,91.50384,5.64,16.87,clay loam,64.89,soilgrids_synthetic,simulated
+ISRO-2010-0417,27.061518,88.522073,5.22,1.33,sandy loam,76.84,soilgrids_synthetic,simulated
+ISRO-2011-0418,25.591563,91.296169,4.78,22.12,clay,31.11,soilgrids_synthetic,simulated
+ISRO-2010-0419,26.285944,94.647763,5.04,30.55,clay,59.69,soilgrids_synthetic,simulated
+ISRO-1998-0420,27.114472,88.297746,4.94,14.19,loam,50.85,soilgrids_synthetic,simulated
+ISRO-2005-0421,27.423107,88.442574,6.89,6.27,silty clay loam,80.9,soilgrids_synthetic,simulated
+ISRO-2001-0422,24.470521,94.096353,5.29,15.97,sandy loam,64.22,soilgrids_synthetic,simulated
+ISRO-1998-0423,23.607698,92.677463,6.37,12.57,loam,32.86,soilgrids_synthetic,simulated
+ISRO-2003-0424,25.592624,91.024489,5.64,53.38,loam,81.99,soilgrids_synthetic,simulated
+ISRO-2022-0425,25.264172,92.820223,4.72,59.33,silty clay loam,34.34,soilgrids_synthetic,simulated
+ISRO-1999-0426,27.667211,88.411712,6.44,39.73,loam,57.41,soilgrids_synthetic,simulated
+ISRO-2010-0427,27.300406,88.479423,6.63,51.94,clay loam,81.59,soilgrids_synthetic,simulated
+ISRO-2013-0428,25.143393,93.878651,5.31,6.17,loam,56.49,soilgrids_synthetic,simulated
+ISRO-2001-0429,25.414331,91.19318,6.61,6.84,sandy clay loam,72.99,soilgrids_synthetic,simulated
+ISRO-2022-0430,27.073951,88.087974,4.87,14.71,loam,36.71,soilgrids_synthetic,simulated
+ISRO-2004-0431,25.243929,91.170216,5.26,27.38,loam,50.94,soilgrids_synthetic,simulated
+ISRO-2006-0432,25.66082,92.79594,5.96,69.27,clay loam,33.5,soilgrids_synthetic,simulated
+ISRO-2021-0433,26.301152,93.660221,5.67,9.72,sandy loam,45.34,soilgrids_synthetic,simulated
+ISRO-2016-0434,26.64651,94.059857,4.72,7.57,loam,39.42,soilgrids_synthetic,simulated
+ISRO-2011-0435,26.254751,94.726336,6.61,10.47,sandy loam,72.66,soilgrids_synthetic,simulated
+ISRO-2009-0436,26.20262,94.069162,4.83,5.37,silty clay loam,44.09,soilgrids_synthetic,simulated
+ISRO-2003-0437,26.299187,94.744134,4.73,6.17,clay loam,72.83,soilgrids_synthetic,simulated
+ISRO-2015-0438,25.62915,92.646021,6.41,92.69,clay,79.98,soilgrids_synthetic,simulated
+ISRO-2015-0439,23.533555,91.598279,5.38,23.21,sandy loam,48.66,soilgrids_synthetic,simulated
+ISRO-2022-0440,27.235631,93.209455,5.57,31.4,sandy clay loam,63.61,soilgrids_synthetic,simulated
+ISRO-2011-0441,25.68412,90.804828,5.74,16.72,silty clay loam,49.48,soilgrids_synthetic,simulated
+ISRO-2018-0442,24.792192,94.174361,6.83,23.04,clay,50.83,soilgrids_synthetic,simulated
+ISRO-2003-0443,23.446088,92.527222,6.16,13.13,clay loam,73.74,soilgrids_synthetic,simulated
+ISRO-2006-0444,26.985476,92.99004,4.56,1.1,loam,70.63,soilgrids_synthetic,simulated
+ISRO-2006-0445,26.109613,93.796234,5.48,55.43,loam,38.94,soilgrids_synthetic,simulated
+ISRO-2015-0446,25.501966,91.202253,5.45,44.95,clay,84.44,soilgrids_synthetic,simulated
+ISRO-2018-0447,25.603387,90.430974,5.13,10.68,silty clay loam,64.58,soilgrids_synthetic,simulated
+ISRO-2018-0448,26.878338,93.122641,6.82,12.71,sandy clay loam,68.91,soilgrids_synthetic,simulated
+ISRO-2020-0449,24.650356,93.845223,5.78,32.69,silty clay loam,75.8,soilgrids_synthetic,simulated
+ISRO-2018-0450,26.2934,93.972199,5.76,1.32,clay loam,39.43,soilgrids_synthetic,simulated
+ISRO-2005-0451,23.515012,92.500605,6.37,8.45,silty clay loam,44.43,soilgrids_synthetic,simulated
+ISRO-2002-0452,23.262889,92.778024,6.64,7.24,clay loam,62.55,soilgrids_synthetic,simulated
+ISRO-2007-0453,24.829869,94.010292,6.75,27.52,loam,30.13,soilgrids_synthetic,simulated
+ISRO-2014-0454,24.530326,94.092581,4.53,76.08,clay,65.85,soilgrids_synthetic,simulated
+ISRO-2012-0455,25.457842,91.04451,6.27,27.04,clay loam,78.02,soilgrids_synthetic,simulated
+ISRO-2004-0456,22.665105,92.957917,4.68,14.32,clay,65.17,soilgrids_synthetic,simulated
+ISRO-2004-0457,26.279589,93.798665,6.12,2.25,loam,46.58,soilgrids_synthetic,simulated
+ISRO-2001-0458,25.458526,91.189733,4.99,20.52,sandy loam,76.49,soilgrids_synthetic,simulated
+ISRO-2004-0459,24.459905,93.75561,5.52,24.96,loam,39.35,soilgrids_synthetic,simulated
+ISRO-2005-0460,26.422925,94.145337,6.86,16.85,silty clay loam,51.22,soilgrids_synthetic,simulated
+ISRO-2016-0461,27.935502,94.662856,6.3,27.73,clay loam,56.43,soilgrids_synthetic,simulated
+ISRO-2013-0462,23.340705,92.469455,5.3,0.55,clay loam,44.34,soilgrids_synthetic,simulated
+ISRO-2005-0463,25.873692,93.662389,4.73,86.21,sandy clay loam,40.68,soilgrids_synthetic,simulated
+ISRO-1999-0464,25.32655,90.915638,6.36,24.34,loam,68.23,soilgrids_synthetic,simulated
+ISRO-2022-0465,23.927181,91.47609,4.57,0.61,clay loam,53.51,soilgrids_synthetic,simulated
+ISRO-2013-0466,26.40747,92.975518,4.81,20.43,silty clay loam,43.41,soilgrids_synthetic,simulated
+ISRO-2015-0467,25.82846,90.518139,4.86,2.68,silty clay loam,42.92,soilgrids_synthetic,simulated
+ISRO-2004-0468,26.612368,94.347898,5.75,22.87,clay loam,83.66,soilgrids_synthetic,simulated
+ISRO-2000-0469,27.70851,91.675086,6.66,31.09,loam,51.45,soilgrids_synthetic,simulated
+ISRO-2009-0470,26.625656,93.982301,6.94,0.69,silty clay loam,77.64,soilgrids_synthetic,simulated
+ISRO-2022-0471,26.91346,92.794195,5.56,7.06,sandy loam,78.46,soilgrids_synthetic,simulated
+ISRO-2014-0472,26.565323,94.419936,5.69,36.84,clay,70.35,soilgrids_synthetic,simulated
+ISRO-2015-0473,25.08913,92.229011,4.69,7.64,sandy clay loam,70.93,soilgrids_synthetic,simulated
+ISRO-2011-0474,25.013929,94.630113,6.06,26.72,clay,33.42,soilgrids_synthetic,simulated
+ISRO-1998-0475,27.426761,91.831165,5.0,24.78,loam,67.51,soilgrids_synthetic,simulated
+ISRO-1998-0476,26.853315,92.906194,4.93,29.73,loam,81.02,soilgrids_synthetic,simulated
+ISRO-2021-0477,23.049084,92.833878,6.48,8.6,clay loam,41.52,soilgrids_synthetic,simulated
+ISRO-2008-0478,23.389913,91.692915,4.82,11.56,clay loam,84.12,soilgrids_synthetic,simulated
+ISRO-2016-0479,25.722491,90.185371,5.31,123.43,silty clay loam,40.32,soilgrids_synthetic,simulated
+ISRO-2008-0480,26.285091,94.595155,5.45,6.81,clay loam,30.99,soilgrids_synthetic,simulated
+ISRO-2015-0481,24.871363,94.476314,5.83,11.02,clay loam,47.51,soilgrids_synthetic,simulated
+ISRO-2003-0482,25.391653,90.962009,6.13,3.0,clay loam,81.44,soilgrids_synthetic,simulated
+ISRO-2018-0483,24.768768,94.503122,5.61,41.14,loam,80.55,soilgrids_synthetic,simulated
+ISRO-2021-0484,26.412062,94.231903,5.24,14.58,loam,62.97,soilgrids_synthetic,simulated
+ISRO-2000-0485,26.20994,93.04952,5.51,5.87,loam,40.99,soilgrids_synthetic,simulated
+ISRO-2015-0486,25.0073,94.506443,4.59,25.02,sandy clay loam,59.25,soilgrids_synthetic,simulated
+ISRO-2021-0487,27.177386,88.421229,6.17,2.38,loam,60.38,soilgrids_synthetic,simulated
+ISRO-2005-0488,26.450033,93.816748,5.95,54.75,silty clay loam,81.37,soilgrids_synthetic,simulated
+ISRO-2007-0489,27.384247,95.356453,6.09,6.38,sandy loam,82.06,soilgrids_synthetic,simulated
+ISRO-2019-0490,27.243187,88.547956,4.66,5.2,loam,59.85,soilgrids_synthetic,simulated
+ISRO-2003-0491,25.483421,92.023,6.47,18.19,clay,55.79,soilgrids_synthetic,simulated
+ISRO-2001-0492,27.504969,95.215714,5.67,49.5,clay,51.14,soilgrids_synthetic,simulated
+ISRO-2006-0493,25.074551,94.098849,5.75,72.64,loam,63.71,soilgrids_synthetic,simulated
+ISRO-2002-0494,27.49086,88.45488,5.0,36.08,sandy clay loam,50.72,soilgrids_synthetic,simulated
+ISRO-2021-0495,23.007458,92.584469,4.53,75.95,sandy clay loam,82.7,soilgrids_synthetic,simulated
+ISRO-2005-0496,25.214864,91.497399,6.12,45.75,clay loam,40.22,soilgrids_synthetic,simulated
+ISRO-2008-0497,26.221671,93.026925,6.07,52.41,sandy clay loam,81.83,soilgrids_synthetic,simulated
+ISRO-1999-0498,27.019699,88.296742,6.98,8.25,silty clay loam,55.44,soilgrids_synthetic,simulated
+ISRO-2007-0499,27.385917,91.660066,5.67,25.51,loam,59.26,soilgrids_synthetic,simulated
+ISRO-2000-0500,26.111787,94.368857,5.1,33.18,sandy clay loam,48.51,soilgrids_synthetic,simulated
+ISRO-2015-0501,22.828558,92.975934,6.61,18.99,clay loam,31.8,soilgrids_synthetic,simulated
+ISRO-2002-0502,24.556112,93.781893,5.68,34.79,sandy loam,48.17,soilgrids_synthetic,simulated
+ISRO-2004-0503,22.876386,92.593869,4.51,40.94,sandy loam,58.06,soilgrids_synthetic,simulated
+ISRO-2017-0504,26.723446,94.075981,6.72,2.25,loam,60.78,soilgrids_synthetic,simulated
+ISRO-2014-0505,26.32307,94.51201,4.92,51.81,sandy loam,44.0,soilgrids_synthetic,simulated
+ISRO-2009-0506,27.32675,88.117641,6.72,25.06,loam,40.16,soilgrids_synthetic,simulated
+ISRO-2007-0507,25.50876,91.624802,4.73,38.24,loam,59.86,soilgrids_synthetic,simulated
+ISRO-2005-0508,26.62671,92.747558,6.94,90.87,sandy clay loam,82.03,soilgrids_synthetic,simulated
+ISRO-2000-0509,26.644571,94.090658,5.16,17.31,sandy clay loam,52.93,soilgrids_synthetic,simulated
+ISRO-2008-0510,23.237409,92.464536,6.95,21.76,clay,83.72,soilgrids_synthetic,simulated
+ISRO-2007-0511,26.287101,92.914636,6.11,17.68,sandy clay loam,79.82,soilgrids_synthetic,simulated
+ISRO-1999-0512,26.839067,92.800476,6.36,36.39,clay,43.56,soilgrids_synthetic,simulated
+ISRO-2012-0513,26.560898,94.293377,6.2,4.93,loam,55.47,soilgrids_synthetic,simulated
+ISRO-2020-0514,25.197742,91.506001,6.97,3.79,clay loam,33.98,soilgrids_synthetic,simulated
+ISRO-2017-0515,27.200158,88.433929,6.76,37.46,sandy clay loam,69.62,soilgrids_synthetic,simulated
+ISRO-2021-0516,26.349106,94.69352,4.92,74.36,sandy loam,39.82,soilgrids_synthetic,simulated
+ISRO-2017-0517,25.904309,90.41557,5.71,5.14,clay loam,69.26,soilgrids_synthetic,simulated
+ISRO-2010-0518,27.177985,93.104637,5.65,3.09,sandy loam,45.47,soilgrids_synthetic,simulated
+ISRO-2009-0519,25.377604,90.76562,6.29,9.09,sandy loam,48.66,soilgrids_synthetic,simulated
+ISRO-2008-0520,25.386992,91.440436,4.82,5.18,clay loam,73.0,soilgrids_synthetic,simulated
+ISRO-2011-0521,23.590115,92.680003,4.78,11.37,sandy loam,33.63,soilgrids_synthetic,simulated
+ISRO-2011-0522,24.479774,94.131007,6.71,7.3,silty clay loam,51.1,soilgrids_synthetic,simulated
+ISRO-2013-0523,25.642927,91.476994,4.78,23.03,silty clay loam,60.97,soilgrids_synthetic,simulated
+ISRO-2020-0524,25.453417,91.902067,5.26,23.88,clay,67.59,soilgrids_synthetic,simulated
+ISRO-2011-0525,23.667943,91.489898,6.75,23.74,clay loam,74.0,soilgrids_synthetic,simulated
+ISRO-2003-0526,23.853116,92.302907,4.82,6.07,clay loam,46.39,soilgrids_synthetic,simulated
+ISRO-2009-0527,25.351243,91.099635,6.45,24.53,clay,60.57,soilgrids_synthetic,simulated
+ISRO-2014-0528,27.085584,95.437947,6.92,18.8,sandy loam,57.17,soilgrids_synthetic,simulated
+ISRO-2003-0529,27.486375,88.651602,5.01,6.16,silty clay loam,48.08,soilgrids_synthetic,simulated
+ISRO-2016-0530,25.436499,91.883581,5.42,72.35,sandy loam,53.62,soilgrids_synthetic,simulated
+ISRO-2017-0531,23.064061,92.788142,6.79,39.64,loam,42.68,soilgrids_synthetic,simulated
+ISRO-2002-0532,23.6501,91.520129,5.82,21.36,sandy clay loam,45.5,soilgrids_synthetic,simulated
+ISRO-1998-0533,27.282584,88.828094,6.36,4.36,clay loam,34.84,soilgrids_synthetic,simulated
+ISRO-2015-0534,23.805911,91.261458,6.07,89.73,sandy loam,72.4,soilgrids_synthetic,simulated
+ISRO-2018-0535,27.181239,92.855801,5.29,10.64,clay loam,39.72,soilgrids_synthetic,simulated
+ISRO-1998-0536,23.427682,91.657758,4.73,1.17,silty clay loam,51.84,soilgrids_synthetic,simulated
+ISRO-2022-0537,23.452374,92.492172,5.83,10.38,sandy loam,48.29,soilgrids_synthetic,simulated
+ISRO-2009-0538,26.544644,94.21652,6.81,33.01,loam,72.38,soilgrids_synthetic,simulated
+ISRO-1998-0539,26.012813,94.526757,5.09,11.26,loam,83.25,soilgrids_synthetic,simulated
+ISRO-2004-0540,25.659869,92.451531,4.9,2.7,loam,55.94,soilgrids_synthetic,simulated
+ISRO-2018-0541,23.425416,92.75927,5.37,99.98,sandy clay loam,35.47,soilgrids_synthetic,simulated
+ISRO-2019-0542,25.010181,94.200884,6.54,3.83,silty clay loam,51.26,soilgrids_synthetic,simulated
+ISRO-1998-0543,25.262474,92.705635,5.02,14.18,clay loam,78.53,soilgrids_synthetic,simulated
+ISRO-2016-0544,25.724818,91.133017,4.69,50.19,clay,69.67,soilgrids_synthetic,simulated
+ISRO-2014-0545,25.975976,94.696241,5.93,0.06,loam,67.86,soilgrids_synthetic,simulated
+ISRO-2004-0546,26.220924,94.579734,5.65,6.75,loam,63.49,soilgrids_synthetic,simulated
+ISRO-2001-0547,24.965983,93.992003,6.2,51.41,clay loam,78.19,soilgrids_synthetic,simulated
+ISRO-2016-0548,24.847621,94.298143,6.61,27.45,clay loam,38.42,soilgrids_synthetic,simulated
+ISRO-2019-0549,27.507639,95.101624,5.77,40.88,clay loam,59.9,soilgrids_synthetic,simulated
+ISRO-2010-0550,25.576698,92.62967,5.38,0.03,clay loam,83.07,soilgrids_synthetic,simulated
+ISRO-2017-0551,23.8233,92.259711,6.04,6.76,sandy loam,43.67,soilgrids_synthetic,simulated
+ISRO-2019-0552,24.631715,94.33564,4.65,12.98,loam,50.15,soilgrids_synthetic,simulated
+ISRO-2011-0553,23.556986,91.051118,4.94,90.99,sandy clay loam,77.45,soilgrids_synthetic,simulated
+ISRO-2012-0554,24.739633,94.243373,4.74,2.23,loam,54.56,soilgrids_synthetic,simulated
+ISRO-2018-0555,26.236002,94.737917,6.97,36.45,loam,40.69,soilgrids_synthetic,simulated
+ISRO-1999-0556,24.907344,94.288957,5.66,30.72,loam,82.03,soilgrids_synthetic,simulated
+ISRO-2011-0557,25.860129,94.071121,5.9,31.01,clay,34.61,soilgrids_synthetic,simulated
+ISRO-2001-0558,23.742032,92.272471,5.6,10.59,clay loam,75.45,soilgrids_synthetic,simulated
+ISRO-2002-0559,23.525654,92.332766,5.37,41.87,sandy clay loam,75.21,soilgrids_synthetic,simulated
+ISRO-2014-0560,27.370249,91.797827,5.43,8.77,clay loam,59.62,soilgrids_synthetic,simulated
+ISRO-2009-0561,25.06796,94.245207,6.72,48.76,silty clay loam,46.7,soilgrids_synthetic,simulated
+ISRO-2005-0562,26.51681,94.012461,5.86,38.95,sandy loam,40.2,soilgrids_synthetic,simulated
+ISRO-2009-0563,23.496955,91.778098,5.78,0.26,sandy loam,50.69,soilgrids_synthetic,simulated
+ISRO-2001-0564,27.548737,91.755828,6.35,22.95,clay loam,56.31,soilgrids_synthetic,simulated
+ISRO-2019-0565,27.311007,88.207132,6.26,0.68,sandy loam,76.41,soilgrids_synthetic,simulated
+ISRO-2000-0566,26.4569,94.13669,4.93,5.69,clay loam,42.15,soilgrids_synthetic,simulated
+ISRO-2003-0567,27.325379,88.735305,4.67,40.62,sandy loam,74.42,soilgrids_synthetic,simulated
+ISRO-2014-0568,27.782844,91.620716,6.56,14.22,clay,35.54,soilgrids_synthetic,simulated
+ISRO-2006-0569,26.887439,93.240006,6.82,28.2,sandy loam,37.61,soilgrids_synthetic,simulated
+ISRO-1998-0570,25.587874,92.575188,6.83,18.03,sandy loam,64.26,soilgrids_synthetic,simulated
+ISRO-2022-0571,22.771313,92.687119,6.12,6.92,sandy clay loam,64.39,soilgrids_synthetic,simulated
+ISRO-2011-0572,22.937939,92.701721,4.96,4.2,loam,56.41,soilgrids_synthetic,simulated
+ISRO-2018-0573,25.889535,93.894615,6.04,44.17,clay,56.46,soilgrids_synthetic,simulated
+ISRO-2014-0574,23.834531,92.502879,6.15,19.37,loam,46.24,soilgrids_synthetic,simulated
+ISRO-2016-0575,23.351361,91.45567,6.73,26.76,clay,48.55,soilgrids_synthetic,simulated
+ISRO-2013-0576,25.211507,94.343295,5.64,19.62,clay,32.43,soilgrids_synthetic,simulated
+ISRO-2000-0577,26.436628,94.682069,5.43,17.7,clay,43.44,soilgrids_synthetic,simulated
+ISRO-2001-0578,23.424659,92.673298,6.01,98.21,clay,63.14,soilgrids_synthetic,simulated
+ISRO-2000-0579,25.561425,91.174731,4.63,54.48,sandy loam,65.6,soilgrids_synthetic,simulated
+ISRO-2006-0580,22.785637,92.874256,5.56,6.41,loam,80.74,soilgrids_synthetic,simulated
+ISRO-2003-0581,25.450463,90.286884,6.58,21.73,clay loam,49.29,soilgrids_synthetic,simulated
+ISRO-2005-0582,26.481852,94.172207,6.07,32.69,sandy loam,44.1,soilgrids_synthetic,simulated
+ISRO-2020-0583,24.303683,93.937149,5.13,0.32,sandy loam,67.82,soilgrids_synthetic,simulated
+ISRO-2012-0584,24.954258,94.255449,5.91,38.28,clay loam,81.39,soilgrids_synthetic,simulated
+ISRO-1998-0585,23.390623,91.680059,5.44,5.87,silty clay loam,54.97,soilgrids_synthetic,simulated
+ISRO-2021-0586,25.973281,94.630036,4.78,73.0,clay loam,31.46,soilgrids_synthetic,simulated
+ISRO-2019-0587,24.614297,93.885812,5.16,6.02,loam,82.44,soilgrids_synthetic,simulated
+ISRO-2008-0588,24.489247,93.912455,6.15,19.4,clay loam,49.43,soilgrids_synthetic,simulated
+ISRO-2001-0589,25.398469,92.493224,4.92,34.79,loam,59.85,soilgrids_synthetic,simulated
+ISRO-2013-0590,25.700591,92.733465,4.62,1.0,clay,32.04,soilgrids_synthetic,simulated
+ISRO-2009-0591,24.521533,93.783666,5.02,1.01,loam,61.23,soilgrids_synthetic,simulated
+ISRO-2013-0592,28.055015,94.60823,5.31,14.85,sandy loam,68.47,soilgrids_synthetic,simulated
+ISRO-2015-0593,26.274767,93.815602,4.98,17.58,loam,53.81,soilgrids_synthetic,simulated
+ISRO-1999-0594,25.468216,90.271589,4.68,17.17,loam,31.22,soilgrids_synthetic,simulated
+ISRO-2007-0595,27.591269,92.012062,5.74,11.46,silty clay loam,65.25,soilgrids_synthetic,simulated
+ISRO-2010-0596,25.401878,91.610982,5.79,5.6,loam,65.05,soilgrids_synthetic,simulated
+ISRO-2003-0597,26.604706,94.072043,6.38,4.17,silty clay loam,61.19,soilgrids_synthetic,simulated
+ISRO-2008-0598,25.09096,91.987833,5.87,47.08,sandy clay loam,32.06,soilgrids_synthetic,simulated
+ISRO-2022-0599,24.684009,93.809449,6.57,50.8,sandy loam,50.08,soilgrids_synthetic,simulated
+ISRO-2004-0600,26.727691,93.907916,6.73,18.5,loam,47.73,soilgrids_synthetic,simulated
+ISRO-2008-0601,25.554363,90.073032,6.99,31.89,clay loam,30.21,soilgrids_synthetic,simulated
+ISRO-2008-0602,25.039508,94.108753,5.02,9.76,sandy loam,33.59,soilgrids_synthetic,simulated
+ISRO-2003-0603,26.500303,94.220286,6.58,44.28,silty clay loam,70.86,soilgrids_synthetic,simulated
+ISRO-2008-0604,23.451085,91.439462,5.45,8.22,clay,55.74,soilgrids_synthetic,simulated
+ISRO-2015-0605,28.220073,94.616106,6.37,24.91,clay loam,55.18,soilgrids_synthetic,simulated
+ISRO-2019-0606,27.562491,91.687466,6.99,2.15,loam,67.06,soilgrids_synthetic,simulated
+ISRO-2001-0607,25.137712,93.950844,4.86,41.61,clay loam,64.09,soilgrids_synthetic,simulated
+ISRO-2009-0608,25.565118,90.76163,6.46,14.35,clay,35.39,soilgrids_synthetic,simulated
+ISRO-2014-0609,27.307635,88.296688,6.84,9.61,loam,32.1,soilgrids_synthetic,simulated
+ISRO-2015-0610,25.542236,91.009657,6.18,0.53,silty clay loam,48.2,soilgrids_synthetic,simulated
+ISRO-2001-0611,23.448419,92.751332,6.16,51.05,silty clay loam,47.02,soilgrids_synthetic,simulated
+ISRO-2007-0612,27.549857,88.462512,5.14,10.03,loam,81.23,soilgrids_synthetic,simulated
+ISRO-2003-0613,28.103187,94.894394,6.79,10.54,clay,77.13,soilgrids_synthetic,simulated
+ISRO-2015-0614,27.036082,93.189717,6.15,23.6,silty clay loam,39.61,soilgrids_synthetic,simulated
+ISRO-2007-0615,28.320587,94.61199,5.73,4.82,sandy loam,81.15,soilgrids_synthetic,simulated
+ISRO-2007-0616,23.330474,91.487881,5.52,1.81,loam,54.84,soilgrids_synthetic,simulated
+ISRO-2015-0617,25.293346,91.528858,5.04,11.55,clay loam,38.41,soilgrids_synthetic,simulated
+ISRO-2007-0618,26.41218,94.765834,6.91,0.4,loam,37.56,soilgrids_synthetic,simulated
+ISRO-2011-0619,23.950336,91.34759,6.99,80.22,loam,36.48,soilgrids_synthetic,simulated
+ISRO-2003-0620,23.14032,92.663894,4.98,5.31,clay loam,35.16,soilgrids_synthetic,simulated
+ISRO-2001-0621,26.329536,94.193179,6.02,9.08,silty clay loam,82.22,soilgrids_synthetic,simulated
+ISRO-1998-0622,23.460617,92.763328,4.96,13.35,clay loam,53.03,soilgrids_synthetic,simulated
+ISRO-2009-0623,27.95414,94.855941,4.5,2.08,sandy loam,72.3,soilgrids_synthetic,simulated
+ISRO-2005-0624,25.416403,92.766553,4.76,4.39,sandy clay loam,34.91,soilgrids_synthetic,simulated
+ISRO-2015-0625,25.42768,92.74775,6.64,9.02,clay,75.89,soilgrids_synthetic,simulated
+ISRO-2003-0626,25.481464,91.533431,6.27,16.74,loam,82.23,soilgrids_synthetic,simulated
+ISRO-2015-0627,27.25142,88.467473,6.78,12.28,sandy loam,68.43,soilgrids_synthetic,simulated
+ISRO-2010-0628,27.493355,88.450425,6.51,28.41,loam,30.5,soilgrids_synthetic,simulated
+ISRO-2013-0629,25.454599,91.367442,4.68,40.62,sandy loam,66.38,soilgrids_synthetic,simulated
+ISRO-1999-0630,28.112398,94.757494,6.64,80.65,sandy clay loam,67.89,soilgrids_synthetic,simulated
+ISRO-2004-0631,26.825372,92.908116,4.67,19.69,loam,50.0,soilgrids_synthetic,simulated
+ISRO-2001-0632,23.740122,91.462762,4.58,24.67,loam,60.9,soilgrids_synthetic,simulated
+ISRO-2011-0633,28.124817,94.75132,6.48,4.9,silty clay loam,42.86,soilgrids_synthetic,simulated
+ISRO-2021-0634,26.506477,94.261788,6.69,8.03,loam,70.92,soilgrids_synthetic,simulated
+ISRO-2009-0635,26.502867,94.442157,6.59,8.49,clay,69.17,soilgrids_synthetic,simulated
+ISRO-2002-0636,27.340676,88.558351,5.74,29.44,loam,31.55,soilgrids_synthetic,simulated
+ISRO-2021-0637,26.395235,93.956115,6.05,5.81,clay,40.42,soilgrids_synthetic,simulated
+ISRO-2015-0638,27.671731,91.963962,6.15,1.59,clay,82.75,soilgrids_synthetic,simulated
+ISRO-2018-0639,26.47527,93.832353,6.31,5.34,sandy loam,40.15,soilgrids_synthetic,simulated
+ISRO-2016-0640,26.718024,93.808352,6.93,9.88,sandy loam,42.0,soilgrids_synthetic,simulated
+ISRO-2013-0641,26.103417,94.465825,5.64,0.42,loam,81.67,soilgrids_synthetic,simulated
+ISRO-2020-0642,26.53829,94.599823,5.95,1.71,loam,60.74,soilgrids_synthetic,simulated
+ISRO-1999-0643,25.269943,90.863695,6.75,101.01,sandy loam,69.52,soilgrids_synthetic,simulated
+ISRO-2006-0644,25.667472,92.897952,5.28,3.16,loam,35.8,soilgrids_synthetic,simulated
+ISRO-2009-0645,23.358666,91.381382,6.4,9.81,clay loam,41.52,soilgrids_synthetic,simulated
+ISRO-2022-0646,23.719763,91.412827,6.08,68.43,silty clay loam,33.86,soilgrids_synthetic,simulated
+ISRO-2001-0647,25.415906,92.808217,6.08,1.94,clay loam,60.51,soilgrids_synthetic,simulated
+ISRO-2002-0648,25.252141,92.702105,5.92,17.49,sandy clay loam,82.54,soilgrids_synthetic,simulated
+ISRO-1999-0649,25.583085,91.161327,6.86,8.94,sandy loam,36.78,soilgrids_synthetic,simulated
+ISRO-2001-0650,26.587464,94.190177,5.33,8.14,clay loam,75.34,soilgrids_synthetic,simulated
+ISRO-2004-0651,23.336079,91.435115,6.41,42.47,sandy clay loam,83.83,soilgrids_synthetic,simulated
+ISRO-1999-0652,26.18659,92.775594,6.73,20.66,sandy loam,59.34,soilgrids_synthetic,simulated
+ISRO-2007-0653,25.268933,92.596423,5.9,26.16,clay loam,39.88,soilgrids_synthetic,simulated
+ISRO-2010-0654,24.971141,93.918817,5.14,40.78,clay loam,40.68,soilgrids_synthetic,simulated
+ISRO-2008-0655,26.452513,94.306241,5.47,53.96,clay,33.81,soilgrids_synthetic,simulated
+ISRO-2001-0656,25.996637,93.802971,5.14,26.09,silty clay loam,69.08,soilgrids_synthetic,simulated
+ISRO-2000-0657,25.860935,90.289652,4.74,27.27,clay,34.06,soilgrids_synthetic,simulated
+ISRO-2013-0658,23.461453,91.563317,6.36,3.96,clay loam,32.55,soilgrids_synthetic,simulated
+ISRO-2007-0659,27.074869,88.51394,5.84,16.0,loam,48.45,soilgrids_synthetic,simulated
+ISRO-2018-0660,23.579855,92.640938,4.67,14.46,clay loam,83.35,soilgrids_synthetic,simulated
+ISRO-2021-0661,26.401332,94.243081,5.13,54.03,clay loam,80.87,soilgrids_synthetic,simulated
+ISRO-2005-0662,27.554225,88.316051,6.69,33.45,loam,78.28,soilgrids_synthetic,simulated
+ISRO-2022-0663,25.970705,93.781146,5.26,52.62,silty clay loam,30.24,soilgrids_synthetic,simulated
+ISRO-1998-0664,26.466115,93.049348,5.67,21.89,sandy loam,64.27,soilgrids_synthetic,simulated
+ISRO-2006-0665,23.569103,91.522514,5.7,13.77,silty clay loam,52.87,soilgrids_synthetic,simulated
+ISRO-2000-0666,25.367092,92.281912,5.39,27.97,clay loam,54.62,soilgrids_synthetic,simulated
+ISRO-2008-0667,26.221903,94.83292,6.91,0.44,clay loam,38.11,soilgrids_synthetic,simulated
+ISRO-2015-0668,25.482927,91.564714,6.13,7.82,clay,83.85,soilgrids_synthetic,simulated
+ISRO-2005-0669,27.284708,88.511705,6.19,17.37,loam,57.59,soilgrids_synthetic,simulated
+ISRO-2014-0670,25.575472,91.202179,6.53,4.13,silty clay loam,78.32,soilgrids_synthetic,simulated
+ISRO-2014-0671,24.288633,93.721093,6.45,48.59,clay loam,80.25,soilgrids_synthetic,simulated
+ISRO-2018-0672,28.007848,94.522669,5.67,14.5,sandy loam,53.44,soilgrids_synthetic,simulated
+ISRO-2004-0673,26.21079,93.7582,5.46,32.99,loam,63.37,soilgrids_synthetic,simulated
+ISRO-2003-0674,26.239552,93.692999,6.43,73.07,clay loam,59.01,soilgrids_synthetic,simulated
+ISRO-2022-0675,27.281856,88.566867,5.96,47.02,loam,79.71,soilgrids_synthetic,simulated
+ISRO-2015-0676,25.350602,90.942104,4.78,84.12,loam,60.13,soilgrids_synthetic,simulated
+ISRO-2003-0677,26.659056,93.883824,5.7,53.06,clay loam,31.46,soilgrids_synthetic,simulated
+ISRO-1998-0678,25.629971,91.223877,4.67,21.34,clay loam,34.48,soilgrids_synthetic,simulated
+ISRO-2021-0679,27.272995,88.525324,5.25,24.01,silty clay loam,40.84,soilgrids_synthetic,simulated
+ISRO-2014-0680,27.263466,88.715836,5.08,24.83,loam,40.52,soilgrids_synthetic,simulated
+ISRO-2001-0681,28.255938,94.859351,5.14,1.36,clay,66.87,soilgrids_synthetic,simulated
+ISRO-2011-0682,26.4728,93.752925,6.92,50.66,clay loam,68.21,soilgrids_synthetic,simulated
+ISRO-2002-0683,26.472974,92.645961,4.56,0.98,clay loam,70.21,soilgrids_synthetic,simulated
+ISRO-1999-0684,26.254885,94.048074,4.63,50.71,clay loam,53.15,soilgrids_synthetic,simulated
+ISRO-2021-0685,23.253865,92.791447,5.73,5.33,sandy loam,54.08,soilgrids_synthetic,simulated
+ISRO-1998-0686,26.250157,93.925184,5.11,4.79,clay loam,41.66,soilgrids_synthetic,simulated
+ISRO-2008-0687,23.022943,92.706306,5.63,44.11,clay,71.64,soilgrids_synthetic,simulated
+ISRO-2022-0688,27.10313,88.061764,6.86,45.74,clay loam,39.79,soilgrids_synthetic,simulated
+ISRO-2019-0689,25.331259,91.234246,6.2,63.78,loam,70.45,soilgrids_synthetic,simulated
+ISRO-2009-0690,27.213556,95.00508,6.39,10.7,clay loam,73.0,soilgrids_synthetic,simulated
+ISRO-2009-0691,22.774779,92.764712,4.62,4.88,sandy clay loam,60.34,soilgrids_synthetic,simulated
+ISRO-2021-0692,27.15528,92.921569,6.51,0.33,clay,77.43,soilgrids_synthetic,simulated
+ISRO-2005-0693,25.053339,94.034695,6.12,38.29,loam,44.44,soilgrids_synthetic,simulated
+ISRO-2011-0694,27.995024,94.935788,4.98,70.44,sandy clay loam,81.64,soilgrids_synthetic,simulated
+ISRO-2006-0695,25.238049,91.481044,4.67,29.21,loam,57.91,soilgrids_synthetic,simulated
+ISRO-2021-0696,25.431923,92.5006,6.78,88.13,sandy loam,73.42,soilgrids_synthetic,simulated
+ISRO-2002-0697,26.689619,93.824017,6.8,115.77,clay,51.75,soilgrids_synthetic,simulated
+ISRO-2022-0698,27.388369,95.375345,4.79,12.76,silty clay loam,78.89,soilgrids_synthetic,simulated
+ISRO-2015-0699,26.725294,94.03433,6.77,9.59,sandy clay loam,78.36,soilgrids_synthetic,simulated
+ISRO-2012-0700,25.854718,93.93492,5.04,47.53,sandy clay loam,57.09,soilgrids_synthetic,simulated
+ISRO-2011-0701,23.283652,91.798642,5.24,16.35,loam,66.77,soilgrids_synthetic,simulated
+ISRO-2008-0702,25.804522,90.073562,5.33,2.0,loam,80.76,soilgrids_synthetic,simulated
+ISRO-2009-0703,27.167817,93.052796,6.77,77.81,clay loam,35.28,soilgrids_synthetic,simulated
+ISRO-1998-0704,23.853848,91.417425,6.98,24.83,clay loam,44.72,soilgrids_synthetic,simulated
+ISRO-2008-0705,23.285565,91.406609,5.41,18.85,clay,62.54,soilgrids_synthetic,simulated
+ISRO-2007-0706,26.548486,92.941976,5.66,79.69,silty clay loam,58.62,soilgrids_synthetic,simulated
+ISRO-2008-0707,23.341364,91.791691,5.52,108.11,clay,48.89,soilgrids_synthetic,simulated
+ISRO-2020-0708,26.349733,94.316631,6.14,0.13,loam,57.37,soilgrids_synthetic,simulated
+ISRO-2003-0709,28.19802,94.578571,5.21,14.08,sandy clay loam,66.59,soilgrids_synthetic,simulated
+ISRO-2007-0710,23.72457,92.507945,6.74,12.71,clay loam,61.81,soilgrids_synthetic,simulated
+ISRO-2019-0711,27.236507,88.436654,6.37,9.51,loam,57.89,soilgrids_synthetic,simulated
+ISRO-2017-0712,23.69602,91.62282,4.8,4.36,clay loam,44.6,soilgrids_synthetic,simulated
+ISRO-2001-0713,26.600341,92.977044,5.32,67.51,sandy clay loam,68.12,soilgrids_synthetic,simulated
+ISRO-2011-0714,23.657274,92.701931,6.57,40.61,silty clay loam,38.02,soilgrids_synthetic,simulated
+ISRO-2022-0715,25.493024,91.202072,6.75,9.96,sandy loam,77.45,soilgrids_synthetic,simulated
+ISRO-2017-0716,26.282177,93.78428,4.65,1.44,sandy loam,78.05,soilgrids_synthetic,simulated
+ISRO-2020-0717,24.399362,93.787755,4.57,17.64,sandy clay loam,52.1,soilgrids_synthetic,simulated
+ISRO-2013-0718,27.284018,88.50703,6.49,77.27,loam,79.1,soilgrids_synthetic,simulated
+ISRO-2015-0719,24.58382,94.24157,4.89,30.61,sandy clay loam,73.91,soilgrids_synthetic,simulated
+ISRO-2016-0720,26.226443,93.692954,4.76,20.69,clay,80.6,soilgrids_synthetic,simulated
+ISRO-2000-0721,23.905446,92.622323,5.97,9.74,sandy loam,72.45,soilgrids_synthetic,simulated
+ISRO-2006-0722,23.023137,92.950659,5.54,44.94,clay loam,31.14,soilgrids_synthetic,simulated
+ISRO-2015-0723,23.724491,92.611964,6.04,5.39,clay,52.0,soilgrids_synthetic,simulated
+ISRO-2004-0724,25.618783,91.189613,4.75,6.85,loam,32.27,soilgrids_synthetic,simulated
+ISRO-2001-0725,25.207092,91.535961,6.32,5.0,loam,65.71,soilgrids_synthetic,simulated
+ISRO-2008-0726,27.252622,88.430138,4.82,0.01,clay loam,47.91,soilgrids_synthetic,simulated
+ISRO-1999-0727,24.927476,94.40688,5.49,0.34,sandy loam,32.45,soilgrids_synthetic,simulated
+ISRO-2005-0728,25.350954,92.625367,6.65,22.43,sandy loam,72.65,soilgrids_synthetic,simulated
+ISRO-2007-0729,24.829207,94.193362,6.47,2.31,sandy clay loam,71.44,soilgrids_synthetic,simulated
+ISRO-2006-0730,27.376682,88.624734,5.05,27.43,silty clay loam,47.05,soilgrids_synthetic,simulated
+ISRO-2007-0731,26.016412,93.785368,5.01,26.0,loam,55.62,soilgrids_synthetic,simulated
+ISRO-2000-0732,26.342669,94.747431,5.28,24.63,clay,33.69,soilgrids_synthetic,simulated
+ISRO-2012-0733,27.306859,88.627225,4.82,19.51,clay,48.88,soilgrids_synthetic,simulated
+ISRO-2014-0734,23.416059,91.763131,5.9,32.11,loam,73.02,soilgrids_synthetic,simulated
+ISRO-2000-0735,25.527484,90.132809,6.14,21.46,silty clay loam,74.86,soilgrids_synthetic,simulated
+ISRO-2005-0736,26.361749,94.342603,5.12,4.63,loam,84.43,soilgrids_synthetic,simulated
+ISRO-2019-0737,26.292427,94.233238,5.74,8.26,loam,76.35,soilgrids_synthetic,simulated
+ISRO-2000-0738,26.270389,93.914588,5.6,20.36,sandy loam,47.77,soilgrids_synthetic,simulated
+ISRO-2009-0739,27.490694,88.667715,5.88,6.09,loam,40.18,soilgrids_synthetic,simulated
+ISRO-2011-0740,25.586284,90.18207,6.12,66.79,clay loam,77.89,soilgrids_synthetic,simulated
+ISRO-2009-0741,25.254667,91.123429,6.38,96.59,clay loam,63.15,soilgrids_synthetic,simulated
+ISRO-2019-0742,22.672968,93.046229,4.75,6.18,clay,71.08,soilgrids_synthetic,simulated
+ISRO-2003-0743,27.546886,91.877803,5.19,73.77,loam,75.17,soilgrids_synthetic,simulated
+ISRO-1998-0744,27.082096,88.078529,4.55,4.08,sandy loam,58.02,soilgrids_synthetic,simulated
+ISRO-2009-0745,25.27279,90.965113,5.03,4.12,loam,54.51,soilgrids_synthetic,simulated
+ISRO-1998-0746,27.327798,88.39878,4.96,4.69,loam,57.41,soilgrids_synthetic,simulated
+ISRO-2013-0747,24.949608,94.342778,6.96,40.76,silty clay loam,77.67,soilgrids_synthetic,simulated
+ISRO-2016-0748,23.622476,92.330136,4.55,32.43,silty clay loam,61.59,soilgrids_synthetic,simulated
+ISRO-2014-0749,22.833096,92.571362,6.51,15.6,sandy loam,30.9,soilgrids_synthetic,simulated
+ISRO-2022-0750,23.903973,92.53598,5.28,4.41,clay loam,75.39,soilgrids_synthetic,simulated
+ISRO-2009-0751,25.309429,91.034587,5.14,46.38,clay loam,51.71,soilgrids_synthetic,simulated
+ISRO-2017-0752,24.97862,94.530034,6.29,7.14,loam,43.48,soilgrids_synthetic,simulated
+ISRO-2001-0753,23.661646,91.721925,5.37,8.18,clay,66.17,soilgrids_synthetic,simulated
+ISRO-2018-0754,27.185543,92.825843,6.77,6.75,sandy clay loam,73.45,soilgrids_synthetic,simulated
+ISRO-2001-0755,25.260317,92.947045,6.36,15.08,loam,34.07,soilgrids_synthetic,simulated
+ISRO-2009-0756,24.2528,94.039627,6.12,3.14,sandy clay loam,74.56,soilgrids_synthetic,simulated
+ISRO-2004-0757,25.401066,91.365924,6.83,4.63,silty clay loam,53.39,soilgrids_synthetic,simulated
+ISRO-2001-0758,23.835241,91.454092,4.99,82.47,clay,80.97,soilgrids_synthetic,simulated
+ISRO-2006-0759,27.485013,88.59336,4.7,6.97,clay loam,39.91,soilgrids_synthetic,simulated
+ISRO-1998-0760,24.841494,94.255437,5.47,1.31,sandy clay loam,54.23,soilgrids_synthetic,simulated
+ISRO-2002-0761,27.86653,94.736352,4.97,42.78,sandy clay loam,79.32,soilgrids_synthetic,simulated
+ISRO-2006-0762,27.61462,88.183177,5.6,8.38,sandy clay loam,42.6,soilgrids_synthetic,simulated
+ISRO-1999-0763,25.018769,94.169173,5.76,2.46,loam,56.38,soilgrids_synthetic,simulated
+ISRO-2008-0764,26.433372,94.739887,4.68,32.87,clay loam,53.28,soilgrids_synthetic,simulated
+ISRO-2004-0765,25.526025,92.055793,6.12,15.33,clay,58.88,soilgrids_synthetic,simulated
+ISRO-1999-0766,26.432192,94.293449,5.71,16.57,sandy clay loam,59.53,soilgrids_synthetic,simulated
+ISRO-2011-0767,23.608323,91.193748,5.25,123.65,clay loam,78.92,soilgrids_synthetic,simulated
+ISRO-2021-0768,25.94526,93.74159,6.24,3.13,sandy clay loam,72.08,soilgrids_synthetic,simulated
+ISRO-2013-0769,25.575081,92.83665,5.57,3.55,sandy loam,66.28,soilgrids_synthetic,simulated
+ISRO-2006-0770,26.391516,94.161259,5.25,7.13,clay loam,40.46,soilgrids_synthetic,simulated
+ISRO-2015-0771,27.030923,92.920551,5.7,6.32,clay loam,65.09,soilgrids_synthetic,simulated
+ISRO-2006-0772,23.599274,91.84049,5.65,10.43,loam,73.82,soilgrids_synthetic,simulated
+ISRO-2015-0773,25.429592,90.935751,6.49,18.01,loam,55.78,soilgrids_synthetic,simulated
+ISRO-2002-0774,23.814017,92.609729,5.23,7.61,loam,38.82,soilgrids_synthetic,simulated
+ISRO-2002-0775,27.492985,88.172073,4.76,4.28,clay loam,70.22,soilgrids_synthetic,simulated
+ISRO-2010-0776,28.099162,94.729397,5.49,8.9,sandy loam,43.74,soilgrids_synthetic,simulated
+ISRO-1998-0777,23.973025,91.066164,4.66,4.6,clay loam,50.98,soilgrids_synthetic,simulated
+ISRO-2011-0778,23.797809,92.347747,7.0,33.85,silty clay loam,60.13,soilgrids_synthetic,simulated
+ISRO-2010-0779,25.506716,90.292771,5.86,20.75,clay loam,47.67,soilgrids_synthetic,simulated
+ISRO-2018-0780,23.362826,91.526041,5.9,32.63,clay loam,60.93,soilgrids_synthetic,simulated
+ISRO-2014-0781,23.338634,91.368603,4.74,78.59,loam,47.08,soilgrids_synthetic,simulated
+ISRO-2013-0782,24.739319,94.56662,6.34,12.41,loam,69.44,soilgrids_synthetic,simulated
+ISRO-2014-0783,23.30537,91.591096,6.44,21.76,loam,84.99,soilgrids_synthetic,simulated
+ISRO-2009-0784,26.369182,94.287315,5.07,35.96,clay,32.24,soilgrids_synthetic,simulated
+ISRO-2012-0785,22.662908,92.567695,5.5,18.19,loam,74.6,soilgrids_synthetic,simulated
+ISRO-2017-0786,24.384211,93.844773,6.25,4.56,silty clay loam,39.08,soilgrids_synthetic,simulated
+ISRO-2006-0787,25.69539,92.809844,4.86,30.06,loam,54.37,soilgrids_synthetic,simulated
+ISRO-2018-0788,25.472187,91.28943,4.52,54.27,sandy loam,46.53,soilgrids_synthetic,simulated
+ISRO-2016-0789,25.194434,91.496549,4.68,63.69,clay loam,31.77,soilgrids_synthetic,simulated
+ISRO-2021-0790,27.926347,94.79593,6.7,4.74,loam,56.86,soilgrids_synthetic,simulated
+ISRO-2003-0791,23.439253,91.78262,5.26,1.76,clay loam,59.93,soilgrids_synthetic,simulated
+ISRO-2008-0792,25.374912,92.668422,5.96,4.7,sandy loam,59.54,soilgrids_synthetic,simulated
+ISRO-2008-0793,25.418474,92.52546,6.36,14.88,loam,63.99,soilgrids_synthetic,simulated
+ISRO-2005-0794,24.568962,94.127352,5.2,11.22,clay loam,72.97,soilgrids_synthetic,simulated
+ISRO-2017-0795,27.266595,95.086803,6.67,10.08,clay loam,56.38,soilgrids_synthetic,simulated
+ISRO-2006-0796,25.769703,90.310026,5.41,84.63,sandy loam,80.48,soilgrids_synthetic,simulated
+ISRO-2011-0797,24.901028,94.590583,6.29,2.16,sandy loam,84.44,soilgrids_synthetic,simulated
+ISRO-2005-0798,24.987863,94.295695,6.11,15.34,clay,31.61,soilgrids_synthetic,simulated
+ISRO-2002-0799,23.588704,92.58786,4.81,13.44,clay loam,73.54,soilgrids_synthetic,simulated
+ISRO-2005-0800,23.316675,91.650561,5.3,15.98,loam,58.88,soilgrids_synthetic,simulated
+ISRO-2002-0801,27.353841,88.151206,6.39,0.09,clay,55.96,soilgrids_synthetic,simulated
+ISRO-2014-0802,24.855917,93.859003,6.31,36.23,loam,47.1,soilgrids_synthetic,simulated
+ISRO-2009-0803,27.151446,95.389015,5.2,32.15,sandy loam,34.64,soilgrids_synthetic,simulated
+ISRO-2000-0804,25.261259,92.507226,5.18,31.3,silty clay loam,77.53,soilgrids_synthetic,simulated
+ISRO-2000-0805,25.60833,91.449573,5.92,85.38,clay loam,83.37,soilgrids_synthetic,simulated
+ISRO-2010-0806,26.705443,94.16899,5.35,60.33,sandy clay loam,70.48,soilgrids_synthetic,simulated
+ISRO-2015-0807,27.730314,91.697657,6.67,29.0,clay loam,73.24,soilgrids_synthetic,simulated
+ISRO-2009-0808,26.6119,94.005219,5.13,7.1,clay,42.41,soilgrids_synthetic,simulated
+ISRO-2011-0809,28.277656,94.574761,5.86,59.28,sandy clay loam,83.83,soilgrids_synthetic,simulated
+ISRO-2022-0810,26.534219,93.807514,6.04,68.91,loam,58.35,soilgrids_synthetic,simulated
+ISRO-2016-0811,26.182624,94.68425,5.64,61.34,clay,76.31,soilgrids_synthetic,simulated
+ISRO-1998-0812,25.245553,93.980503,4.79,39.32,sandy loam,44.95,soilgrids_synthetic,simulated
+ISRO-2009-0813,23.686019,92.437045,5.96,33.04,loam,44.16,soilgrids_synthetic,simulated
+ISRO-2017-0814,26.970367,88.521395,5.68,18.97,silty clay loam,43.83,soilgrids_synthetic,simulated
+ISRO-2002-0815,26.426053,94.524752,6.75,21.4,sandy loam,76.04,soilgrids_synthetic,simulated
+ISRO-2022-0816,28.074335,94.472229,6.48,21.6,clay loam,49.98,soilgrids_synthetic,simulated
+ISRO-2010-0817,27.391803,91.687034,6.15,21.29,silty clay loam,83.42,soilgrids_synthetic,simulated
+ISRO-2001-0818,25.343533,92.102828,5.98,59.22,clay,33.9,soilgrids_synthetic,simulated
+ISRO-2004-0819,23.872893,92.267765,4.5,8.86,clay loam,63.59,soilgrids_synthetic,simulated
+ISRO-2018-0820,27.089272,95.029964,5.53,126.6,silty clay loam,78.84,soilgrids_synthetic,simulated
+ISRO-2009-0821,26.926367,92.809063,6.13,47.09,loam,31.56,soilgrids_synthetic,simulated
+ISRO-2013-0822,23.099171,92.899656,5.91,39.47,loam,34.55,soilgrids_synthetic,simulated
+ISRO-2009-0823,26.628807,94.434456,6.95,31.02,clay loam,35.25,soilgrids_synthetic,simulated
+ISRO-2009-0824,25.278652,91.151747,6.21,65.95,loam,49.16,soilgrids_synthetic,simulated
+ISRO-2008-0825,24.651675,94.149759,5.02,29.75,silty clay loam,71.08,soilgrids_synthetic,simulated
+ISRO-1998-0826,25.507198,90.185848,6.46,6.67,clay,50.16,soilgrids_synthetic,simulated
+ISRO-2000-0827,25.455053,90.407603,5.31,10.98,silty clay loam,75.06,soilgrids_synthetic,simulated
+ISRO-2008-0828,26.275825,93.772443,6.63,7.43,loam,67.94,soilgrids_synthetic,simulated
+ISRO-1998-0829,23.104896,92.870907,4.97,9.0,clay loam,58.84,soilgrids_synthetic,simulated
+ISRO-2020-0830,22.939707,92.946233,6.0,3.53,silty clay loam,42.42,soilgrids_synthetic,simulated
+ISRO-1998-0831,23.059127,92.653047,5.93,21.46,sandy loam,59.43,soilgrids_synthetic,simulated
+ISRO-2020-0832,23.705691,91.380329,6.55,27.0,sandy loam,54.98,soilgrids_synthetic,simulated
+ISRO-2012-0833,27.229396,93.144022,5.53,15.86,loam,65.44,soilgrids_synthetic,simulated
+ISRO-2004-0834,23.907815,91.45311,5.49,15.27,loam,67.6,soilgrids_synthetic,simulated
+ISRO-2010-0835,22.867543,92.891526,6.87,32.91,sandy loam,78.91,soilgrids_synthetic,simulated
+ISRO-2014-0836,23.593856,92.746893,5.7,42.08,sandy loam,30.5,soilgrids_synthetic,simulated
+ISRO-2011-0837,24.787744,94.375534,6.69,47.33,silty clay loam,61.06,soilgrids_synthetic,simulated
+ISRO-2006-0838,26.01158,94.610895,5.32,33.2,clay,60.66,soilgrids_synthetic,simulated
+ISRO-2009-0839,25.397079,91.233399,6.15,13.16,clay loam,77.98,soilgrids_synthetic,simulated
+ISRO-2005-0840,27.565167,88.463387,6.0,44.25,sandy clay loam,71.24,soilgrids_synthetic,simulated
+ISRO-2007-0841,27.239515,88.559197,6.94,23.79,sandy clay loam,67.66,soilgrids_synthetic,simulated
+ISRO-2016-0842,27.038973,93.153084,4.9,30.27,clay,71.97,soilgrids_synthetic,simulated
+ISRO-1998-0843,27.048419,93.146256,6.84,16.89,loam,76.23,soilgrids_synthetic,simulated
+ISRO-2000-0844,23.599205,91.355445,5.49,91.06,clay,34.52,soilgrids_synthetic,simulated
+ISRO-2017-0845,27.804989,91.769168,6.58,8.26,loam,56.29,soilgrids_synthetic,simulated
+ISRO-1999-0846,23.545541,91.804935,6.88,8.86,loam,84.37,soilgrids_synthetic,simulated
+ISRO-2018-0847,25.245955,92.024253,4.53,43.87,loam,46.32,soilgrids_synthetic,simulated
+ISRO-2007-0848,27.32397,88.527456,6.44,10.15,clay,54.96,soilgrids_synthetic,simulated
+ISRO-2014-0849,23.402486,92.676513,6.11,17.48,loam,83.43,soilgrids_synthetic,simulated
+ISRO-2015-0850,28.140902,94.765901,5.15,27.02,loam,48.17,soilgrids_synthetic,simulated
+ISRO-2008-0851,25.381997,92.096536,6.13,15.45,sandy loam,64.84,soilgrids_synthetic,simulated
+ISRO-2008-0852,23.844036,92.333968,4.51,38.98,sandy clay loam,78.3,soilgrids_synthetic,simulated
+ISRO-2013-0853,26.145046,94.511753,6.88,3.12,loam,78.92,soilgrids_synthetic,simulated
+ISRO-2012-0854,26.529164,93.757488,6.11,1.04,sandy loam,44.13,soilgrids_synthetic,simulated
+ISRO-2004-0855,27.236879,92.95036,5.71,56.25,silty clay loam,81.23,soilgrids_synthetic,simulated
+ISRO-2015-0856,26.445299,94.611414,6.58,59.72,loam,56.12,soilgrids_synthetic,simulated
+ISRO-2003-0857,23.626751,92.947799,6.9,33.02,sandy clay loam,59.87,soilgrids_synthetic,simulated
+ISRO-2003-0858,26.214039,94.557511,5.9,60.76,clay loam,32.88,soilgrids_synthetic,simulated
+ISRO-2011-0859,25.227256,92.108804,6.33,0.87,sandy loam,68.23,soilgrids_synthetic,simulated
+ISRO-2008-0860,25.325071,91.263218,6.84,41.85,loam,74.47,soilgrids_synthetic,simulated
+ISRO-1999-0861,23.576089,91.548887,6.67,56.68,silty clay loam,41.56,soilgrids_synthetic,simulated
+ISRO-2013-0862,26.364096,94.761172,5.05,52.36,loam,59.21,soilgrids_synthetic,simulated
+ISRO-2021-0863,27.056924,88.650929,6.48,44.71,loam,34.28,soilgrids_synthetic,simulated
+ISRO-2009-0864,28.258551,94.822678,5.13,21.71,silty clay loam,68.21,soilgrids_synthetic,simulated
+ISRO-2014-0865,25.819937,90.424866,6.56,11.73,loam,58.22,soilgrids_synthetic,simulated
+ISRO-2016-0866,23.545501,92.660062,6.02,61.88,loam,70.84,soilgrids_synthetic,simulated
+ISRO-2005-0867,27.53738,95.070739,6.44,7.3,clay loam,83.65,soilgrids_synthetic,simulated
+ISRO-2020-0868,27.631735,91.583924,5.4,52.77,sandy loam,46.72,soilgrids_synthetic,simulated
+ISRO-2007-0869,23.936948,91.411767,6.77,2.63,sandy loam,72.61,soilgrids_synthetic,simulated
+ISRO-2000-0870,24.865979,94.508463,6.45,11.99,sandy loam,72.46,soilgrids_synthetic,simulated
+ISRO-2006-0871,25.937853,93.938195,6.59,25.83,sandy loam,34.49,soilgrids_synthetic,simulated
+ISRO-2012-0872,25.533679,91.136806,5.97,26.92,silty clay loam,74.16,soilgrids_synthetic,simulated
+ISRO-2018-0873,26.048379,94.643018,6.79,22.13,sandy loam,43.01,soilgrids_synthetic,simulated
+ISRO-2005-0874,23.564599,91.648873,5.07,15.97,silty clay loam,79.33,soilgrids_synthetic,simulated
+ISRO-2020-0875,26.509316,94.148446,5.69,66.87,loam,39.98,soilgrids_synthetic,simulated
+ISRO-2016-0876,24.700787,93.949332,5.73,29.3,loam,79.03,soilgrids_synthetic,simulated
+ISRO-1998-0877,25.514146,92.486806,4.87,23.27,clay loam,84.42,soilgrids_synthetic,simulated
+ISRO-2007-0878,25.263642,90.763468,5.7,10.74,silty clay loam,41.57,soilgrids_synthetic,simulated
+ISRO-2000-0879,23.411088,92.749851,6.98,45.99,sandy loam,41.87,soilgrids_synthetic,simulated
+ISRO-2003-0880,25.311943,92.533051,5.32,42.07,loam,32.62,soilgrids_synthetic,simulated
+ISRO-2014-0881,27.148698,94.992648,5.47,14.39,sandy loam,36.89,soilgrids_synthetic,simulated
+ISRO-2010-0882,24.395844,94.139831,5.28,10.24,loam,64.9,soilgrids_synthetic,simulated
+ISRO-2019-0883,25.220181,91.442011,6.45,7.75,clay,74.86,soilgrids_synthetic,simulated
+ISRO-2007-0884,24.955105,94.509843,5.9,6.58,loam,62.02,soilgrids_synthetic,simulated
+ISRO-2005-0885,23.414915,92.848329,6.29,146.38,clay loam,36.85,soilgrids_synthetic,simulated
+ISRO-2018-0886,26.669447,94.147459,4.7,26.96,sandy clay loam,56.56,soilgrids_synthetic,simulated
+ISRO-2002-0887,26.914061,92.989922,6.52,71.09,silty clay loam,80.69,soilgrids_synthetic,simulated
+ISRO-2009-0888,22.817718,92.667464,6.57,6.79,clay loam,41.37,soilgrids_synthetic,simulated
+ISRO-2004-0889,26.072385,94.770709,6.58,40.01,loam,84.5,soilgrids_synthetic,simulated
+ISRO-2014-0890,26.215674,94.653267,4.79,9.31,sandy loam,32.5,soilgrids_synthetic,simulated
+ISRO-2007-0891,26.253391,94.227764,6.01,44.04,loam,71.64,soilgrids_synthetic,simulated
+ISRO-2019-0892,27.202298,88.57527,5.32,10.35,clay,51.58,soilgrids_synthetic,simulated
+ISRO-2001-0893,25.566366,90.405688,6.37,30.18,silty clay loam,48.75,soilgrids_synthetic,simulated
+ISRO-2019-0894,26.411986,94.619647,5.24,14.1,sandy loam,73.81,soilgrids_synthetic,simulated
+ISRO-2022-0895,27.639276,91.954359,4.52,59.67,silty clay loam,67.33,soilgrids_synthetic,simulated
+ISRO-2012-0896,23.474648,91.635361,4.81,5.74,sandy clay loam,32.1,soilgrids_synthetic,simulated
+ISRO-2011-0897,25.060902,92.101875,6.91,11.93,sandy clay loam,67.13,soilgrids_synthetic,simulated
+ISRO-2000-0898,25.03653,94.611167,6.47,4.47,sandy loam,43.52,soilgrids_synthetic,simulated
+ISRO-1999-0899,26.451398,94.080294,6.02,16.01,clay loam,44.0,soilgrids_synthetic,simulated
+ISRO-2011-0900,23.696354,92.647987,6.69,22.79,sandy loam,59.32,soilgrids_synthetic,simulated
+ISRO-2007-0901,27.221954,94.95282,4.79,11.07,clay loam,70.09,soilgrids_synthetic,simulated
+ISRO-2002-0902,27.26168,88.307131,6.53,23.4,silty clay loam,49.59,soilgrids_synthetic,simulated
+ISRO-2015-0903,27.307795,88.187582,5.76,2.71,loam,55.83,soilgrids_synthetic,simulated
+ISRO-2014-0904,25.302539,90.763445,5.94,26.46,silty clay loam,40.75,soilgrids_synthetic,simulated
+ISRO-2002-0905,26.436926,94.052924,6.43,73.46,sandy loam,84.63,soilgrids_synthetic,simulated
+ISRO-2012-0906,23.694946,91.401794,5.16,1.44,sandy clay loam,74.5,soilgrids_synthetic,simulated
+ISRO-2017-0907,27.550476,88.417406,5.87,6.8,clay loam,75.03,soilgrids_synthetic,simulated
+ISRO-2009-0908,25.604021,91.505868,6.91,56.43,clay loam,49.71,soilgrids_synthetic,simulated
+ISRO-2012-0909,26.277295,93.910189,6.61,26.13,clay loam,48.3,soilgrids_synthetic,simulated
+ISRO-1998-0910,25.269714,91.504931,5.69,16.57,clay,45.14,soilgrids_synthetic,simulated
+ISRO-2015-0911,26.192935,92.629125,5.79,59.94,sandy clay loam,47.23,soilgrids_synthetic,simulated
+ISRO-2012-0912,25.243615,91.334192,4.96,27.98,sandy loam,69.56,soilgrids_synthetic,simulated
+ISRO-2015-0913,22.689617,93.003925,5.5,18.51,sandy loam,68.27,soilgrids_synthetic,simulated
+ISRO-2011-0914,25.376224,91.186296,4.62,16.85,clay loam,63.29,soilgrids_synthetic,simulated
+ISRO-2008-0915,27.059005,92.905694,6.55,37.38,sandy loam,32.23,soilgrids_synthetic,simulated
+ISRO-1999-0916,26.268426,94.146441,4.69,2.57,sandy loam,69.64,soilgrids_synthetic,simulated
+ISRO-2004-0917,26.963177,92.855772,6.87,14.96,sandy loam,48.74,soilgrids_synthetic,simulated
+ISRO-2014-0918,26.494126,94.016071,5.94,32.63,clay loam,41.06,soilgrids_synthetic,simulated
+ISRO-2005-0919,24.818414,94.319907,4.51,29.52,clay loam,42.73,soilgrids_synthetic,simulated
+ISRO-2021-0920,25.737702,90.29448,5.7,15.1,sandy clay loam,60.46,soilgrids_synthetic,simulated
+ISRO-2009-0921,25.835046,90.498555,5.62,27.72,sandy loam,33.6,soilgrids_synthetic,simulated
+ISRO-2020-0922,25.212724,93.999108,5.77,29.12,clay loam,73.38,soilgrids_synthetic,simulated
+ISRO-1999-0923,28.32861,94.662901,5.97,0.73,sandy loam,41.87,soilgrids_synthetic,simulated
+ISRO-2000-0924,25.644826,91.024705,5.84,8.37,silty clay loam,38.76,soilgrids_synthetic,simulated
+ISRO-2003-0925,27.119159,93.177717,5.07,3.73,sandy clay loam,83.34,soilgrids_synthetic,simulated
+ISRO-2011-0926,23.677386,91.210653,6.44,7.37,loam,31.91,soilgrids_synthetic,simulated
+ISRO-2012-0927,27.055736,88.432494,5.39,17.24,loam,62.3,soilgrids_synthetic,simulated
+ISRO-2003-0928,25.188817,94.080741,5.82,47.35,sandy clay loam,78.65,soilgrids_synthetic,simulated
+ISRO-2016-0929,26.843363,93.246326,5.18,49.83,clay loam,37.32,soilgrids_synthetic,simulated
+ISRO-2015-0930,26.317103,93.754832,6.06,12.46,clay,66.83,soilgrids_synthetic,simulated
+ISRO-2020-0931,24.659471,94.006972,4.69,9.1,sandy loam,40.74,soilgrids_synthetic,simulated
+ISRO-2009-0932,23.394575,92.569964,6.27,4.22,loam,41.4,soilgrids_synthetic,simulated
+ISRO-2016-0933,25.653501,90.806754,6.66,3.64,silty clay loam,70.11,soilgrids_synthetic,simulated
+ISRO-2021-0934,25.451741,90.156396,6.87,72.74,sandy loam,42.22,soilgrids_synthetic,simulated
+ISRO-2006-0935,24.780428,94.343653,5.67,75.72,silty clay loam,61.78,soilgrids_synthetic,simulated
+ISRO-2010-0936,25.708193,91.025064,6.36,37.14,clay,49.38,soilgrids_synthetic,simulated
+ISRO-2002-0937,25.060826,92.323531,5.42,27.87,loam,75.24,soilgrids_synthetic,simulated
+ISRO-2006-0938,23.801139,91.38088,6.07,17.26,sandy clay loam,37.77,soilgrids_synthetic,simulated
+ISRO-2011-0939,23.617783,91.832227,4.52,14.43,clay,34.97,soilgrids_synthetic,simulated
+ISRO-1999-0940,25.499148,91.508168,5.72,0.92,sandy clay loam,34.37,soilgrids_synthetic,simulated
+ISRO-1999-0941,27.125899,88.281053,6.38,22.37,sandy clay loam,61.36,soilgrids_synthetic,simulated
+ISRO-2007-0942,26.036182,94.305454,5.18,14.31,clay loam,48.19,soilgrids_synthetic,simulated
+ISRO-2010-0943,23.561322,92.514633,6.63,11.98,loam,34.97,soilgrids_synthetic,simulated
+ISRO-2011-0944,25.202673,92.115974,5.76,1.15,clay loam,36.74,soilgrids_synthetic,simulated
+ISRO-2005-0945,23.560581,92.591538,6.25,83.67,sandy clay loam,63.13,soilgrids_synthetic,simulated
+ISRO-2020-0946,27.396577,88.210156,5.57,12.57,loam,34.09,soilgrids_synthetic,simulated
+ISRO-2020-0947,27.238335,93.075065,5.87,16.52,sandy clay loam,63.64,soilgrids_synthetic,simulated
+ISRO-2020-0948,25.264026,90.759066,5.88,13.17,loam,61.65,soilgrids_synthetic,simulated
+ISRO-2011-0949,24.438696,93.72286,6.32,84.61,clay,56.95,soilgrids_synthetic,simulated
+ISRO-2018-0950,27.355593,88.358099,4.67,26.0,sandy loam,53.3,soilgrids_synthetic,simulated
+ISRO-2022-0951,27.842262,91.80631,4.89,1.19,silty clay loam,59.52,soilgrids_synthetic,simulated
+ISRO-2006-0952,24.698281,94.034176,6.45,26.36,loam,58.65,soilgrids_synthetic,simulated
+ISRO-2005-0953,25.492416,91.513104,5.64,39.44,loam,70.92,soilgrids_synthetic,simulated
+ISRO-2008-0954,23.277613,91.823849,5.86,30.77,clay loam,41.34,soilgrids_synthetic,simulated
+ISRO-2020-0955,23.838487,91.108164,5.32,11.08,loam,32.93,soilgrids_synthetic,simulated
+ISRO-1998-0956,27.50749,95.113578,6.69,4.86,sandy loam,49.32,soilgrids_synthetic,simulated
+ISRO-2005-0957,23.600128,91.759891,6.37,8.66,loam,39.05,soilgrids_synthetic,simulated
+ISRO-2017-0958,26.638202,94.021194,4.64,61.46,clay loam,34.58,soilgrids_synthetic,simulated
+ISRO-2001-0959,25.275437,92.235804,4.99,12.88,clay loam,56.42,soilgrids_synthetic,simulated
+ISRO-2021-0960,26.250785,94.683996,6.72,9.1,sandy clay loam,78.76,soilgrids_synthetic,simulated
+ISRO-2022-0961,24.8849,94.375843,6.09,18.35,silty clay loam,48.59,soilgrids_synthetic,simulated
+ISRO-2007-0962,23.634312,92.265859,6.73,2.43,silty clay loam,66.88,soilgrids_synthetic,simulated
+ISRO-2005-0963,25.565126,91.205693,6.07,18.46,silty clay loam,69.5,soilgrids_synthetic,simulated
+ISRO-2008-0964,27.604737,91.640476,6.72,1.49,silty clay loam,79.52,soilgrids_synthetic,simulated
+ISRO-2008-0965,26.067886,94.386844,4.64,1.31,sandy loam,40.53,soilgrids_synthetic,simulated
+ISRO-2002-0966,25.181742,93.878391,5.89,32.15,sandy clay loam,60.54,soilgrids_synthetic,simulated
+ISRO-2013-0967,23.626018,91.377468,6.1,11.67,loam,62.46,soilgrids_synthetic,simulated
+ISRO-2016-0968,25.670178,90.095934,6.95,4.37,sandy loam,43.68,soilgrids_synthetic,simulated
+ISRO-2017-0969,26.541391,94.220725,6.83,62.29,loam,66.68,soilgrids_synthetic,simulated
+ISRO-2020-0970,26.674366,94.162243,4.7,88.16,silty clay loam,30.55,soilgrids_synthetic,simulated
+ISRO-2006-0971,27.521034,88.477355,4.99,39.55,silty clay loam,59.62,soilgrids_synthetic,simulated
+ISRO-2022-0972,25.595709,92.476107,6.55,40.97,clay,64.98,soilgrids_synthetic,simulated
+ISRO-2003-0973,25.18682,93.950778,5.44,8.32,clay loam,61.46,soilgrids_synthetic,simulated
+ISRO-2007-0974,25.732567,92.796569,6.51,41.95,silty clay loam,30.33,soilgrids_synthetic,simulated
+ISRO-2002-0975,27.456215,88.46742,5.09,77.15,clay loam,49.96,soilgrids_synthetic,simulated
+ISRO-2002-0976,23.652086,91.527082,6.54,30.67,sandy loam,53.73,soilgrids_synthetic,simulated
+ISRO-2021-0977,25.865305,93.716472,6.07,1.03,clay,48.18,soilgrids_synthetic,simulated
+ISRO-2011-0978,27.679664,92.036404,6.56,94.89,loam,50.19,soilgrids_synthetic,simulated
+ISRO-2022-0979,25.553426,90.445138,5.62,11.35,clay loam,70.5,soilgrids_synthetic,simulated
+ISRO-2000-0980,24.896589,94.45181,6.63,3.06,loam,35.06,soilgrids_synthetic,simulated
+ISRO-2019-0981,23.684414,91.084932,4.65,12.59,sandy clay loam,37.97,soilgrids_synthetic,simulated
+ISRO-2003-0982,25.101593,94.1235,6.87,16.0,loam,68.93,soilgrids_synthetic,simulated
+ISRO-2002-0983,25.271114,91.570794,6.04,3.16,clay,71.62,soilgrids_synthetic,simulated
+ISRO-2016-0984,27.28205,94.958647,5.32,86.35,loam,71.03,soilgrids_synthetic,simulated
+ISRO-2004-0985,23.291751,91.620973,6.09,2.11,loam,62.85,soilgrids_synthetic,simulated
+ISRO-2004-0986,26.764705,92.914706,6.75,52.65,silty clay loam,47.45,soilgrids_synthetic,simulated
+ISRO-2015-0987,25.579549,92.717747,4.72,22.49,clay loam,79.96,soilgrids_synthetic,simulated
+ISRO-2012-0988,25.087021,92.329212,5.18,19.15,clay loam,57.77,soilgrids_synthetic,simulated
+ISRO-2021-0989,25.343796,91.059405,6.88,26.45,sandy loam,59.38,soilgrids_synthetic,simulated
+ISRO-2008-0990,26.386687,94.70024,5.45,34.72,silty clay loam,52.64,soilgrids_synthetic,simulated
+ISRO-2014-0991,25.647138,90.456834,6.05,0.45,loam,38.89,soilgrids_synthetic,simulated
+ISRO-1998-0992,26.596426,94.098027,4.76,4.21,sandy loam,68.58,soilgrids_synthetic,simulated
+ISRO-2003-0993,26.864423,92.85741,4.8,6.35,clay,30.85,soilgrids_synthetic,simulated
+ISRO-2012-0994,25.375453,91.216357,6.84,6.36,sandy loam,54.09,soilgrids_synthetic,simulated
+ISRO-2020-0995,25.87927,94.06884,5.21,19.77,loam,55.42,soilgrids_synthetic,simulated
+ISRO-2001-0996,26.079719,94.595554,4.66,4.68,sandy loam,79.81,soilgrids_synthetic,simulated
+ISRO-2000-0997,27.071415,88.668495,5.89,14.39,sandy loam,35.55,soilgrids_synthetic,simulated
+ISRO-2018-0998,27.529176,88.801548,6.71,13.23,loam,68.1,soilgrids_synthetic,simulated
+ISRO-2017-0999,23.250994,92.922477,4.86,45.89,loam,55.31,soilgrids_synthetic,simulated
+ISRO-2000-1000,25.681982,92.477752,6.64,5.51,clay loam,67.84,soilgrids_synthetic,simulated
+ISRO-2011-1001,23.698865,91.489029,5.63,1.51,loam,78.78,soilgrids_synthetic,simulated
+ISRO-2019-1002,24.543952,94.132964,5.92,19.31,sandy loam,55.93,soilgrids_synthetic,simulated
+ISRO-2017-1003,25.604936,90.915511,6.94,18.63,silty clay loam,63.17,soilgrids_synthetic,simulated
+ISRO-2004-1004,24.993554,94.043508,5.56,101.03,sandy clay loam,53.63,soilgrids_synthetic,simulated
+ISRO-2012-1005,26.909664,92.750546,5.81,4.84,silty clay loam,32.71,soilgrids_synthetic,simulated
+ISRO-2002-1006,25.655311,90.470133,5.37,10.78,loam,32.16,soilgrids_synthetic,simulated
+ISRO-2011-1007,26.196092,93.846613,5.03,5.8,silty clay loam,41.15,soilgrids_synthetic,simulated
+ISRO-2012-1008,27.502314,91.904814,5.95,3.83,clay,75.9,soilgrids_synthetic,simulated
+ISRO-2021-1009,24.828298,93.913749,6.47,54.03,sandy loam,37.36,soilgrids_synthetic,simulated
+ISRO-2003-1010,23.474563,91.842347,6.14,58.16,loam,80.58,soilgrids_synthetic,simulated
+ISRO-2003-1011,23.457632,92.488454,6.61,14.74,loam,55.82,soilgrids_synthetic,simulated
+ISRO-2009-1012,25.501021,90.21957,4.81,1.43,sandy loam,67.21,soilgrids_synthetic,simulated
+ISRO-1999-1013,25.014498,94.07606,5.14,11.32,clay loam,69.92,soilgrids_synthetic,simulated
+ISRO-2015-1014,26.263064,94.07998,4.5,80.47,sandy clay loam,38.8,soilgrids_synthetic,simulated
+ISRO-2021-1015,27.313878,88.113433,6.8,24.73,loam,41.7,soilgrids_synthetic,simulated
+ISRO-2007-1016,24.839372,94.50525,6.81,40.73,silty clay loam,43.69,soilgrids_synthetic,simulated
+ISRO-2013-1017,26.47006,94.274871,6.78,32.41,clay,57.93,soilgrids_synthetic,simulated
+ISRO-2011-1018,25.872095,94.034896,5.92,30.29,loam,70.28,soilgrids_synthetic,simulated
+ISRO-2013-1019,26.541783,93.877856,6.09,20.19,clay loam,82.71,soilgrids_synthetic,simulated
+ISRO-2012-1020,23.892825,92.561957,4.76,9.59,loam,60.11,soilgrids_synthetic,simulated
+ISRO-2007-1021,23.726498,92.366256,4.67,71.55,loam,69.45,soilgrids_synthetic,simulated
+ISRO-2003-1022,27.14643,88.532339,4.82,15.37,clay loam,36.08,soilgrids_synthetic,simulated
+ISRO-2013-1023,23.735834,92.51975,5.11,3.18,silty clay loam,57.99,soilgrids_synthetic,simulated
+ISRO-2007-1024,25.714302,90.936947,6.66,1.55,loam,77.71,soilgrids_synthetic,simulated
+ISRO-2000-1025,28.312296,94.901961,6.04,3.96,silty clay loam,51.04,soilgrids_synthetic,simulated
+ISRO-1998-1026,25.640452,91.279573,6.54,27.36,silty clay loam,34.65,soilgrids_synthetic,simulated
+ISRO-2013-1027,27.530468,88.564317,6.24,0.05,silty clay loam,81.24,soilgrids_synthetic,simulated
+ISRO-2019-1028,26.236991,94.457207,5.8,0.79,loam,39.1,soilgrids_synthetic,simulated
+ISRO-2004-1029,26.318777,94.299048,4.65,0.58,clay,82.86,soilgrids_synthetic,simulated
+ISRO-2021-1030,23.453929,92.896868,4.93,7.17,clay loam,80.64,soilgrids_synthetic,simulated
+ISRO-1999-1031,27.428986,88.547299,6.86,22.48,sandy loam,33.1,soilgrids_synthetic,simulated
+ISRO-2007-1032,25.076151,92.047329,6.96,10.69,loam,43.11,soilgrids_synthetic,simulated
+ISRO-2017-1033,25.37475,91.129744,6.66,10.61,sandy loam,75.24,soilgrids_synthetic,simulated
+ISRO-2014-1034,24.032271,91.517056,6.45,3.59,clay loam,33.04,soilgrids_synthetic,simulated
+ISRO-2022-1035,25.513069,91.283454,5.07,7.03,clay loam,52.75,soilgrids_synthetic,simulated
+ISRO-2009-1036,25.546604,90.946672,5.47,28.17,sandy loam,49.42,soilgrids_synthetic,simulated
+ISRO-2006-1037,27.974896,94.821431,6.4,12.21,clay loam,42.02,soilgrids_synthetic,simulated
+ISRO-2014-1038,27.388858,88.151204,4.9,31.1,silty clay loam,54.46,soilgrids_synthetic,simulated
+ISRO-2016-1039,26.309717,94.095876,5.66,22.88,sandy loam,76.93,soilgrids_synthetic,simulated
+ISRO-1998-1040,25.304152,91.252361,5.95,24.99,silty clay loam,43.01,soilgrids_synthetic,simulated
+ISRO-1998-1041,23.522082,91.381684,4.85,93.18,silty clay loam,78.09,soilgrids_synthetic,simulated
+ISRO-2018-1042,23.687826,92.345886,4.82,34.68,clay loam,59.02,soilgrids_synthetic,simulated
+ISRO-2018-1043,25.904762,93.850134,6.58,33.82,clay loam,79.18,soilgrids_synthetic,simulated
+ISRO-2018-1044,25.705329,90.363497,6.26,19.05,loam,58.62,soilgrids_synthetic,simulated
+ISRO-2018-1045,26.049806,94.512729,5.86,59.95,clay,44.01,soilgrids_synthetic,simulated
+ISRO-2002-1046,26.500504,94.692308,4.59,99.73,silty clay loam,46.2,soilgrids_synthetic,simulated
+ISRO-2006-1047,25.508525,90.260967,6.09,29.3,silty clay loam,34.48,soilgrids_synthetic,simulated
+ISRO-2016-1048,26.668202,94.15457,5.18,54.95,silty clay loam,66.77,soilgrids_synthetic,simulated
+ISRO-2002-1049,23.342926,92.936677,4.72,45.25,loam,46.6,soilgrids_synthetic,simulated
+ISRO-2009-1050,24.900701,94.180431,6.14,48.17,sandy clay loam,81.54,soilgrids_synthetic,simulated
+ISRO-2010-1051,24.834727,94.14413,6.86,49.28,loam,37.4,soilgrids_synthetic,simulated
+ISRO-2020-1052,27.590508,88.492876,6.48,80.22,clay,70.79,soilgrids_synthetic,simulated
+ISRO-2021-1053,23.878411,92.416957,6.95,17.48,sandy clay loam,60.62,soilgrids_synthetic,simulated
+ISRO-2006-1054,27.025736,93.145019,6.67,21.53,sandy clay loam,68.86,soilgrids_synthetic,simulated
+ISRO-2020-1055,25.072641,94.231536,4.99,5.86,loam,54.78,soilgrids_synthetic,simulated
+ISRO-2017-1056,26.103896,94.410747,6.2,0.05,loam,73.42,soilgrids_synthetic,simulated
+ISRO-2000-1057,26.246127,94.120951,6.77,5.14,sandy loam,33.6,soilgrids_synthetic,simulated
+ISRO-2021-1058,25.596311,91.477863,5.43,2.8,sandy loam,43.95,soilgrids_synthetic,simulated
+ISRO-2014-1059,26.501838,94.144861,6.67,31.38,silty clay loam,68.01,soilgrids_synthetic,simulated
+ISRO-2008-1060,27.06278,88.49151,5.11,8.6,clay loam,35.73,soilgrids_synthetic,simulated
+ISRO-1998-1061,27.137125,95.363477,6.27,0.64,sandy loam,62.27,soilgrids_synthetic,simulated
+ISRO-2017-1062,26.204383,93.753513,5.1,23.04,silty clay loam,69.67,soilgrids_synthetic,simulated
+ISRO-2001-1063,27.807164,91.828331,4.81,51.44,loam,52.84,soilgrids_synthetic,simulated
+ISRO-2015-1064,24.389683,93.934657,6.54,4.82,sandy clay loam,84.92,soilgrids_synthetic,simulated
+ISRO-2010-1065,26.530012,94.647014,5.14,5.83,sandy clay loam,36.91,soilgrids_synthetic,simulated
+ISRO-2013-1066,25.232842,92.333818,4.87,2.11,clay loam,30.08,soilgrids_synthetic,simulated
+ISRO-2016-1067,23.682358,91.371027,5.54,30.79,sandy loam,43.99,soilgrids_synthetic,simulated
+ISRO-2000-1068,27.52446,88.406094,4.78,88.77,sandy loam,75.35,soilgrids_synthetic,simulated
+ISRO-2006-1069,27.302152,88.722968,4.58,16.05,loam,40.8,soilgrids_synthetic,simulated
+ISRO-2017-1070,25.605096,92.845887,5.13,27.19,sandy clay loam,44.09,soilgrids_synthetic,simulated
+ISRO-2005-1071,27.071916,88.483548,5.38,23.59,clay loam,46.43,soilgrids_synthetic,simulated
+ISRO-2015-1072,27.447019,88.663952,4.56,45.2,clay loam,38.77,soilgrids_synthetic,simulated
+ISRO-1998-1073,23.580007,92.560865,6.86,105.94,clay,42.95,soilgrids_synthetic,simulated
+ISRO-2019-1074,25.430963,90.820079,6.07,8.41,loam,49.32,soilgrids_synthetic,simulated
+ISRO-2019-1075,24.478254,93.688494,4.53,0.43,loam,35.51,soilgrids_synthetic,simulated
+ISRO-2011-1076,27.275297,88.299479,5.1,38.85,loam,51.86,soilgrids_synthetic,simulated
+ISRO-2004-1077,22.731185,92.627257,6.82,12.61,silty clay loam,76.8,soilgrids_synthetic,simulated
+ISRO-2012-1078,26.593,93.839019,6.55,64.63,sandy loam,76.44,soilgrids_synthetic,simulated
+ISRO-2006-1079,23.474644,92.401169,6.09,39.96,loam,47.86,soilgrids_synthetic,simulated
+ISRO-1998-1080,24.868552,94.203907,5.01,15.82,silty clay loam,75.58,soilgrids_synthetic,simulated
+ISRO-2005-1081,27.244806,92.7787,5.75,13.15,clay loam,44.03,soilgrids_synthetic,simulated
+ISRO-2009-1082,24.572432,93.811161,4.69,13.88,clay loam,53.04,soilgrids_synthetic,simulated
+ISRO-2002-1083,26.99549,93.031914,5.64,7.62,loam,78.01,soilgrids_synthetic,simulated
+ISRO-1999-1084,27.578275,88.378439,6.34,16.77,clay loam,38.17,soilgrids_synthetic,simulated
+ISRO-2022-1085,23.241143,92.513667,4.54,2.82,sandy loam,68.3,soilgrids_synthetic,simulated
+ISRO-2001-1086,26.454111,92.938438,5.55,3.34,clay,65.35,soilgrids_synthetic,simulated
+ISRO-1998-1087,26.562607,92.802996,5.86,6.96,loam,76.46,soilgrids_synthetic,simulated
+ISRO-2001-1088,26.429253,94.032653,6.56,1.19,sandy loam,84.32,soilgrids_synthetic,simulated
+ISRO-2009-1089,25.360015,91.214314,4.72,10.86,clay loam,68.33,soilgrids_synthetic,simulated
+ISRO-2017-1090,24.607837,93.651972,4.78,8.36,loam,50.04,soilgrids_synthetic,simulated
+ISRO-2018-1091,24.996481,94.213977,6.2,21.08,sandy loam,44.69,soilgrids_synthetic,simulated
+ISRO-2001-1092,27.231619,95.061677,6.09,12.3,sandy loam,84.81,soilgrids_synthetic,simulated
+ISRO-2011-1093,26.417581,94.14248,6.76,0.92,silty clay loam,57.65,soilgrids_synthetic,simulated
+ISRO-2012-1094,27.450741,88.497033,4.8,2.62,loam,46.86,soilgrids_synthetic,simulated
+ISRO-2017-1095,26.464526,94.518647,5.58,10.19,clay,75.33,soilgrids_synthetic,simulated
+ISRO-2012-1096,27.000808,88.18496,5.43,15.34,silty clay loam,57.07,soilgrids_synthetic,simulated
+ISRO-2012-1097,27.089534,95.001451,5.35,1.32,clay loam,33.29,soilgrids_synthetic,simulated
+ISRO-2009-1098,25.64904,91.183181,6.68,89.08,clay loam,62.21,soilgrids_synthetic,simulated
+ISRO-2016-1099,25.165556,92.158027,5.8,33.58,loam,39.0,soilgrids_synthetic,simulated
+ISRO-2006-1100,26.52217,92.829745,4.89,7.41,sandy loam,81.75,soilgrids_synthetic,simulated
+ISRO-2002-1101,26.290053,92.613907,6.96,67.81,sandy loam,66.27,soilgrids_synthetic,simulated
+ISRO-2020-1102,25.690215,92.861508,4.94,27.72,sandy loam,79.39,soilgrids_synthetic,simulated
+ISRO-2019-1103,25.646236,91.137899,5.84,16.65,silty clay loam,81.91,soilgrids_synthetic,simulated
+ISRO-2019-1104,23.687923,91.71067,5.7,1.32,clay,46.09,soilgrids_synthetic,simulated
+ISRO-2000-1105,25.734,90.245055,5.44,4.25,sandy loam,42.31,soilgrids_synthetic,simulated
+ISRO-2002-1106,27.418698,91.623682,6.31,9.96,clay loam,73.61,soilgrids_synthetic,simulated
+ISRO-2017-1107,26.738261,93.94548,6.84,20.52,silty clay loam,52.35,soilgrids_synthetic,simulated
+ISRO-2020-1108,26.328374,93.776608,5.83,57.41,silty clay loam,59.72,soilgrids_synthetic,simulated
+ISRO-1999-1109,27.58649,91.595166,5.02,28.01,silty clay loam,37.34,soilgrids_synthetic,simulated
+ISRO-1998-1110,26.236999,93.661329,4.89,48.15,clay loam,35.47,soilgrids_synthetic,simulated
+ISRO-2016-1111,27.218672,93.067161,6.73,43.34,silty clay loam,43.99,soilgrids_synthetic,simulated
+ISRO-2017-1112,27.06803,88.741795,5.17,61.44,silty clay loam,36.91,soilgrids_synthetic,simulated
+ISRO-2003-1113,25.601395,90.209718,4.88,31.4,loam,56.03,soilgrids_synthetic,simulated
+ISRO-2021-1114,25.269461,91.35341,5.25,10.03,sandy loam,41.34,soilgrids_synthetic,simulated
+ISRO-2013-1115,25.452803,92.665652,5.55,5.86,clay,50.02,soilgrids_synthetic,simulated
+ISRO-2008-1116,25.423614,91.853498,5.89,5.56,clay loam,62.3,soilgrids_synthetic,simulated
+ISRO-2007-1117,27.2253,88.655258,4.89,12.02,clay,36.53,soilgrids_synthetic,simulated
+ISRO-2003-1118,23.558905,91.268631,5.06,9.47,loam,63.51,soilgrids_synthetic,simulated
+ISRO-2017-1119,27.597688,88.176646,6.85,3.22,loam,42.16,soilgrids_synthetic,simulated
+ISRO-2006-1120,25.534875,92.087371,5.46,3.68,silty clay loam,66.13,soilgrids_synthetic,simulated
+ISRO-2004-1121,24.437617,94.003174,6.97,13.5,loam,66.07,soilgrids_synthetic,simulated
+ISRO-2020-1122,26.217173,94.682982,6.99,11.75,silty clay loam,39.01,soilgrids_synthetic,simulated
+ISRO-1998-1123,27.509431,95.308434,4.59,23.2,sandy loam,63.61,soilgrids_synthetic,simulated
+ISRO-2012-1124,25.42429,91.990489,6.46,12.11,clay loam,77.29,soilgrids_synthetic,simulated
+ISRO-2001-1125,27.232715,88.564097,4.57,0.75,sandy clay loam,84.63,soilgrids_synthetic,simulated
+ISRO-2019-1126,26.073028,94.494482,5.04,13.91,clay,51.16,soilgrids_synthetic,simulated
+ISRO-2015-1127,27.266117,88.374371,5.71,31.5,loam,68.99,soilgrids_synthetic,simulated
+ISRO-2014-1128,26.445963,94.305555,6.4,5.03,silty clay loam,47.89,soilgrids_synthetic,simulated
+ISRO-2016-1129,27.312004,88.730465,5.48,47.83,clay,59.41,soilgrids_synthetic,simulated
+ISRO-2007-1130,25.493756,92.081217,5.29,12.61,sandy loam,52.08,soilgrids_synthetic,simulated
+ISRO-2000-1131,27.019655,88.232418,5.96,32.04,loam,40.5,soilgrids_synthetic,simulated
+ISRO-2022-1132,24.946493,93.894598,5.51,16.39,clay,62.03,soilgrids_synthetic,simulated
+ISRO-2013-1133,25.747461,90.766641,5.41,15.92,sandy clay loam,79.5,soilgrids_synthetic,simulated
+ISRO-2002-1134,25.451565,91.329323,5.36,5.25,clay,64.69,soilgrids_synthetic,simulated
+ISRO-2014-1135,23.788437,92.620658,6.13,3.72,loam,78.57,soilgrids_synthetic,simulated
+ISRO-2009-1136,26.230309,94.508708,4.94,16.14,silty clay loam,66.21,soilgrids_synthetic,simulated
+ISRO-2011-1137,27.562249,91.881081,6.08,68.41,clay,52.7,soilgrids_synthetic,simulated
+ISRO-2009-1138,27.243793,88.62832,4.86,41.16,loam,56.17,soilgrids_synthetic,simulated
+ISRO-2016-1139,25.814535,90.15076,5.77,36.87,silty clay loam,64.33,soilgrids_synthetic,simulated
+ISRO-2010-1140,26.487263,93.966832,5.73,92.66,sandy loam,45.6,soilgrids_synthetic,simulated
+ISRO-2013-1141,23.63001,92.886084,4.82,4.56,sandy loam,63.02,soilgrids_synthetic,simulated
+ISRO-2005-1142,24.574784,93.696821,6.95,82.22,silty clay loam,58.62,soilgrids_synthetic,simulated
+ISRO-2010-1143,27.362626,95.107834,6.09,13.3,clay,77.71,soilgrids_synthetic,simulated
+ISRO-1999-1144,25.80905,90.169219,5.43,13.48,silty clay loam,81.35,soilgrids_synthetic,simulated
+ISRO-2011-1145,23.936176,92.485009,4.76,7.76,silty clay loam,39.39,soilgrids_synthetic,simulated
+ISRO-2006-1146,28.282915,94.789323,5.5,27.05,sandy clay loam,36.46,soilgrids_synthetic,simulated
+ISRO-2002-1147,27.101558,88.135592,6.88,39.27,clay loam,83.5,soilgrids_synthetic,simulated
+ISRO-2010-1148,27.297685,95.336699,5.29,27.11,clay loam,30.49,soilgrids_synthetic,simulated
+ISRO-2016-1149,26.742523,94.323024,5.52,4.17,clay loam,83.06,soilgrids_synthetic,simulated
+ISRO-2011-1150,23.679247,91.293338,4.79,10.63,silty clay loam,81.78,soilgrids_synthetic,simulated
+ISRO-2002-1151,25.53119,92.073472,6.77,36.84,loam,55.48,soilgrids_synthetic,simulated
+ISRO-2004-1152,25.622569,92.922737,5.68,16.67,sandy loam,44.3,soilgrids_synthetic,simulated
+ISRO-2022-1153,27.446409,88.442099,6.29,34.62,silty clay loam,35.51,soilgrids_synthetic,simulated
+ISRO-1999-1154,24.962885,94.648649,6.28,0.39,sandy loam,42.07,soilgrids_synthetic,simulated
+ISRO-2012-1155,26.504669,94.507981,4.89,8.98,clay loam,84.8,soilgrids_synthetic,simulated
+ISRO-2005-1156,27.596818,91.56448,5.24,33.82,sandy loam,53.81,soilgrids_synthetic,simulated
+ISRO-2013-1157,24.664308,93.770841,5.43,64.13,clay,70.01,soilgrids_synthetic,simulated
+ISRO-2011-1158,25.000006,94.345975,5.33,32.56,loam,78.51,soilgrids_synthetic,simulated
+ISRO-2001-1159,24.607227,93.884869,6.33,18.49,silty clay loam,51.42,soilgrids_synthetic,simulated
+ISRO-2021-1160,23.860674,91.350438,6.08,32.4,sandy clay loam,79.78,soilgrids_synthetic,simulated
+ISRO-2021-1161,25.94595,90.288201,5.85,10.69,silty clay loam,64.15,soilgrids_synthetic,simulated
+ISRO-2008-1162,23.589765,91.25262,6.69,70.45,loam,37.4,soilgrids_synthetic,simulated
+ISRO-2000-1163,26.717021,94.076146,5.92,12.07,loam,67.38,soilgrids_synthetic,simulated
+ISRO-1998-1164,24.982699,94.271902,5.68,54.21,clay loam,53.27,soilgrids_synthetic,simulated
+ISRO-2004-1165,27.335678,95.035861,5.14,0.08,sandy loam,60.36,soilgrids_synthetic,simulated
+ISRO-2016-1166,26.89123,92.817821,6.02,24.52,silty clay loam,49.02,soilgrids_synthetic,simulated
+ISRO-1999-1167,25.550584,91.061932,4.63,16.47,sandy loam,62.85,soilgrids_synthetic,simulated
+ISRO-2008-1168,24.524129,93.93928,6.27,4.76,loam,84.77,soilgrids_synthetic,simulated
+ISRO-2013-1169,26.238524,94.449817,6.38,19.07,loam,53.92,soilgrids_synthetic,simulated
+ISRO-2006-1170,23.813442,92.593033,5.64,26.57,clay loam,77.35,soilgrids_synthetic,simulated
+ISRO-2004-1171,26.473487,94.065313,5.46,133.9,loam,39.16,soilgrids_synthetic,simulated
+ISRO-2017-1172,23.935423,91.494254,6.34,19.08,loam,41.8,soilgrids_synthetic,simulated
+ISRO-2022-1173,25.537339,90.217779,5.37,40.3,sandy loam,80.31,soilgrids_synthetic,simulated
+ISRO-2009-1174,27.607313,91.993341,4.79,45.33,clay loam,30.01,soilgrids_synthetic,simulated
+ISRO-2011-1175,25.355588,92.820678,5.88,32.11,loam,43.77,soilgrids_synthetic,simulated
+ISRO-2014-1176,26.481101,92.812582,6.13,17.79,loam,57.28,soilgrids_synthetic,simulated
+ISRO-2015-1177,24.572999,93.821124,5.73,49.02,loam,42.99,soilgrids_synthetic,simulated
+ISRO-2008-1178,26.418413,94.713864,5.85,36.86,loam,44.18,soilgrids_synthetic,simulated
+ISRO-2013-1179,26.240712,93.719055,6.75,20.21,sandy clay loam,72.86,soilgrids_synthetic,simulated
+ISRO-2012-1180,26.477259,94.135963,6.45,34.18,loam,59.4,soilgrids_synthetic,simulated
+ISRO-2012-1181,26.62416,92.902758,5.13,14.45,loam,47.53,soilgrids_synthetic,simulated
+ISRO-2004-1182,25.423941,92.921091,4.66,66.84,sandy loam,41.56,soilgrids_synthetic,simulated
+ISRO-2003-1183,23.239489,92.743397,5.36,3.77,sandy loam,71.44,soilgrids_synthetic,simulated
+ISRO-2022-1184,24.667805,94.250657,6.72,30.94,loam,82.81,soilgrids_synthetic,simulated
+ISRO-1998-1185,26.191207,92.732434,4.6,9.24,loam,52.85,soilgrids_synthetic,simulated
+ISRO-2022-1186,23.72888,91.54953,4.52,27.03,clay loam,78.22,soilgrids_synthetic,simulated
+ISRO-2021-1187,27.202338,92.948336,6.89,12.38,loam,81.38,soilgrids_synthetic,simulated
+ISRO-1999-1188,26.103997,94.938476,5.38,2.8,sandy clay loam,57.8,soilgrids_synthetic,simulated
+ISRO-2012-1189,23.862769,91.335203,6.0,36.12,loam,81.12,soilgrids_synthetic,simulated
+ISRO-2004-1190,27.153694,92.837946,5.65,11.18,loam,42.04,soilgrids_synthetic,simulated
+ISRO-2020-1191,27.563766,88.165892,5.22,50.45,sandy loam,54.83,soilgrids_synthetic,simulated
+ISRO-2018-1192,25.381159,91.020742,4.56,69.09,clay,39.26,soilgrids_synthetic,simulated
+ISRO-2019-1193,24.867913,94.20374,5.22,9.63,sandy loam,46.5,soilgrids_synthetic,simulated
+ISRO-2012-1194,27.487519,91.887236,6.75,19.8,silty clay loam,77.55,soilgrids_synthetic,simulated
+ISRO-2013-1195,26.201544,92.62305,4.77,16.39,clay loam,50.73,soilgrids_synthetic,simulated
+ISRO-2014-1196,22.720087,92.578669,5.99,4.62,sandy clay loam,79.74,soilgrids_synthetic,simulated
+ISRO-1999-1197,25.466156,91.210206,4.93,15.1,sandy loam,41.34,soilgrids_synthetic,simulated
+ISRO-2001-1198,23.491191,92.509978,6.52,1.59,clay loam,48.08,soilgrids_synthetic,simulated
+ISRO-2018-1199,23.677063,91.51305,4.86,1.38,clay loam,77.69,soilgrids_synthetic,simulated
+ISRO-2020-1200,27.368655,95.196653,5.04,53.71,loam,83.04,soilgrids_synthetic,simulated
+COOLR-SYN-0001,23.839055,91.30715,6.18,14.86,loam,41.69,soilgrids_synthetic,simulated
+COOLR-SYN-0002,25.732707,90.280514,5.42,22.1,sandy clay loam,81.36,soilgrids_synthetic,simulated
+COOLR-SYN-0003,25.262163,91.310009,4.93,2.32,loam,40.0,soilgrids_synthetic,simulated
+COOLR-SYN-0004,26.179193,94.821555,5.28,15.21,loam,50.86,soilgrids_synthetic,simulated
+COOLR-SYN-0005,27.359479,88.693411,5.59,8.19,loam,74.37,soilgrids_synthetic,simulated
+COOLR-SYN-0006,27.857116,94.467878,4.75,12.35,clay loam,43.94,soilgrids_synthetic,simulated
+COOLR-SYN-0007,25.199104,91.94177,4.98,7.76,clay,84.39,soilgrids_synthetic,simulated
+COOLR-SYN-0008,26.167711,94.946664,6.91,14.32,loam,81.92,soilgrids_synthetic,simulated
+COOLR-SYN-0009,25.346182,91.122756,5.03,14.46,clay,61.95,soilgrids_synthetic,simulated
+COOLR-SYN-0010,27.09322,93.12341,6.71,6.3,loam,40.98,soilgrids_synthetic,simulated
+COOLR-SYN-0011,26.352878,93.938236,5.37,41.88,sandy clay loam,50.15,soilgrids_synthetic,simulated
+COOLR-SYN-0012,25.995842,90.512315,5.67,9.0,clay loam,83.53,soilgrids_synthetic,simulated
+COOLR-SYN-0013,24.583995,94.123938,5.0,35.18,sandy loam,37.74,soilgrids_synthetic,simulated
+COOLR-SYN-0014,27.447858,88.300629,4.65,20.09,sandy loam,61.97,soilgrids_synthetic,simulated
+COOLR-SYN-0015,26.354805,94.009372,5.27,15.84,silty clay loam,77.0,soilgrids_synthetic,simulated
+COOLR-SYN-0016,23.579625,91.225923,6.3,4.45,clay,77.31,soilgrids_synthetic,simulated
+COOLR-SYN-0017,26.267916,92.798373,4.65,9.67,loam,46.21,soilgrids_synthetic,simulated
+COOLR-SYN-0018,25.268988,92.868275,5.34,42.76,clay,79.23,soilgrids_synthetic,simulated
+COOLR-SYN-0019,25.353371,92.802101,6.53,13.22,clay,35.64,soilgrids_synthetic,simulated
+COOLR-SYN-0020,25.316211,91.99994,5.43,12.6,sandy loam,50.99,soilgrids_synthetic,simulated
+COOLR-SYN-0021,27.56998,91.608479,5.95,7.08,sandy loam,63.85,soilgrids_synthetic,simulated
+COOLR-SYN-0022,27.00684,88.828015,5.54,0.59,clay loam,44.88,soilgrids_synthetic,simulated
+COOLR-SYN-0023,25.731431,91.275015,6.1,87.13,loam,47.47,soilgrids_synthetic,simulated
+COOLR-SYN-0024,28.02464,94.801961,6.74,5.33,loam,30.6,soilgrids_synthetic,simulated
+COOLR-SYN-0025,25.308887,92.34653,5.67,20.77,silty clay loam,71.3,soilgrids_synthetic,simulated
+COOLR-SYN-0026,24.935123,94.16868,6.6,51.35,loam,31.54,soilgrids_synthetic,simulated
+COOLR-SYN-0027,23.444228,91.720122,4.88,7.51,clay loam,80.45,soilgrids_synthetic,simulated
+COOLR-SYN-0028,26.374556,92.709577,4.72,1.52,loam,58.26,soilgrids_synthetic,simulated
+COOLR-SYN-0029,22.957572,92.97562,6.54,24.98,silty clay loam,83.81,soilgrids_synthetic,simulated
+COOLR-SYN-0030,25.513543,92.617845,6.33,21.46,loam,58.08,soilgrids_synthetic,simulated
+COOLR-SYN-0031,26.904968,93.101818,4.88,6.33,sandy loam,32.64,soilgrids_synthetic,simulated
+COOLR-SYN-0032,25.041131,94.123945,6.9,36.61,sandy clay loam,48.19,soilgrids_synthetic,simulated
+COOLR-SYN-0033,24.636913,93.956661,6.0,8.91,silty clay loam,79.44,soilgrids_synthetic,simulated
+COOLR-SYN-0034,26.658992,94.146035,5.18,29.91,silty clay loam,76.01,soilgrids_synthetic,simulated
+COOLR-SYN-0035,26.283638,94.029361,5.46,24.66,silty clay loam,59.37,soilgrids_synthetic,simulated
+COOLR-SYN-0036,22.955186,93.079746,5.46,16.7,clay loam,66.79,soilgrids_synthetic,simulated
+COOLR-SYN-0037,27.375304,88.018328,4.84,27.75,silty clay loam,71.95,soilgrids_synthetic,simulated
+COOLR-SYN-0038,25.473047,91.46878,6.46,4.2,clay,66.05,soilgrids_synthetic,simulated
+COOLR-SYN-0039,26.550587,94.498696,5.5,26.11,loam,74.73,soilgrids_synthetic,simulated
+COOLR-SYN-0040,27.875081,91.945881,4.95,80.17,loam,70.84,soilgrids_synthetic,simulated
+COOLR-SYN-0041,23.281091,92.959221,6.72,4.58,clay loam,60.27,soilgrids_synthetic,simulated
+COOLR-SYN-0042,26.167605,92.851852,4.93,10.67,sandy loam,37.19,soilgrids_synthetic,simulated
+COOLR-SYN-0043,28.389951,94.89823,6.11,24.28,loam,56.02,soilgrids_synthetic,simulated
+COOLR-SYN-0044,26.489235,94.961801,6.45,29.05,clay,37.4,soilgrids_synthetic,simulated
+COOLR-SYN-0045,27.710056,88.338914,5.0,0.43,clay loam,83.82,soilgrids_synthetic,simulated
+COOLR-SYN-0046,22.688349,93.085358,5.42,18.17,loam,74.23,soilgrids_synthetic,simulated
+COOLR-SYN-0047,27.428542,91.951016,6.88,18.06,loam,45.2,soilgrids_synthetic,simulated
+COOLR-SYN-0048,27.349422,88.117505,6.36,19.04,loam,36.45,soilgrids_synthetic,simulated
+COOLR-SYN-0049,23.721759,91.75229,6.4,15.92,loam,69.8,soilgrids_synthetic,simulated
+COOLR-SYN-0050,25.583592,90.486285,5.03,13.03,loam,47.91,soilgrids_synthetic,simulated
+COOLR-SYN-0051,27.046261,95.274911,6.49,1.09,sandy loam,35.33,soilgrids_synthetic,simulated
+COOLR-SYN-0052,23.453347,91.640622,5.55,24.8,clay,44.86,soilgrids_synthetic,simulated
+COOLR-SYN-0053,24.910985,94.665585,6.04,65.93,silty clay loam,49.82,soilgrids_synthetic,simulated
+COOLR-SYN-0054,25.322694,91.998986,6.85,26.66,sandy loam,77.61,soilgrids_synthetic,simulated
+COOLR-SYN-0055,27.597259,88.514357,5.49,29.67,loam,55.07,soilgrids_synthetic,simulated
+COOLR-SYN-0056,25.388237,92.411634,4.97,0.92,silty clay loam,45.76,soilgrids_synthetic,simulated
+COOLR-SYN-0057,27.375029,95.059365,5.92,13.0,clay loam,76.26,soilgrids_synthetic,simulated
+COOLR-SYN-0058,27.156433,88.071376,6.21,133.68,clay loam,61.82,soilgrids_synthetic,simulated
+COOLR-SYN-0059,25.161418,93.964741,5.07,3.59,clay,42.1,soilgrids_synthetic,simulated
+COOLR-SYN-0060,26.636049,93.983477,5.26,80.17,clay loam,57.59,soilgrids_synthetic,simulated
+COOLR-SYN-0061,26.722872,93.707938,6.17,13.86,clay loam,68.63,soilgrids_synthetic,simulated
+COOLR-SYN-0062,27.029527,88.42718,5.61,15.24,clay loam,50.93,soilgrids_synthetic,simulated
+COOLR-SYN-0063,25.654129,92.577063,4.97,13.82,sandy loam,56.62,soilgrids_synthetic,simulated
+COOLR-SYN-0064,26.679202,92.818057,5.24,10.27,sandy loam,50.75,soilgrids_synthetic,simulated
+COOLR-SYN-0065,24.39486,94.076364,5.98,33.78,sandy loam,53.37,soilgrids_synthetic,simulated
+COOLR-SYN-0066,26.678141,94.278574,6.66,24.78,clay,36.51,soilgrids_synthetic,simulated
+COOLR-SYN-0067,27.489484,91.897464,5.74,50.21,sandy clay loam,63.76,soilgrids_synthetic,simulated
+COOLR-SYN-0068,22.793359,92.862636,6.33,23.93,sandy loam,38.32,soilgrids_synthetic,simulated
+COOLR-SYN-0069,24.994389,94.053008,4.83,104.44,clay,72.22,soilgrids_synthetic,simulated
+COOLR-SYN-0070,25.67581,92.902645,5.23,4.56,silty clay loam,64.49,soilgrids_synthetic,simulated
+COOLR-SYN-0071,27.160749,95.423582,4.71,36.6,sandy loam,47.76,soilgrids_synthetic,simulated
+COOLR-SYN-0072,27.46759,95.044953,6.72,9.89,clay,58.49,soilgrids_synthetic,simulated
+COOLR-SYN-0073,23.312205,91.697654,5.85,1.97,loam,45.03,soilgrids_synthetic,simulated
+COOLR-SYN-0074,27.695666,91.709101,5.29,38.26,sandy clay loam,69.72,soilgrids_synthetic,simulated
+COOLR-SYN-0075,22.859405,92.887289,5.33,9.61,clay loam,37.54,soilgrids_synthetic,simulated
+COOLR-SYN-0076,26.146315,93.014719,6.12,10.69,clay loam,54.83,soilgrids_synthetic,simulated
+COOLR-SYN-0077,25.080945,92.08286,6.36,3.71,loam,69.57,soilgrids_synthetic,simulated
+COOLR-SYN-0078,27.473332,91.663204,6.27,33.52,loam,74.21,soilgrids_synthetic,simulated
+COOLR-SYN-0079,25.646563,92.543454,6.83,34.39,sandy loam,71.32,soilgrids_synthetic,simulated
+COOLR-SYN-0080,26.900897,92.757859,6.09,91.17,loam,61.68,soilgrids_synthetic,simulated
+COOLR-SYN-0081,23.629534,91.760134,6.43,38.71,silty clay loam,81.09,soilgrids_synthetic,simulated
+COOLR-SYN-0082,25.953712,94.44601,5.08,11.56,silty clay loam,79.09,soilgrids_synthetic,simulated
+COOLR-SYN-0083,27.617477,92.022242,4.96,58.33,loam,76.51,soilgrids_synthetic,simulated
+COOLR-SYN-0084,26.721789,94.034842,5.66,54.85,clay loam,54.99,soilgrids_synthetic,simulated
+COOLR-SYN-0085,23.134189,92.674404,5.12,6.82,clay loam,50.79,soilgrids_synthetic,simulated
+COOLR-SYN-0086,27.387175,88.656609,6.9,32.51,sandy loam,68.75,soilgrids_synthetic,simulated
+COOLR-SYN-0087,25.718288,92.647348,4.94,51.67,sandy clay loam,80.9,soilgrids_synthetic,simulated
+COOLR-SYN-0088,25.762103,92.791757,6.18,0.37,sandy loam,75.4,soilgrids_synthetic,simulated
+COOLR-SYN-0089,26.433527,93.056509,4.71,10.01,loam,63.49,soilgrids_synthetic,simulated
+COOLR-SYN-0090,23.185602,92.807138,4.85,41.08,sandy clay loam,71.09,soilgrids_synthetic,simulated
+COOLR-SYN-0091,27.710717,88.408769,6.69,30.86,silty clay loam,76.76,soilgrids_synthetic,simulated
+COOLR-SYN-0092,26.704761,93.919223,5.75,112.91,sandy loam,33.41,soilgrids_synthetic,simulated
+COOLR-SYN-0093,23.952179,91.324882,6.2,34.53,sandy loam,30.75,soilgrids_synthetic,simulated
+COOLR-SYN-0094,27.51471,88.836559,4.92,68.74,sandy loam,59.0,soilgrids_synthetic,simulated
+COOLR-SYN-0095,26.53895,94.060542,5.23,24.85,sandy clay loam,55.31,soilgrids_synthetic,simulated
+COOLR-SYN-0096,22.673416,93.082699,6.17,3.52,clay,36.6,soilgrids_synthetic,simulated
+COOLR-SYN-0097,25.673252,91.669729,6.71,6.55,clay loam,77.91,soilgrids_synthetic,simulated
+COOLR-SYN-0098,22.813673,93.052559,6.04,3.93,sandy clay loam,69.47,soilgrids_synthetic,simulated
+COOLR-SYN-0099,26.074795,94.520228,4.79,0.28,clay loam,83.46,soilgrids_synthetic,simulated
+COOLR-SYN-0100,25.655645,90.53456,5.43,34.85,loam,80.5,soilgrids_synthetic,simulated
+COOLR-SYN-0101,24.799413,93.621209,4.56,167.67,loam,81.82,soilgrids_synthetic,simulated
+COOLR-SYN-0102,26.484641,94.535945,6.92,8.19,loam,42.17,soilgrids_synthetic,simulated
+COOLR-SYN-0103,27.425782,88.349408,4.52,48.45,clay loam,81.35,soilgrids_synthetic,simulated
+COOLR-SYN-0104,23.629258,91.768606,5.71,54.01,clay,30.38,soilgrids_synthetic,simulated
+COOLR-SYN-0105,27.047118,88.571581,4.84,22.56,loam,81.99,soilgrids_synthetic,simulated
+COOLR-SYN-0106,26.243827,94.731286,6.49,49.93,loam,42.1,soilgrids_synthetic,simulated
+COOLR-SYN-0107,25.673999,92.950917,5.82,21.75,sandy loam,75.62,soilgrids_synthetic,simulated
+COOLR-SYN-0108,27.08299,88.509643,6.59,4.88,silty clay loam,63.22,soilgrids_synthetic,simulated
+COOLR-SYN-0109,24.538994,93.953079,5.56,1.83,sandy loam,62.91,soilgrids_synthetic,simulated
+COOLR-SYN-0110,26.42286,94.228125,6.51,18.47,sandy loam,56.96,soilgrids_synthetic,simulated
+COOLR-SYN-0111,23.908915,91.162032,6.11,26.69,sandy clay loam,55.89,soilgrids_synthetic,simulated
+COOLR-SYN-0112,26.54548,94.835463,6.46,16.68,clay,35.03,soilgrids_synthetic,simulated
+COOLR-SYN-0113,27.462606,88.2921,5.84,79.46,sandy loam,58.78,soilgrids_synthetic,simulated
+COOLR-SYN-0114,26.02142,93.98521,6.97,31.2,sandy clay loam,44.3,soilgrids_synthetic,simulated
+COOLR-SYN-0115,25.693725,91.264338,5.2,10.91,clay loam,43.21,soilgrids_synthetic,simulated
+COOLR-SYN-0116,25.925331,93.626542,5.88,5.38,loam,66.86,soilgrids_synthetic,simulated
+COOLR-SYN-0117,25.436809,92.063739,5.86,24.52,silty clay loam,64.14,soilgrids_synthetic,simulated
+COOLR-SYN-0118,27.321754,95.003221,5.35,84.72,sandy clay loam,66.46,soilgrids_synthetic,simulated
+COOLR-SYN-0119,25.78809,92.78774,5.94,9.96,sandy loam,42.09,soilgrids_synthetic,simulated
+COOLR-SYN-0120,23.562153,91.498141,5.04,1.14,clay loam,63.51,soilgrids_synthetic,simulated
+COOLR-SYN-0121,25.130072,94.260025,5.61,7.7,silty clay loam,34.06,soilgrids_synthetic,simulated
+COOLR-SYN-0122,25.042154,94.690907,6.57,18.74,silty clay loam,68.08,soilgrids_synthetic,simulated
+COOLR-SYN-0123,25.273063,91.460605,5.71,19.9,sandy clay loam,45.96,soilgrids_synthetic,simulated
+COOLR-SYN-0124,27.062492,88.165059,5.55,35.82,sandy loam,63.51,soilgrids_synthetic,simulated
+COOLR-SYN-0125,25.179454,91.827363,4.89,12.31,silty clay loam,36.84,soilgrids_synthetic,simulated
+COOLR-SYN-0126,23.482803,92.715975,5.41,6.8,clay loam,41.4,soilgrids_synthetic,simulated
+COOLR-SYN-0127,25.024534,91.966671,5.31,29.45,sandy loam,76.59,soilgrids_synthetic,simulated
+COOLR-SYN-0128,26.598038,94.452386,6.98,18.37,loam,84.42,soilgrids_synthetic,simulated
+COOLR-SYN-0129,25.39989,91.144321,6.04,7.39,clay loam,38.27,soilgrids_synthetic,simulated
+COOLR-SYN-0130,27.469356,95.450824,5.14,25.92,loam,56.22,soilgrids_synthetic,simulated
+COOLR-SYN-0131,27.470457,95.101345,6.18,19.65,clay loam,40.92,soilgrids_synthetic,simulated
+COOLR-SYN-0132,25.884982,94.040086,5.62,28.16,loam,74.31,soilgrids_synthetic,simulated
+COOLR-SYN-0133,26.324344,93.716718,5.59,2.57,sandy loam,54.38,soilgrids_synthetic,simulated
+COOLR-SYN-0134,25.966183,90.342803,5.74,28.81,loam,71.46,soilgrids_synthetic,simulated
+COOLR-SYN-0135,24.077844,91.238811,4.77,4.62,sandy loam,82.2,soilgrids_synthetic,simulated
+COOLR-SYN-0136,25.264855,92.435652,5.85,39.56,clay loam,84.1,soilgrids_synthetic,simulated
+COOLR-SYN-0137,23.546136,92.524373,4.64,8.6,clay loam,48.06,soilgrids_synthetic,simulated
+COOLR-SYN-0138,26.496954,92.815188,6.14,57.27,clay loam,78.36,soilgrids_synthetic,simulated
+COOLR-SYN-0139,25.26115,90.842607,6.06,15.9,loam,71.49,soilgrids_synthetic,simulated
+COOLR-SYN-0140,25.534792,90.796421,6.29,2.36,sandy loam,53.49,soilgrids_synthetic,simulated
+COOLR-SYN-0141,26.514564,94.787125,5.02,1.43,loam,72.36,soilgrids_synthetic,simulated
+COOLR-SYN-0142,26.182656,92.753921,5.47,13.9,sandy loam,71.2,soilgrids_synthetic,simulated
+COOLR-SYN-0143,26.206664,93.717797,5.8,2.9,loam,41.41,soilgrids_synthetic,simulated
+COOLR-SYN-0144,26.233692,94.745267,6.39,12.49,loam,63.98,soilgrids_synthetic,simulated
+COOLR-SYN-0145,26.289796,93.800872,5.78,32.99,sandy loam,73.53,soilgrids_synthetic,simulated
+COOLR-SYN-0146,25.246616,93.950517,6.54,13.05,loam,84.29,soilgrids_synthetic,simulated
+COOLR-SYN-0147,28.025338,94.709516,4.81,22.31,sandy loam,48.36,soilgrids_synthetic,simulated
+COOLR-SYN-0148,22.853782,92.661744,5.48,45.01,clay loam,78.45,soilgrids_synthetic,simulated
+COOLR-SYN-0149,25.501521,90.43235,6.87,11.77,sandy clay loam,75.79,soilgrids_synthetic,simulated
+COOLR-SYN-0150,26.442687,94.366423,6.97,2.06,clay,36.62,soilgrids_synthetic,simulated
+COOLR-SYN-0151,26.681546,92.790107,5.78,8.03,loam,47.09,soilgrids_synthetic,simulated
+COOLR-SYN-0152,27.461159,88.250311,6.16,10.6,silty clay loam,48.39,soilgrids_synthetic,simulated
+COOLR-SYN-0153,25.419819,91.574478,6.2,30.14,sandy loam,81.79,soilgrids_synthetic,simulated
+COOLR-SYN-0154,28.114142,94.648165,5.9,23.53,sandy loam,53.46,soilgrids_synthetic,simulated
+COOLR-SYN-0155,25.4771,91.634503,6.12,53.85,clay loam,51.1,soilgrids_synthetic,simulated
+COOLR-SYN-0156,27.309174,91.527416,5.88,0.35,clay loam,49.5,soilgrids_synthetic,simulated
+COOLR-SYN-0157,23.943682,91.335958,5.26,36.84,sandy loam,54.84,soilgrids_synthetic,simulated
+COOLR-SYN-0158,23.136321,92.57049,4.86,12.98,sandy clay loam,57.68,soilgrids_synthetic,simulated
+COOLR-SYN-0159,24.076261,91.17854,5.18,6.79,clay loam,60.07,soilgrids_synthetic,simulated
+COOLR-SYN-0160,26.427843,94.8464,4.93,5.24,loam,70.76,soilgrids_synthetic,simulated
+COOLR-SYN-0161,26.733922,94.296192,6.09,50.01,loam,48.2,soilgrids_synthetic,simulated
+COOLR-SYN-0162,25.200684,90.953965,5.78,67.29,loam,84.32,soilgrids_synthetic,simulated
+COOLR-SYN-0163,26.405311,93.761953,5.76,174.24,clay loam,57.08,soilgrids_synthetic,simulated
+COOLR-SYN-0164,26.256821,94.536556,5.06,19.01,sandy loam,40.99,soilgrids_synthetic,simulated
+COOLR-SYN-0165,25.937459,93.618759,6.71,5.54,sandy clay loam,56.76,soilgrids_synthetic,simulated
+COOLR-SYN-0166,26.55385,92.640725,5.54,3.42,sandy loam,82.13,soilgrids_synthetic,simulated
+COOLR-SYN-0167,23.715318,92.47366,5.41,11.81,clay,46.62,soilgrids_synthetic,simulated
+COOLR-SYN-0168,26.781618,92.847414,6.69,22.33,silty clay loam,43.26,soilgrids_synthetic,simulated
+COOLR-SYN-0169,27.515853,88.365327,6.5,46.71,sandy clay loam,38.71,soilgrids_synthetic,simulated
+COOLR-SYN-0170,25.210015,92.488329,6.59,14.84,clay,76.01,soilgrids_synthetic,simulated
+COOLR-SYN-0171,23.311679,92.785538,6.51,25.46,loam,42.16,soilgrids_synthetic,simulated
+COOLR-SYN-0172,25.642824,90.384112,4.87,4.06,silty clay loam,39.7,soilgrids_synthetic,simulated
+COOLR-SYN-0173,27.114148,92.758747,6.98,38.47,loam,66.04,soilgrids_synthetic,simulated
+COOLR-SYN-0174,25.557863,90.847762,6.55,78.09,clay,78.37,soilgrids_synthetic,simulated
+COOLR-SYN-0175,27.734167,92.040014,5.01,17.66,loam,72.63,soilgrids_synthetic,simulated
+COOLR-SYN-0176,24.741144,94.309872,5.41,2.68,loam,73.85,soilgrids_synthetic,simulated
+COOLR-SYN-0177,22.890431,93.080887,6.75,38.66,clay loam,73.56,soilgrids_synthetic,simulated
+COOLR-SYN-0178,26.395312,94.734901,5.17,11.26,clay loam,51.94,soilgrids_synthetic,simulated
+COOLR-SYN-0179,28.000074,94.905685,5.64,10.65,clay loam,51.08,soilgrids_synthetic,simulated
+COOLR-SYN-0180,27.347363,95.289079,5.81,23.7,silty clay loam,66.29,soilgrids_synthetic,simulated
+COOLR-SYN-0181,27.819442,92.095571,5.05,111.34,sandy clay loam,54.28,soilgrids_synthetic,simulated
+COOLR-SYN-0182,25.158865,91.612993,5.27,5.14,loam,38.91,soilgrids_synthetic,simulated
+COOLR-SYN-0183,26.608196,94.295294,6.56,4.67,silty clay loam,54.36,soilgrids_synthetic,simulated
+COOLR-SYN-0184,24.332141,93.874987,6.22,64.47,sandy clay loam,84.75,soilgrids_synthetic,simulated
+COOLR-SYN-0185,25.052412,92.318306,5.09,51.58,clay,78.66,soilgrids_synthetic,simulated
+COOLR-SYN-0186,23.968481,92.451709,5.83,14.44,clay loam,51.91,soilgrids_synthetic,simulated
+COOLR-SYN-0187,26.342886,94.491241,5.81,14.54,sandy loam,82.72,soilgrids_synthetic,simulated
+COOLR-SYN-0188,25.906954,93.614632,5.14,17.64,clay,37.69,soilgrids_synthetic,simulated
+COOLR-SYN-0189,28.37987,94.536148,4.85,0.42,loam,66.83,soilgrids_synthetic,simulated
+COOLR-SYN-0190,26.757169,93.802109,5.48,13.31,clay,66.61,soilgrids_synthetic,simulated
+COOLR-SYN-0191,23.77777,91.540419,5.41,21.37,loam,73.5,soilgrids_synthetic,simulated
+COOLR-SYN-0192,23.814082,92.403043,6.52,17.97,clay,80.68,soilgrids_synthetic,simulated
+COOLR-SYN-0193,23.291111,92.548473,4.61,0.43,clay,71.0,soilgrids_synthetic,simulated
+COOLR-SYN-0194,23.62715,91.801019,6.62,30.37,sandy loam,51.46,soilgrids_synthetic,simulated
+COOLR-SYN-0195,25.05046,93.868707,6.82,9.49,loam,59.66,soilgrids_synthetic,simulated
+COOLR-SYN-0196,25.627111,91.179204,6.74,84.13,sandy clay loam,78.66,soilgrids_synthetic,simulated
+COOLR-SYN-0197,24.664102,94.295038,5.34,6.09,sandy clay loam,41.41,soilgrids_synthetic,simulated
+COOLR-SYN-0198,23.159806,92.785666,6.0,9.03,loam,60.71,soilgrids_synthetic,simulated
+COOLR-SYN-0199,24.027094,91.445752,6.77,1.67,silty clay loam,61.74,soilgrids_synthetic,simulated
+COOLR-SYN-0200,27.44369,95.212029,4.63,16.98,clay,71.83,soilgrids_synthetic,simulated
+COOLR-SYN-0201,26.471519,94.429377,6.88,10.68,sandy loam,68.04,soilgrids_synthetic,simulated
+COOLR-SYN-0202,24.771745,94.213224,5.07,5.93,loam,35.28,soilgrids_synthetic,simulated
+COOLR-SYN-0203,25.301239,92.804486,5.84,2.87,clay,72.64,soilgrids_synthetic,simulated
+COOLR-SYN-0204,25.273217,92.557225,6.02,10.81,sandy loam,70.76,soilgrids_synthetic,simulated
+COOLR-SYN-0205,26.338813,94.151934,4.62,29.65,sandy clay loam,44.05,soilgrids_synthetic,simulated
+COOLR-SYN-0206,27.423853,88.168576,4.84,55.65,clay loam,72.34,soilgrids_synthetic,simulated
+COOLR-SYN-0207,25.556123,92.555088,6.87,14.62,sandy loam,44.23,soilgrids_synthetic,simulated
+COOLR-SYN-0208,23.127361,92.62715,6.87,25.03,clay loam,78.07,soilgrids_synthetic,simulated
+COOLR-SYN-0209,25.72682,92.69056,5.47,29.86,silty clay loam,42.02,soilgrids_synthetic,simulated
+COOLR-SYN-0210,27.002463,95.376785,6.48,52.47,loam,65.29,soilgrids_synthetic,simulated
+COOLR-SYN-0211,25.609315,91.173782,5.26,10.88,clay,36.01,soilgrids_synthetic,simulated
+COOLR-SYN-0212,26.274573,93.975554,4.77,7.99,sandy loam,62.43,soilgrids_synthetic,simulated
+COOLR-SYN-0213,26.314466,94.032862,5.64,39.13,silty clay loam,36.63,soilgrids_synthetic,simulated
+COOLR-SYN-0214,26.427097,94.654647,5.0,12.36,silty clay loam,61.53,soilgrids_synthetic,simulated
+COOLR-SYN-0215,26.228636,93.022561,5.19,5.52,clay loam,70.17,soilgrids_synthetic,simulated
+COOLR-SYN-0216,25.411732,91.059169,5.89,32.37,clay,35.72,soilgrids_synthetic,simulated
+COOLR-SYN-0217,25.507243,91.162111,4.68,21.63,sandy loam,42.72,soilgrids_synthetic,simulated
+COOLR-SYN-0218,25.50191,92.720002,4.7,2.2,clay loam,53.61,soilgrids_synthetic,simulated
+COOLR-SYN-0219,23.100827,92.761805,5.52,15.45,loam,78.09,soilgrids_synthetic,simulated
+COOLR-SYN-0220,24.063971,91.249732,5.9,38.05,sandy clay loam,36.56,soilgrids_synthetic,simulated
+COOLR-SYN-0221,27.325879,91.707225,5.14,45.03,clay loam,70.02,soilgrids_synthetic,simulated
+COOLR-SYN-0222,27.65338,88.382327,5.99,2.01,loam,34.24,soilgrids_synthetic,simulated
+COOLR-SYN-0223,26.388929,94.82172,5.98,2.67,clay loam,33.82,soilgrids_synthetic,simulated
+COOLR-SYN-0224,25.506381,92.223232,4.71,33.11,sandy clay loam,82.15,soilgrids_synthetic,simulated
+COOLR-SYN-0225,27.237673,92.810639,4.57,20.21,clay,84.01,soilgrids_synthetic,simulated
+COOLR-SYN-0226,26.573295,93.035681,6.97,16.62,clay loam,63.1,soilgrids_synthetic,simulated
+COOLR-SYN-0227,23.666028,91.68809,5.03,16.65,loam,44.82,soilgrids_synthetic,simulated
+COOLR-SYN-0228,26.255556,94.878808,6.6,0.51,loam,38.22,soilgrids_synthetic,simulated
+COOLR-SYN-0229,26.758689,93.14014,4.92,30.98,sandy clay loam,57.83,soilgrids_synthetic,simulated
+COOLR-SYN-0230,26.3349,92.662369,5.45,37.14,silty clay loam,30.75,soilgrids_synthetic,simulated
+COOLR-SYN-0231,27.584749,95.162986,4.87,13.23,sandy loam,82.43,soilgrids_synthetic,simulated
+COOLR-SYN-0232,26.313511,94.666411,5.25,5.11,loam,63.07,soilgrids_synthetic,simulated
+COOLR-SYN-0233,27.339109,88.255855,5.39,0.69,loam,69.23,soilgrids_synthetic,simulated
+COOLR-SYN-0234,27.553854,91.588331,5.05,31.62,clay loam,66.66,soilgrids_synthetic,simulated
+COOLR-SYN-0235,27.581035,95.057585,4.91,3.45,sandy loam,39.31,soilgrids_synthetic,simulated
+COOLR-SYN-0236,25.029545,92.184395,5.25,1.14,silty clay loam,50.05,soilgrids_synthetic,simulated
+COOLR-SYN-0237,26.860379,92.809454,5.75,43.08,sandy loam,70.28,soilgrids_synthetic,simulated
+COOLR-SYN-0238,26.667077,93.086934,6.31,25.91,loam,57.54,soilgrids_synthetic,simulated
+COOLR-SYN-0239,25.03829,92.207547,6.15,1.08,loam,81.15,soilgrids_synthetic,simulated
+COOLR-SYN-0240,25.127564,92.28039,6.82,9.33,sandy loam,62.65,soilgrids_synthetic,simulated
+COOLR-SYN-0241,23.680512,91.378246,5.81,28.81,silty clay loam,78.95,soilgrids_synthetic,simulated
+COOLR-SYN-0242,23.564151,92.449125,6.78,24.77,sandy clay loam,40.27,soilgrids_synthetic,simulated
+COOLR-SYN-0243,27.048573,88.134658,6.14,93.91,silty clay loam,42.59,soilgrids_synthetic,simulated
+COOLR-SYN-0244,27.333727,88.577161,4.59,45.25,clay loam,77.32,soilgrids_synthetic,simulated
+COOLR-SYN-0245,24.995418,94.402101,6.66,118.96,sandy loam,66.04,soilgrids_synthetic,simulated
+COOLR-SYN-0246,23.931293,91.34985,4.85,1.52,clay loam,82.68,soilgrids_synthetic,simulated
+COOLR-SYN-0247,27.336963,91.569294,4.71,72.68,silty clay loam,44.86,soilgrids_synthetic,simulated
+COOLR-SYN-0248,27.638671,88.643487,6.6,13.69,loam,32.93,soilgrids_synthetic,simulated
+COOLR-SYN-0249,27.651498,88.313254,6.52,32.67,clay loam,51.05,soilgrids_synthetic,simulated
+COOLR-SYN-0250,25.43432,92.319949,4.8,20.31,loam,67.55,soilgrids_synthetic,simulated
+COOLR-SYN-0251,27.072307,88.325602,5.74,2.08,silty clay loam,69.96,soilgrids_synthetic,simulated
+COOLR-SYN-0252,23.597016,92.987629,5.62,20.06,silty clay loam,72.17,soilgrids_synthetic,simulated
+COOLR-SYN-0253,27.455097,88.59613,6.33,12.61,clay,68.62,soilgrids_synthetic,simulated
+COOLR-SYN-0254,23.88373,91.580353,5.32,29.86,loam,77.89,soilgrids_synthetic,simulated
+COOLR-SYN-0255,24.880962,93.956846,6.66,13.78,loam,77.99,soilgrids_synthetic,simulated
+COOLR-SYN-0256,27.313052,88.722607,6.61,37.39,silty clay loam,58.24,soilgrids_synthetic,simulated
+COOLR-SYN-0257,23.67983,92.278191,5.62,8.94,clay,78.56,soilgrids_synthetic,simulated
+COOLR-SYN-0258,23.40977,91.752041,5.82,56.66,sandy loam,33.94,soilgrids_synthetic,simulated
+COOLR-SYN-0259,27.411022,88.328546,6.71,3.15,sandy loam,81.03,soilgrids_synthetic,simulated
+COOLR-SYN-0260,25.623148,92.83717,4.77,26.26,sandy loam,52.15,soilgrids_synthetic,simulated
+COOLR-SYN-0261,23.659064,92.454376,5.06,8.07,silty clay loam,30.06,soilgrids_synthetic,simulated
+COOLR-SYN-0262,26.161343,94.449677,4.94,67.9,sandy loam,58.45,soilgrids_synthetic,simulated
+COOLR-SYN-0263,27.175637,88.323937,6.88,7.45,clay loam,82.65,soilgrids_synthetic,simulated
+COOLR-SYN-0264,23.300929,91.562337,5.49,28.17,sandy loam,49.14,soilgrids_synthetic,simulated
+COOLR-SYN-0265,25.780041,91.219827,5.47,6.53,loam,41.23,soilgrids_synthetic,simulated
+COOLR-SYN-0266,25.008159,94.406568,4.53,17.12,loam,55.99,soilgrids_synthetic,simulated
+COOLR-SYN-0267,23.864724,91.475844,6.59,32.59,sandy clay loam,30.08,soilgrids_synthetic,simulated
+COOLR-SYN-0268,26.965486,88.449848,6.47,0.74,clay,75.06,soilgrids_synthetic,simulated
+COOLR-SYN-0269,24.734707,93.955309,6.33,20.48,sandy loam,82.57,soilgrids_synthetic,simulated
+COOLR-SYN-0270,26.310615,93.688402,6.38,2.42,loam,84.31,soilgrids_synthetic,simulated
+COOLR-SYN-0271,27.01852,88.315952,5.92,1.33,clay loam,54.53,soilgrids_synthetic,simulated
+COOLR-SYN-0272,26.685665,92.97201,4.91,6.06,loam,72.56,soilgrids_synthetic,simulated
+COOLR-SYN-0273,25.466668,90.098704,4.64,30.85,sandy clay loam,61.15,soilgrids_synthetic,simulated
+COOLR-SYN-0274,26.033655,93.656133,6.3,13.5,loam,61.42,soilgrids_synthetic,simulated
+COOLR-SYN-0275,25.544908,91.042338,6.99,14.63,clay loam,44.08,soilgrids_synthetic,simulated
+COOLR-SYN-0276,27.463169,91.807697,4.84,12.83,silty clay loam,59.89,soilgrids_synthetic,simulated
+COOLR-SYN-0277,24.843194,94.058328,6.14,11.09,sandy loam,79.54,soilgrids_synthetic,simulated
+COOLR-SYN-0278,27.08487,88.812717,4.61,23.59,clay,41.66,soilgrids_synthetic,simulated
+COOLR-SYN-0279,27.568159,95.094375,5.44,43.67,silty clay loam,65.77,soilgrids_synthetic,simulated
+COOLR-SYN-0280,26.190973,94.461183,6.38,39.22,sandy clay loam,71.14,soilgrids_synthetic,simulated
+COOLR-SYN-0281,23.78479,91.736334,6.15,8.08,sandy loam,76.49,soilgrids_synthetic,simulated
+COOLR-SYN-0282,25.635769,92.878465,6.99,8.8,loam,52.64,soilgrids_synthetic,simulated
+COOLR-SYN-0283,23.147173,92.597876,6.71,7.64,silty clay loam,59.56,soilgrids_synthetic,simulated
+COOLR-SYN-0284,23.837451,91.534857,4.57,0.33,clay loam,44.75,soilgrids_synthetic,simulated
+COOLR-SYN-0285,24.292222,93.881791,4.52,63.11,silty clay loam,75.22,soilgrids_synthetic,simulated
+COOLR-SYN-0286,22.993096,92.649359,6.28,7.46,silty clay loam,84.64,soilgrids_synthetic,simulated
+COOLR-SYN-0287,24.732499,93.827051,6.45,55.05,clay,36.23,soilgrids_synthetic,simulated
+COOLR-SYN-0288,24.717184,94.33987,5.67,6.15,sandy loam,52.16,soilgrids_synthetic,simulated
+COOLR-SYN-0289,25.283073,92.773468,5.06,47.23,clay loam,55.87,soilgrids_synthetic,simulated
+COOLR-SYN-0290,25.083248,94.471494,5.77,34.76,loam,63.4,soilgrids_synthetic,simulated
+COOLR-SYN-0291,27.505146,92.035496,5.95,13.49,sandy loam,58.36,soilgrids_synthetic,simulated
+COOLR-SYN-0292,23.648507,91.890346,5.65,46.31,silty clay loam,70.08,soilgrids_synthetic,simulated
+COOLR-SYN-0293,25.286509,91.486853,6.99,0.32,sandy loam,32.71,soilgrids_synthetic,simulated
+COOLR-SYN-0294,27.281879,93.119678,6.18,2.8,sandy loam,73.64,soilgrids_synthetic,simulated
+COOLR-SYN-0295,26.665114,93.901942,6.84,17.94,silty clay loam,76.07,soilgrids_synthetic,simulated
+COOLR-SYN-0296,26.915645,88.202715,6.27,19.71,clay,76.29,soilgrids_synthetic,simulated
+COOLR-SYN-0297,25.202749,91.495359,5.46,43.23,sandy loam,60.28,soilgrids_synthetic,simulated
+COOLR-SYN-0298,27.029077,95.37871,5.16,11.93,silty clay loam,37.61,soilgrids_synthetic,simulated
+COOLR-SYN-0299,24.574482,94.558584,6.75,42.9,silty clay loam,39.65,soilgrids_synthetic,simulated
+COOLR-SYN-0300,27.187486,95.428805,5.93,23.08,sandy loam,41.89,soilgrids_synthetic,simulated
+COOLR-SYN-0301,27.342316,88.450644,5.07,56.78,clay loam,73.03,soilgrids_synthetic,simulated
+COOLR-SYN-0302,25.435139,90.824019,6.38,48.05,clay loam,47.43,soilgrids_synthetic,simulated
+COOLR-SYN-0303,23.204291,91.574376,4.75,7.66,clay loam,82.45,soilgrids_synthetic,simulated
+COOLR-SYN-0304,23.777903,92.381941,5.11,22.22,sandy loam,62.08,soilgrids_synthetic,simulated
+COOLR-SYN-0305,25.967915,94.580375,7.0,12.41,sandy loam,72.55,soilgrids_synthetic,simulated
+COOLR-SYN-0306,27.27077,95.117443,6.73,11.55,clay loam,80.39,soilgrids_synthetic,simulated
+COOLR-SYN-0307,25.7495,90.317919,5.19,4.06,sandy clay loam,78.94,soilgrids_synthetic,simulated
+COOLR-SYN-0308,23.016363,92.941479,4.76,4.78,clay,45.84,soilgrids_synthetic,simulated
+COOLR-SYN-0309,25.826465,93.662573,5.66,40.89,clay,45.87,soilgrids_synthetic,simulated
+COOLR-SYN-0310,25.641322,90.168945,6.2,12.32,loam,70.09,soilgrids_synthetic,simulated
+COOLR-SYN-0311,23.654445,91.298248,5.17,65.87,sandy clay loam,49.05,soilgrids_synthetic,simulated
+COOLR-SYN-0312,23.555735,92.521431,4.68,0.02,clay loam,60.09,soilgrids_synthetic,simulated
+COOLR-SYN-0313,24.644979,93.995233,5.55,0.4,clay,76.76,soilgrids_synthetic,simulated
+COOLR-SYN-0314,23.827505,91.03932,6.74,25.0,clay loam,66.0,soilgrids_synthetic,simulated
+COOLR-SYN-0315,25.330724,91.905191,6.78,4.42,sandy loam,45.73,soilgrids_synthetic,simulated
+COOLR-SYN-0316,25.741899,90.567386,6.24,64.34,loam,32.01,soilgrids_synthetic,simulated
+COOLR-SYN-0317,27.329616,88.544822,5.57,12.77,clay,35.53,soilgrids_synthetic,simulated
+COOLR-SYN-0318,27.035168,88.72249,5.34,10.94,loam,60.05,soilgrids_synthetic,simulated
+COOLR-SYN-0319,26.158609,94.708144,6.56,15.1,clay,76.11,soilgrids_synthetic,simulated
+COOLR-SYN-0320,26.216808,93.717887,6.09,19.95,sandy loam,63.04,soilgrids_synthetic,simulated
+COOLR-SYN-0321,26.557365,94.131514,5.22,19.43,loam,36.62,soilgrids_synthetic,simulated
+COOLR-SYN-0322,25.68813,91.063047,5.89,3.39,clay loam,59.03,soilgrids_synthetic,simulated
+COOLR-SYN-0323,23.267773,91.684018,4.99,2.64,loam,59.78,soilgrids_synthetic,simulated
+COOLR-SYN-0324,27.038591,88.508561,6.05,12.63,clay loam,53.06,soilgrids_synthetic,simulated
+COOLR-SYN-0325,27.590838,95.170021,4.73,1.92,clay loam,38.29,soilgrids_synthetic,simulated
+COOLR-SYN-0326,25.767669,92.542221,5.79,68.15,sandy loam,55.62,soilgrids_synthetic,simulated
+COOLR-SYN-0327,25.197325,94.285731,6.32,27.96,clay loam,42.56,soilgrids_synthetic,simulated
+COOLR-SYN-0328,25.264477,94.104665,5.06,10.57,clay loam,78.06,soilgrids_synthetic,simulated
+COOLR-SYN-0329,25.34904,91.882164,6.9,7.9,sandy clay loam,79.67,soilgrids_synthetic,simulated
+COOLR-SYN-0330,25.86254,90.521496,6.49,5.85,clay loam,71.02,soilgrids_synthetic,simulated
+COOLR-SYN-0331,23.426179,92.650241,6.74,12.64,sandy loam,65.75,soilgrids_synthetic,simulated
+COOLR-SYN-0332,26.278165,94.186606,5.2,72.09,loam,40.66,soilgrids_synthetic,simulated
+COOLR-SYN-0333,27.240682,93.282786,4.57,53.33,loam,51.86,soilgrids_synthetic,simulated
+COOLR-SYN-0334,23.914963,91.031509,6.5,3.93,clay loam,54.35,soilgrids_synthetic,simulated
+COOLR-SYN-0335,27.193126,88.364493,6.03,60.59,sandy loam,54.18,soilgrids_synthetic,simulated
+COOLR-SYN-0336,26.630806,92.585235,5.46,165.93,silty clay loam,47.98,soilgrids_synthetic,simulated
+COOLR-SYN-0337,26.589509,94.112975,5.62,14.15,sandy clay loam,34.3,soilgrids_synthetic,simulated
+COOLR-SYN-0338,25.896607,94.196367,6.48,8.68,clay loam,54.22,soilgrids_synthetic,simulated
+COOLR-SYN-0339,25.076033,94.032156,5.29,6.22,sandy loam,46.18,soilgrids_synthetic,simulated
+COOLR-SYN-0340,25.636758,90.196353,5.46,30.75,sandy loam,51.75,soilgrids_synthetic,simulated
+COOLR-SYN-0341,27.36873,88.535613,4.63,87.31,sandy loam,78.88,soilgrids_synthetic,simulated
+COOLR-SYN-0342,23.011329,93.096156,6.26,37.95,clay loam,49.09,soilgrids_synthetic,simulated
+COOLR-SYN-0343,23.644984,92.928216,6.91,3.86,sandy clay loam,62.7,soilgrids_synthetic,simulated
+COOLR-SYN-0344,24.745738,94.383847,6.98,0.22,clay loam,44.94,soilgrids_synthetic,simulated
+COOLR-SYN-0345,26.237549,93.75698,5.62,4.72,sandy clay loam,54.64,soilgrids_synthetic,simulated
+COOLR-SYN-0346,23.427275,92.819983,5.34,60.47,sandy loam,44.71,soilgrids_synthetic,simulated
+COOLR-SYN-0347,25.65353,90.39576,5.67,7.25,clay loam,77.06,soilgrids_synthetic,simulated
+COOLR-SYN-0348,23.969086,91.212328,6.02,32.26,sandy loam,32.86,soilgrids_synthetic,simulated
+COOLR-SYN-0349,27.334177,88.163037,4.71,68.37,loam,83.92,soilgrids_synthetic,simulated
+COOLR-SYN-0350,28.032464,94.635195,4.95,3.46,sandy loam,57.43,soilgrids_synthetic,simulated
+COOLR-SYN-0351,23.204374,91.840291,5.54,14.94,sandy clay loam,53.67,soilgrids_synthetic,simulated
+COOLR-SYN-0352,26.147572,94.579899,6.56,4.18,loam,50.35,soilgrids_synthetic,simulated
+COOLR-SYN-0353,23.565285,91.128566,6.28,9.85,clay loam,68.38,soilgrids_synthetic,simulated
+COOLR-SYN-0354,26.181694,92.831952,6.01,4.22,loam,38.83,soilgrids_synthetic,simulated
+COOLR-SYN-0355,27.183275,93.008145,6.66,14.3,clay loam,53.39,soilgrids_synthetic,simulated
+COOLR-SYN-0356,26.307376,93.778406,4.57,11.53,loam,61.24,soilgrids_synthetic,simulated
+COOLR-SYN-0357,23.725361,91.327159,4.96,12.08,loam,42.16,soilgrids_synthetic,simulated
+COOLR-SYN-0358,23.805017,91.21718,6.2,16.25,loam,55.13,soilgrids_synthetic,simulated
+COOLR-SYN-0359,25.911437,94.658203,6.78,11.66,sandy loam,66.73,soilgrids_synthetic,simulated
+COOLR-SYN-0360,23.101828,92.659419,6.26,5.06,loam,72.26,soilgrids_synthetic,simulated
+COOLR-SYN-0361,25.136944,93.842672,5.67,1.09,clay loam,40.09,soilgrids_synthetic,simulated
+COOLR-SYN-0362,26.068949,94.559202,4.61,8.76,silty clay loam,36.53,soilgrids_synthetic,simulated
+COOLR-SYN-0363,27.426557,88.323191,5.99,39.42,clay loam,78.54,soilgrids_synthetic,simulated
+COOLR-SYN-0364,27.517955,95.094257,5.68,21.32,clay loam,82.89,soilgrids_synthetic,simulated
+COOLR-SYN-0365,25.193458,93.869163,4.84,39.21,clay,63.83,soilgrids_synthetic,simulated
+COOLR-SYN-0366,24.607165,93.823423,6.72,32.38,sandy clay loam,55.19,soilgrids_synthetic,simulated
+COOLR-SYN-0367,25.057259,92.102333,5.36,36.1,clay loam,68.66,soilgrids_synthetic,simulated
+COOLR-SYN-0368,26.588308,94.036104,5.58,24.32,loam,81.06,soilgrids_synthetic,simulated
+COOLR-SYN-0369,26.472068,94.100679,5.79,4.58,loam,40.11,soilgrids_synthetic,simulated
+COOLR-SYN-0370,25.149052,91.238878,4.62,37.79,loam,31.04,soilgrids_synthetic,simulated
+COOLR-SYN-0371,23.7858,91.035676,6.34,0.96,sandy loam,67.15,soilgrids_synthetic,simulated
+COOLR-SYN-0372,27.329449,88.69662,5.97,11.59,sandy loam,53.67,soilgrids_synthetic,simulated
+COOLR-SYN-0373,27.708692,88.330062,6.38,6.27,clay loam,55.17,soilgrids_synthetic,simulated
+COOLR-SYN-0374,25.120036,91.368336,5.77,42.27,loam,55.16,soilgrids_synthetic,simulated
+COOLR-SYN-0375,25.212274,93.847802,5.73,4.08,sandy clay loam,45.1,soilgrids_synthetic,simulated
+COOLR-SYN-0376,26.491056,94.541312,6.12,66.17,clay loam,59.06,soilgrids_synthetic,simulated
+COOLR-SYN-0377,23.852251,92.441076,6.66,25.3,loam,47.76,soilgrids_synthetic,simulated
+COOLR-SYN-0378,23.491109,92.513273,4.69,26.34,loam,47.0,soilgrids_synthetic,simulated
+COOLR-SYN-0379,27.506916,92.033154,4.62,30.3,clay,79.93,soilgrids_synthetic,simulated
+COOLR-SYN-0380,25.639007,92.449569,4.54,33.02,sandy loam,68.22,soilgrids_synthetic,simulated
+COOLR-SYN-0381,27.605003,91.7562,6.16,9.06,sandy loam,65.96,soilgrids_synthetic,simulated
+COOLR-SYN-0382,25.446489,92.947694,4.57,27.58,clay,84.09,soilgrids_synthetic,simulated
+COOLR-SYN-0383,26.370458,94.231615,5.55,11.23,sandy loam,53.95,soilgrids_synthetic,simulated
+COOLR-SYN-0384,24.751217,94.432181,6.24,7.45,loam,65.28,soilgrids_synthetic,simulated
+COOLR-SYN-0385,26.569519,93.927218,5.45,25.75,silty clay loam,35.97,soilgrids_synthetic,simulated
+COOLR-SYN-0386,25.441562,90.457033,6.06,70.46,clay,50.31,soilgrids_synthetic,simulated
+COOLR-SYN-0387,25.237342,94.37202,4.91,55.95,clay,76.35,soilgrids_synthetic,simulated
+COOLR-SYN-0388,26.560779,94.443532,5.51,0.61,silty clay loam,64.39,soilgrids_synthetic,simulated
+COOLR-SYN-0389,26.185608,94.578075,6.22,24.25,sandy loam,50.28,soilgrids_synthetic,simulated
+COOLR-SYN-0390,26.532628,94.53688,4.58,68.92,clay loam,72.55,soilgrids_synthetic,simulated
+COOLR-SYN-0391,27.873862,91.917674,5.1,10.49,loam,70.5,soilgrids_synthetic,simulated
+COOLR-SYN-0392,27.580967,91.738933,5.39,10.64,sandy loam,66.2,soilgrids_synthetic,simulated
+COOLR-SYN-0393,23.755369,91.332443,6.36,31.79,sandy loam,72.38,soilgrids_synthetic,simulated
+COOLR-SYN-0394,26.027049,94.854326,6.63,30.21,sandy loam,31.67,soilgrids_synthetic,simulated
+COOLR-SYN-0395,25.264346,91.596465,6.8,3.99,sandy loam,78.55,soilgrids_synthetic,simulated
+COOLR-SYN-0396,23.170667,92.56145,5.36,26.97,sandy clay loam,31.97,soilgrids_synthetic,simulated
+COOLR-SYN-0397,27.109436,94.927682,4.94,8.97,clay loam,32.29,soilgrids_synthetic,simulated
+COOLR-SYN-0398,26.709383,92.988275,5.02,1.17,loam,78.62,soilgrids_synthetic,simulated
+COOLR-SYN-0399,27.586511,88.793293,5.11,1.32,loam,63.35,soilgrids_synthetic,simulated
+COOLR-SYN-0400,25.039514,92.399086,4.59,5.93,sandy clay loam,79.31,soilgrids_synthetic,simulated
+COOLR-SYN-0401,25.660488,92.819329,4.89,20.68,sandy loam,74.97,soilgrids_synthetic,simulated
+COOLR-SYN-0402,25.697971,91.442798,5.58,5.15,sandy clay loam,72.37,soilgrids_synthetic,simulated
+COOLR-SYN-0403,23.311937,92.70442,4.99,53.19,silty clay loam,51.98,soilgrids_synthetic,simulated
+COOLR-SYN-0404,25.457742,91.389196,4.98,0.25,clay,55.38,soilgrids_synthetic,simulated
+COOLR-SYN-0405,22.794008,92.710896,5.98,34.97,loam,70.04,soilgrids_synthetic,simulated
+COOLR-SYN-0406,27.722245,91.733169,5.34,2.17,sandy loam,34.61,soilgrids_synthetic,simulated
+COOLR-SYN-0407,24.948219,94.026896,6.3,13.89,sandy loam,74.84,soilgrids_synthetic,simulated
+COOLR-SYN-0408,25.926748,90.514395,5.19,17.59,loam,36.85,soilgrids_synthetic,simulated
+COOLR-SYN-0409,24.708345,93.642326,6.15,24.44,sandy clay loam,67.63,soilgrids_synthetic,simulated
+COOLR-SYN-0410,23.917037,92.773283,4.57,6.63,sandy clay loam,81.39,soilgrids_synthetic,simulated
+COOLR-SYN-0411,23.126416,92.54227,5.01,57.41,loam,65.58,soilgrids_synthetic,simulated
+COOLR-SYN-0412,25.206105,91.888713,5.94,6.93,loam,42.79,soilgrids_synthetic,simulated
+COOLR-SYN-0413,27.161993,92.924412,6.0,84.18,clay,63.18,soilgrids_synthetic,simulated
+COOLR-SYN-0414,25.682166,91.216671,6.83,7.8,sandy loam,65.45,soilgrids_synthetic,simulated
+COOLR-SYN-0415,25.542099,90.917154,5.8,16.17,loam,56.03,soilgrids_synthetic,simulated
+COOLR-SYN-0416,24.369156,93.99369,6.09,5.88,clay,65.18,soilgrids_synthetic,simulated
+COOLR-SYN-0417,25.257396,90.89337,5.87,21.44,sandy clay loam,41.96,soilgrids_synthetic,simulated
+COOLR-SYN-0418,27.04203,93.089913,6.63,23.3,clay loam,68.62,soilgrids_synthetic,simulated
+COOLR-SYN-0419,26.633441,93.702834,5.98,10.01,clay loam,57.36,soilgrids_synthetic,simulated
+COOLR-SYN-0420,26.323508,92.779415,5.99,34.08,clay loam,77.42,soilgrids_synthetic,simulated
+COOLR-SYN-0421,23.833152,91.201635,4.94,7.6,loam,71.9,soilgrids_synthetic,simulated
+COOLR-SYN-0422,24.788087,94.161728,6.62,44.57,sandy loam,35.11,soilgrids_synthetic,simulated
+COOLR-SYN-0423,23.697613,91.469483,5.21,19.89,loam,48.18,soilgrids_synthetic,simulated
+COOLR-SYN-0424,25.599841,91.131477,5.07,3.95,sandy loam,56.11,soilgrids_synthetic,simulated
+COOLR-SYN-0425,26.787905,94.486683,4.76,31.08,loam,48.92,soilgrids_synthetic,simulated
+COOLR-SYN-0426,27.572122,88.360768,5.6,67.59,clay loam,75.32,soilgrids_synthetic,simulated
+COOLR-SYN-0427,26.213622,93.917535,4.53,0.68,sandy loam,58.55,soilgrids_synthetic,simulated
+COOLR-SYN-0428,27.875127,91.962094,5.8,1.44,sandy loam,47.96,soilgrids_synthetic,simulated
+COOLR-SYN-0429,25.273105,94.373269,5.4,1.26,sandy loam,41.59,soilgrids_synthetic,simulated
+COOLR-SYN-0430,24.33189,93.901898,4.73,70.06,loam,71.58,soilgrids_synthetic,simulated
+COOLR-SYN-0431,25.352625,91.669664,5.2,34.18,clay,37.87,soilgrids_synthetic,simulated
+COOLR-SYN-0432,26.367147,94.037113,5.04,8.87,sandy loam,33.7,soilgrids_synthetic,simulated
+COOLR-SYN-0433,24.223494,93.938192,5.76,20.93,loam,33.0,soilgrids_synthetic,simulated
+COOLR-SYN-0434,28.394788,94.867647,6.83,56.01,sandy clay loam,74.71,soilgrids_synthetic,simulated
+COOLR-SYN-0435,25.927932,90.006111,5.53,48.2,sandy loam,73.83,soilgrids_synthetic,simulated
+COOLR-SYN-0436,27.726265,91.883381,5.7,2.61,loam,82.19,soilgrids_synthetic,simulated
+COOLR-SYN-0437,23.421764,92.982796,6.73,27.38,loam,30.85,soilgrids_synthetic,simulated
+COOLR-SYN-0438,25.407859,91.131603,5.95,13.91,loam,32.2,soilgrids_synthetic,simulated
+COOLR-SYN-0439,27.161946,92.78918,6.95,4.62,sandy clay loam,44.87,soilgrids_synthetic,simulated
+COOLR-SYN-0440,25.560815,90.030035,6.59,74.42,loam,81.25,soilgrids_synthetic,simulated
+COOLR-SYN-0441,27.208221,88.29847,6.87,10.57,sandy clay loam,56.94,soilgrids_synthetic,simulated
+COOLR-SYN-0442,24.315069,93.980165,5.86,15.49,sandy loam,53.05,soilgrids_synthetic,simulated
+COOLR-SYN-0443,25.695629,90.789538,6.92,19.43,clay,72.55,soilgrids_synthetic,simulated
+COOLR-SYN-0444,22.692904,92.509077,5.5,19.19,loam,70.0,soilgrids_synthetic,simulated
+COOLR-SYN-0445,27.041215,88.822841,5.85,81.17,clay,46.67,soilgrids_synthetic,simulated
+COOLR-SYN-0446,27.707093,91.912763,5.11,41.82,sandy loam,39.45,soilgrids_synthetic,simulated
+COOLR-SYN-0447,25.173527,92.10649,5.41,8.65,clay loam,75.93,soilgrids_synthetic,simulated
+COOLR-SYN-0448,24.790857,94.103368,5.58,24.26,clay loam,60.24,soilgrids_synthetic,simulated
+COOLR-SYN-0449,24.576809,94.431726,5.64,11.62,loam,66.48,soilgrids_synthetic,simulated
+COOLR-SYN-0450,26.114987,94.939836,5.11,24.64,sandy clay loam,34.23,soilgrids_synthetic,simulated
+COOLR-SYN-0451,26.136778,94.429648,6.73,12.07,loam,31.05,soilgrids_synthetic,simulated
+COOLR-SYN-0452,23.564112,92.249158,6.2,46.48,sandy loam,56.46,soilgrids_synthetic,simulated
+COOLR-SYN-0453,25.100382,91.831161,5.55,2.82,sandy clay loam,72.35,soilgrids_synthetic,simulated
+COOLR-SYN-0454,23.094255,92.755249,6.81,7.92,clay loam,83.56,soilgrids_synthetic,simulated
+COOLR-SYN-0455,27.488989,88.643104,4.6,53.41,clay loam,41.24,soilgrids_synthetic,simulated
+COOLR-SYN-0456,25.563703,92.692841,5.17,16.4,loam,49.42,soilgrids_synthetic,simulated
+COOLR-SYN-0457,23.495224,91.402445,6.55,8.28,loam,39.7,soilgrids_synthetic,simulated
+COOLR-SYN-0458,26.391438,94.267798,4.55,15.72,clay loam,53.82,soilgrids_synthetic,simulated
+COOLR-SYN-0459,27.595247,88.736231,4.87,63.12,loam,57.91,soilgrids_synthetic,simulated
+COOLR-SYN-0460,27.846185,94.469822,6.02,39.69,clay loam,44.07,soilgrids_synthetic,simulated
+COOLR-SYN-0461,25.36292,91.35614,4.58,14.25,clay loam,53.36,soilgrids_synthetic,simulated
+COOLR-SYN-0462,25.578652,90.999086,4.51,4.84,silty clay loam,76.12,soilgrids_synthetic,simulated
+COOLR-SYN-0463,26.227247,94.266831,6.69,60.3,clay,34.65,soilgrids_synthetic,simulated
+COOLR-SYN-0464,24.431858,93.675549,5.63,15.23,sandy loam,65.91,soilgrids_synthetic,simulated
+COOLR-SYN-0465,26.372052,94.949253,4.56,14.97,clay loam,58.42,soilgrids_synthetic,simulated
+COOLR-SYN-0466,27.58923,91.565785,5.33,3.68,loam,79.53,soilgrids_synthetic,simulated
+COOLR-SYN-0467,26.248443,94.709748,4.92,11.57,clay,67.64,soilgrids_synthetic,simulated
+COOLR-SYN-0468,25.409447,92.20829,4.56,16.71,loam,76.01,soilgrids_synthetic,simulated
+COOLR-SYN-0469,25.913958,90.537562,6.03,34.06,loam,65.42,soilgrids_synthetic,simulated
+COOLR-SYN-0470,23.681463,91.250463,6.6,21.37,clay,80.71,soilgrids_synthetic,simulated
+COOLR-SYN-0471,25.195952,91.468073,4.88,9.27,clay loam,71.88,soilgrids_synthetic,simulated
+COOLR-SYN-0472,26.291126,93.677818,6.53,28.95,clay loam,48.03,soilgrids_synthetic,simulated
+COOLR-SYN-0473,27.099095,88.635416,6.57,64.65,clay,46.62,soilgrids_synthetic,simulated
+COOLR-SYN-0474,23.237129,92.438194,6.28,2.83,sandy clay loam,37.36,soilgrids_synthetic,simulated
+COOLR-SYN-0475,27.002656,88.280667,6.9,63.65,clay loam,49.26,soilgrids_synthetic,simulated
+COOLR-SYN-0476,27.673435,88.576341,5.19,4.6,silty clay loam,64.21,soilgrids_synthetic,simulated
+COOLR-SYN-0477,25.729285,90.014014,5.72,9.03,clay loam,71.55,soilgrids_synthetic,simulated
+COOLR-SYN-0478,24.587585,94.431092,5.62,26.06,clay loam,32.26,soilgrids_synthetic,simulated
+COOLR-SYN-0479,26.438038,94.416665,5.81,15.76,clay,74.85,soilgrids_synthetic,simulated
+COOLR-SYN-0480,23.598492,91.209514,4.94,10.95,sandy loam,46.97,soilgrids_synthetic,simulated
+COOLR-SYN-0481,25.641216,91.348012,5.3,69.04,loam,76.77,soilgrids_synthetic,simulated
+COOLR-SYN-0482,27.290106,88.378384,5.33,4.74,clay,30.7,soilgrids_synthetic,simulated
+COOLR-SYN-0483,26.22473,94.129387,5.43,21.44,silty clay loam,69.09,soilgrids_synthetic,simulated
+COOLR-SYN-0484,25.49238,91.388356,6.88,5.78,sandy loam,48.36,soilgrids_synthetic,simulated
+COOLR-SYN-0485,23.688231,92.863766,4.64,32.42,silty clay loam,31.44,soilgrids_synthetic,simulated
+COOLR-SYN-0486,22.648409,92.548587,6.06,36.26,clay loam,82.29,soilgrids_synthetic,simulated
+COOLR-SYN-0487,24.580766,94.692775,5.24,26.55,clay,73.22,soilgrids_synthetic,simulated
+COOLR-SYN-0488,26.026,94.508801,5.32,16.78,clay,83.47,soilgrids_synthetic,simulated
+COOLR-SYN-0489,23.597673,91.678705,6.33,3.16,sandy clay loam,61.19,soilgrids_synthetic,simulated
+COOLR-SYN-0490,26.625678,92.7984,5.38,26.49,clay loam,46.6,soilgrids_synthetic,simulated
+COOLR-SYN-0491,27.493038,95.075206,6.6,42.92,clay loam,44.23,soilgrids_synthetic,simulated
+COOLR-SYN-0492,23.508119,91.315061,6.04,7.72,loam,73.14,soilgrids_synthetic,simulated
+COOLR-SYN-0493,26.456554,94.722241,5.57,1.15,sandy clay loam,37.87,soilgrids_synthetic,simulated
+COOLR-SYN-0494,26.593476,94.760096,5.27,21.48,clay loam,50.81,soilgrids_synthetic,simulated
+COOLR-SYN-0495,26.653341,94.081193,6.79,9.17,silty clay loam,33.4,soilgrids_synthetic,simulated
+COOLR-SYN-0496,26.29703,94.039027,5.17,67.82,clay loam,54.97,soilgrids_synthetic,simulated
+COOLR-SYN-0497,23.683806,91.500256,4.54,41.85,sandy clay loam,30.91,soilgrids_synthetic,simulated
+COOLR-SYN-0498,22.741724,92.894884,6.12,5.65,sandy clay loam,84.07,soilgrids_synthetic,simulated
+COOLR-SYN-0499,23.474075,92.648513,6.52,12.78,sandy loam,45.14,soilgrids_synthetic,simulated
+COOLR-SYN-0500,24.822649,94.478323,6.26,4.25,sandy loam,60.76,soilgrids_synthetic,simulated
+COOLR-SYN-0501,25.299792,92.135895,6.38,0.6,loam,47.94,soilgrids_synthetic,simulated
+COOLR-SYN-0502,26.928579,92.955598,4.98,30.08,loam,64.16,soilgrids_synthetic,simulated
+COOLR-SYN-0503,25.940747,90.297207,5.78,10.55,clay loam,44.39,soilgrids_synthetic,simulated
+COOLR-SYN-0504,27.518731,88.263437,5.49,3.79,loam,64.49,soilgrids_synthetic,simulated
+COOLR-SYN-0505,26.203139,94.005398,5.57,2.42,clay loam,84.85,soilgrids_synthetic,simulated
+COOLR-SYN-0506,25.176526,92.117398,4.88,2.82,loam,32.98,soilgrids_synthetic,simulated
+COOLR-SYN-0507,25.307736,92.662364,6.19,10.09,sandy loam,38.92,soilgrids_synthetic,simulated
+COOLR-SYN-0508,22.739424,92.884072,5.98,11.26,sandy loam,54.77,soilgrids_synthetic,simulated
+COOLR-SYN-0509,26.707017,93.293336,6.25,82.96,sandy loam,49.79,soilgrids_synthetic,simulated
+COOLR-SYN-0510,27.430881,91.707405,4.68,25.03,sandy clay loam,33.91,soilgrids_synthetic,simulated
+COOLR-SYN-0511,27.270764,94.973903,6.49,6.96,clay loam,71.94,soilgrids_synthetic,simulated
+COOLR-SYN-0512,27.134176,95.15828,6.24,6.16,sandy clay loam,68.9,soilgrids_synthetic,simulated
+COOLR-SYN-0513,25.212854,92.2929,6.38,47.77,sandy loam,73.33,soilgrids_synthetic,simulated
+COOLR-SYN-0514,27.425359,88.250326,4.83,23.97,clay loam,54.61,soilgrids_synthetic,simulated
+COOLR-SYN-0515,27.431546,88.345043,5.36,6.84,sandy loam,58.35,soilgrids_synthetic,simulated
+COOLR-SYN-0516,25.932075,93.824429,6.56,12.67,loam,65.86,soilgrids_synthetic,simulated
+COOLR-SYN-0517,23.113458,92.585203,4.73,2.68,clay,55.38,soilgrids_synthetic,simulated
+COOLR-SYN-0518,23.191205,92.539695,6.2,15.97,sandy loam,32.73,soilgrids_synthetic,simulated
+COOLR-SYN-0519,26.220613,94.112277,6.85,13.94,loam,70.57,soilgrids_synthetic,simulated
+COOLR-SYN-0520,26.184663,94.808357,4.85,8.43,sandy loam,71.18,soilgrids_synthetic,simulated
+COOLR-SYN-0521,27.685934,91.787544,4.96,27.25,sandy loam,30.58,soilgrids_synthetic,simulated
+COOLR-SYN-0522,23.517835,92.59669,6.77,6.65,clay loam,48.24,soilgrids_synthetic,simulated
+COOLR-SYN-0523,26.695691,94.253949,5.7,30.11,clay loam,75.21,soilgrids_synthetic,simulated
+COOLR-SYN-0524,26.402602,94.502727,5.46,35.45,loam,40.31,soilgrids_synthetic,simulated
+COOLR-SYN-0525,23.753194,91.825613,6.01,0.47,clay loam,75.24,soilgrids_synthetic,simulated
+COOLR-SYN-0526,24.572596,93.683082,6.1,33.69,sandy clay loam,65.16,soilgrids_synthetic,simulated
+COOLR-SYN-0527,24.624899,94.390007,5.89,49.35,clay,41.14,soilgrids_synthetic,simulated
+COOLR-SYN-0528,23.60292,92.431931,4.71,14.77,loam,37.84,soilgrids_synthetic,simulated
+COOLR-SYN-0529,24.779391,94.043147,5.87,72.12,loam,59.76,soilgrids_synthetic,simulated
+COOLR-SYN-0530,27.531819,91.700023,5.79,2.3,loam,73.17,soilgrids_synthetic,simulated
+COOLR-SYN-0531,26.683657,93.982509,5.19,17.19,sandy clay loam,57.96,soilgrids_synthetic,simulated
+COOLR-SYN-0532,27.760712,91.761075,5.78,2.68,loam,44.05,soilgrids_synthetic,simulated
+COOLR-SYN-0533,26.765342,94.110247,5.61,20.45,clay loam,43.25,soilgrids_synthetic,simulated
+COOLR-SYN-0534,27.419989,95.311055,4.81,2.53,silty clay loam,63.98,soilgrids_synthetic,simulated
+COOLR-SYN-0535,23.448768,92.324079,5.39,44.22,clay loam,39.69,soilgrids_synthetic,simulated
+COOLR-SYN-0536,23.493399,91.771735,6.86,5.46,clay loam,39.61,soilgrids_synthetic,simulated
+COOLR-SYN-0537,23.429528,92.227148,4.96,0.83,loam,43.21,soilgrids_synthetic,simulated
+COOLR-SYN-0538,24.420344,93.718387,4.61,2.06,silty clay loam,71.27,soilgrids_synthetic,simulated
+COOLR-SYN-0539,26.341869,93.935319,6.6,7.91,silty clay loam,33.04,soilgrids_synthetic,simulated
+COOLR-SYN-0540,27.409343,95.020036,4.91,35.93,silty clay loam,45.4,soilgrids_synthetic,simulated
+COOLR-SYN-0541,26.1812,93.80042,6.28,43.89,clay loam,30.96,soilgrids_synthetic,simulated
+COOLR-SYN-0542,24.728373,94.218188,5.93,44.77,clay loam,70.64,soilgrids_synthetic,simulated
+COOLR-SYN-0543,25.722035,91.068251,5.88,45.88,sandy loam,78.94,soilgrids_synthetic,simulated
+COOLR-SYN-0544,26.214876,93.858994,6.19,14.98,clay loam,35.99,soilgrids_synthetic,simulated
+COOLR-SYN-0545,26.309903,94.461864,4.8,10.74,sandy clay loam,42.02,soilgrids_synthetic,simulated
+COOLR-SYN-0546,22.724975,93.099528,6.06,6.53,clay loam,53.09,soilgrids_synthetic,simulated
+COOLR-SYN-0547,23.246717,92.580376,6.93,6.39,clay loam,54.16,soilgrids_synthetic,simulated
+COOLR-SYN-0548,24.93817,94.188906,6.46,59.12,sandy loam,32.58,soilgrids_synthetic,simulated
+COOLR-SYN-0549,23.683236,92.679167,6.16,8.39,sandy loam,49.33,soilgrids_synthetic,simulated
+COOLR-SYN-0550,27.165817,88.820284,6.21,20.0,loam,57.95,soilgrids_synthetic,simulated
+COOLR-SYN-0551,23.580982,91.061263,5.56,6.08,silty clay loam,58.46,soilgrids_synthetic,simulated
+COOLR-SYN-0552,25.981115,90.35332,6.13,12.89,loam,42.74,soilgrids_synthetic,simulated
+COOLR-SYN-0553,25.35624,92.778858,5.98,8.36,sandy clay loam,59.96,soilgrids_synthetic,simulated
+COOLR-SYN-0554,25.028942,94.201246,5.14,22.56,sandy loam,72.94,soilgrids_synthetic,simulated
+COOLR-SYN-0555,27.218025,88.374463,5.29,16.09,loam,63.23,soilgrids_synthetic,simulated
+COOLR-SYN-0556,24.263756,93.776376,4.68,4.37,silty clay loam,71.46,soilgrids_synthetic,simulated
+COOLR-SYN-0557,23.541095,91.174381,4.58,9.93,loam,74.38,soilgrids_synthetic,simulated
+COOLR-SYN-0558,27.561522,95.465349,5.85,4.03,clay loam,35.94,soilgrids_synthetic,simulated
+COOLR-SYN-0559,27.786736,92.081999,5.96,13.66,sandy loam,80.65,soilgrids_synthetic,simulated
+COOLR-SYN-0560,26.07415,94.755254,5.26,36.45,clay,45.18,soilgrids_synthetic,simulated
+COOLR-SYN-0561,23.328432,92.62192,6.12,1.48,sandy loam,80.13,soilgrids_synthetic,simulated
+COOLR-SYN-0562,25.306038,91.539977,6.2,5.01,clay loam,40.12,soilgrids_synthetic,simulated
+COOLR-SYN-0563,26.999355,88.215394,4.58,2.66,sandy loam,64.96,soilgrids_synthetic,simulated
+COOLR-SYN-0564,27.301544,88.526854,6.12,7.8,clay loam,47.06,soilgrids_synthetic,simulated
+COOLR-SYN-0565,23.151146,92.828919,4.73,32.65,clay,42.25,soilgrids_synthetic,simulated
+COOLR-SYN-0566,26.198736,94.733845,4.72,29.5,clay loam,60.16,soilgrids_synthetic,simulated
+COOLR-SYN-0567,24.822657,93.820907,5.23,33.87,sandy loam,84.31,soilgrids_synthetic,simulated
+COOLR-SYN-0568,23.606162,92.635478,5.91,17.89,clay loam,40.87,soilgrids_synthetic,simulated
+COOLR-SYN-0569,26.496275,94.455425,6.72,10.62,loam,57.02,soilgrids_synthetic,simulated
+COOLR-SYN-0570,27.40985,88.865559,5.45,16.99,loam,66.54,soilgrids_synthetic,simulated
+COOLR-SYN-0571,26.437137,94.240355,6.15,28.05,loam,45.55,soilgrids_synthetic,simulated
+COOLR-SYN-0572,27.099328,93.286234,5.03,14.8,sandy loam,39.17,soilgrids_synthetic,simulated
+COOLR-SYN-0573,22.786288,93.00703,4.89,4.18,clay loam,72.6,soilgrids_synthetic,simulated
+COOLR-SYN-0574,27.079252,88.35385,4.88,29.7,clay loam,57.32,soilgrids_synthetic,simulated
+COOLR-SYN-0575,26.584462,94.108131,4.81,53.27,loam,42.91,soilgrids_synthetic,simulated
+COOLR-SYN-0576,27.190282,88.32347,6.17,13.42,sandy clay loam,63.41,soilgrids_synthetic,simulated
+COOLR-SYN-0577,26.012868,94.757337,4.88,18.49,sandy loam,47.93,soilgrids_synthetic,simulated
+COOLR-SYN-0578,27.533872,88.452709,6.43,4.39,loam,73.96,soilgrids_synthetic,simulated
+COOLR-SYN-0579,26.371009,94.123531,5.93,84.08,clay loam,82.43,soilgrids_synthetic,simulated
+COOLR-SYN-0580,23.563457,91.557463,4.61,82.01,loam,55.82,soilgrids_synthetic,simulated
+COOLR-SYN-0581,26.160478,94.753478,5.05,1.64,sandy loam,51.69,soilgrids_synthetic,simulated
+COOLR-SYN-0582,27.255664,92.908982,6.98,17.96,sandy loam,39.31,soilgrids_synthetic,simulated
+COOLR-SYN-0583,27.226418,88.694536,5.66,25.05,sandy loam,36.81,soilgrids_synthetic,simulated
+COOLR-SYN-0584,26.293242,93.048841,4.68,17.5,loam,79.27,soilgrids_synthetic,simulated
+COOLR-SYN-0585,28.335975,94.759324,6.61,29.63,loam,48.65,soilgrids_synthetic,simulated
+COOLR-SYN-0586,26.555074,94.444092,5.9,15.71,clay loam,53.43,soilgrids_synthetic,simulated
+COOLR-SYN-0587,27.366209,88.532911,6.81,22.41,clay loam,74.89,soilgrids_synthetic,simulated
+COOLR-SYN-0588,26.255983,93.777948,6.75,8.22,clay loam,81.1,soilgrids_synthetic,simulated
+COOLR-SYN-0589,27.15281,94.972588,4.8,5.16,sandy clay loam,37.96,soilgrids_synthetic,simulated
+COOLR-SYN-0590,26.134639,94.257956,5.07,1.69,silty clay loam,49.29,soilgrids_synthetic,simulated
+COOLR-SYN-0591,26.040895,93.760412,6.61,31.94,loam,42.0,soilgrids_synthetic,simulated
+COOLR-SYN-0592,27.189662,88.388451,6.05,32.08,clay loam,58.49,soilgrids_synthetic,simulated
+COOLR-SYN-0593,26.064119,94.60236,5.29,75.55,clay,51.34,soilgrids_synthetic,simulated
+COOLR-SYN-0594,27.349646,91.894349,6.99,61.4,clay loam,69.71,soilgrids_synthetic,simulated
+COOLR-SYN-0595,27.071125,88.663972,6.86,5.11,clay,50.64,soilgrids_synthetic,simulated
+COOLR-SYN-0596,27.470713,88.196699,6.88,5.36,loam,62.31,soilgrids_synthetic,simulated
+COOLR-SYN-0597,23.491833,91.50168,6.04,10.44,sandy loam,42.11,soilgrids_synthetic,simulated
+COOLR-SYN-0598,27.361511,88.498652,5.76,75.25,sandy loam,83.77,soilgrids_synthetic,simulated
+COOLR-SYN-0599,27.014581,93.224798,6.71,0.33,sandy clay loam,55.24,soilgrids_synthetic,simulated
+COOLR-SYN-0600,25.224041,92.319382,6.05,87.88,clay loam,77.12,soilgrids_synthetic,simulated
+COOLR-SYN-0601,28.112643,94.685294,6.25,4.66,clay,54.77,soilgrids_synthetic,simulated
+COOLR-SYN-0602,25.572162,91.100001,6.54,9.49,loam,83.07,soilgrids_synthetic,simulated
+COOLR-SYN-0603,25.027207,94.354427,6.2,55.81,loam,74.41,soilgrids_synthetic,simulated
+COOLR-SYN-0604,23.630795,92.278032,5.93,18.45,silty clay loam,83.97,soilgrids_synthetic,simulated
+COOLR-SYN-0605,23.510938,91.199569,6.03,23.13,loam,33.89,soilgrids_synthetic,simulated
+COOLR-SYN-0606,26.71094,94.142614,4.78,1.02,sandy loam,61.33,soilgrids_synthetic,simulated
+COOLR-SYN-0607,25.012653,92.190657,5.35,38.16,loam,51.25,soilgrids_synthetic,simulated
+COOLR-SYN-0608,25.429955,90.308559,6.47,20.21,clay loam,71.72,soilgrids_synthetic,simulated
+COOLR-SYN-0609,23.755569,91.837982,5.73,14.65,silty clay loam,78.02,soilgrids_synthetic,simulated
+COOLR-SYN-0610,27.239779,92.988135,6.9,45.83,clay loam,79.68,soilgrids_synthetic,simulated
+COOLR-SYN-0611,26.956036,88.433866,5.24,2.98,silty clay loam,57.1,soilgrids_synthetic,simulated
+COOLR-SYN-0612,23.779595,91.566209,4.87,20.22,silty clay loam,56.98,soilgrids_synthetic,simulated
+COOLR-SYN-0613,22.669118,92.5582,6.45,19.24,sandy loam,53.58,soilgrids_synthetic,simulated
+COOLR-SYN-0614,25.225025,91.139903,6.2,49.32,clay loam,53.54,soilgrids_synthetic,simulated
+COOLR-SYN-0615,23.916243,91.591739,6.14,30.72,silty clay loam,37.32,soilgrids_synthetic,simulated
+COOLR-SYN-0616,27.309331,95.144225,5.64,9.92,loam,55.65,soilgrids_synthetic,simulated
+COOLR-SYN-0617,23.840156,92.278599,6.73,40.55,sandy loam,48.26,soilgrids_synthetic,simulated
+COOLR-SYN-0618,25.807423,93.639864,5.38,17.78,loam,41.1,soilgrids_synthetic,simulated
+COOLR-SYN-0619,24.792144,94.374345,5.11,38.27,clay,31.14,soilgrids_synthetic,simulated
+COOLR-SYN-0620,26.096514,93.836676,5.78,31.32,clay loam,41.58,soilgrids_synthetic,simulated
+COOLR-SYN-0621,25.062097,92.105496,6.91,84.13,silty clay loam,59.89,soilgrids_synthetic,simulated
+COOLR-SYN-0622,24.650835,94.135455,6.04,6.99,sandy loam,78.13,soilgrids_synthetic,simulated
+COOLR-SYN-0623,25.666589,92.4939,5.22,39.08,loam,41.57,soilgrids_synthetic,simulated
+COOLR-SYN-0624,25.854687,90.079757,5.44,10.93,sandy loam,82.65,soilgrids_synthetic,simulated
+COOLR-SYN-0625,24.209733,93.895609,5.57,13.6,sandy loam,83.93,soilgrids_synthetic,simulated
+COOLR-SYN-0626,23.85158,92.303249,6.83,16.46,sandy loam,73.91,soilgrids_synthetic,simulated
+COOLR-SYN-0627,25.964229,93.756573,7.0,4.55,sandy loam,69.07,soilgrids_synthetic,simulated
+COOLR-SYN-0628,24.627455,94.211364,6.09,15.92,clay loam,40.43,soilgrids_synthetic,simulated
+COOLR-SYN-0629,27.574005,95.109408,6.25,18.21,sandy clay loam,43.83,soilgrids_synthetic,simulated
+COOLR-SYN-0630,26.324139,94.993751,4.68,50.72,sandy loam,47.42,soilgrids_synthetic,simulated
+COOLR-SYN-0631,23.762416,92.512523,6.73,12.05,sandy clay loam,70.0,soilgrids_synthetic,simulated
+COOLR-SYN-0632,25.686806,90.818702,6.22,61.64,sandy loam,48.39,soilgrids_synthetic,simulated
+COOLR-SYN-0633,23.42553,91.820388,5.67,5.95,silty clay loam,37.15,soilgrids_synthetic,simulated
+COOLR-SYN-0634,23.679161,92.850484,5.15,31.69,silty clay loam,78.31,soilgrids_synthetic,simulated
+COOLR-SYN-0635,25.857236,93.83565,6.11,1.47,sandy loam,57.04,soilgrids_synthetic,simulated
+COOLR-SYN-0636,26.303123,92.85648,6.23,30.04,loam,69.74,soilgrids_synthetic,simulated
+COOLR-SYN-0637,23.745622,92.222176,6.97,28.5,sandy loam,65.97,soilgrids_synthetic,simulated
+COOLR-SYN-0638,25.694635,91.113104,6.1,55.74,clay loam,30.08,soilgrids_synthetic,simulated
+COOLR-SYN-0639,26.184486,93.078883,4.75,12.8,sandy loam,73.64,soilgrids_synthetic,simulated
+COOLR-SYN-0640,25.359574,92.66241,5.48,3.17,loam,35.43,soilgrids_synthetic,simulated
+COOLR-SYN-0641,24.925309,93.898238,5.87,12.69,silty clay loam,50.94,soilgrids_synthetic,simulated
+COOLR-SYN-0642,27.806126,94.76396,5.2,16.77,loam,37.95,soilgrids_synthetic,simulated
+COOLR-SYN-0643,26.011311,94.460117,6.59,3.57,loam,49.31,soilgrids_synthetic,simulated
+COOLR-SYN-0644,26.225405,94.013187,6.73,15.53,clay,72.08,soilgrids_synthetic,simulated
+COOLR-SYN-0645,26.53873,92.55195,5.82,34.38,sandy loam,42.48,soilgrids_synthetic,simulated
+COOLR-SYN-0646,27.256057,93.02384,4.55,26.56,clay loam,49.42,soilgrids_synthetic,simulated
+COOLR-SYN-0647,25.390662,92.474974,5.41,0.3,silty clay loam,59.99,soilgrids_synthetic,simulated
+COOLR-SYN-0648,27.41575,95.376631,5.64,16.38,clay loam,84.86,soilgrids_synthetic,simulated
+COOLR-SYN-0649,27.029681,88.806993,6.51,51.78,sandy loam,32.5,soilgrids_synthetic,simulated
+COOLR-SYN-0650,23.515137,92.328599,5.16,3.44,silty clay loam,57.51,soilgrids_synthetic,simulated
+COOLR-SYN-0651,26.637152,94.162707,5.43,79.03,loam,84.09,soilgrids_synthetic,simulated
+COOLR-SYN-0652,25.338037,92.742987,5.62,3.75,loam,36.05,soilgrids_synthetic,simulated
+COOLR-SYN-0653,25.294123,90.712776,6.6,2.09,clay,76.72,soilgrids_synthetic,simulated
+COOLR-SYN-0654,25.101144,91.58297,6.82,3.14,loam,59.21,soilgrids_synthetic,simulated
+COOLR-SYN-0655,23.692433,92.795186,4.61,1.45,sandy loam,46.76,soilgrids_synthetic,simulated
+COOLR-SYN-0656,25.54132,91.400009,4.79,21.36,clay loam,30.9,soilgrids_synthetic,simulated
+COOLR-SYN-0657,25.407652,91.5164,6.46,55.91,sandy loam,40.52,soilgrids_synthetic,simulated
+COOLR-SYN-0658,25.440759,91.178581,4.99,7.11,sandy clay loam,70.62,soilgrids_synthetic,simulated
+COOLR-SYN-0659,28.333531,94.536014,6.89,0.18,sandy loam,71.01,soilgrids_synthetic,simulated
+COOLR-SYN-0660,25.488789,90.406297,6.04,11.25,sandy clay loam,57.26,soilgrids_synthetic,simulated
+COOLR-SYN-0661,25.081773,93.809236,6.94,39.59,clay loam,48.67,soilgrids_synthetic,simulated
+COOLR-SYN-0662,25.699153,90.152051,6.92,8.94,loam,53.47,soilgrids_synthetic,simulated
+COOLR-SYN-0663,26.628896,93.860939,5.61,12.13,loam,80.85,soilgrids_synthetic,simulated
+COOLR-SYN-0664,27.087398,95.044693,5.67,33.29,silty clay loam,76.46,soilgrids_synthetic,simulated
+COOLR-SYN-0665,27.798336,88.566384,6.71,9.22,sandy loam,66.88,soilgrids_synthetic,simulated
+COOLR-SYN-0666,25.768995,92.432072,5.12,1.18,clay loam,46.52,soilgrids_synthetic,simulated
+COOLR-SYN-0667,26.073928,94.978751,4.94,15.63,silty clay loam,34.16,soilgrids_synthetic,simulated
+COOLR-SYN-0668,25.596984,91.235181,6.6,6.54,clay loam,64.95,soilgrids_synthetic,simulated
+COOLR-SYN-0669,25.171143,92.341426,6.26,37.21,silty clay loam,68.84,soilgrids_synthetic,simulated
+COOLR-SYN-0670,23.943261,92.317827,6.09,20.07,sandy loam,30.6,soilgrids_synthetic,simulated
+COOLR-SYN-0671,27.454667,91.797134,5.84,103.84,sandy loam,55.74,soilgrids_synthetic,simulated
+COOLR-SYN-0672,24.514725,93.65635,5.47,44.59,sandy loam,83.05,soilgrids_synthetic,simulated
+COOLR-SYN-0673,27.617577,88.541169,6.65,4.97,clay,44.28,soilgrids_synthetic,simulated
+COOLR-SYN-0674,26.455849,93.993706,6.78,18.42,silty clay loam,67.51,soilgrids_synthetic,simulated
+COOLR-SYN-0675,26.481837,94.205912,5.33,23.61,clay loam,32.32,soilgrids_synthetic,simulated
+COOLR-SYN-0676,27.274312,88.556699,4.55,23.06,loam,77.59,soilgrids_synthetic,simulated
+COOLR-SYN-0677,28.098355,94.660291,6.79,5.06,clay loam,46.02,soilgrids_synthetic,simulated
+COOLR-SYN-0678,26.598645,93.026599,6.32,39.36,clay loam,78.75,soilgrids_synthetic,simulated
+COOLR-SYN-0679,26.723776,93.876239,6.26,1.56,loam,67.55,soilgrids_synthetic,simulated
+COOLR-SYN-0680,25.451773,90.581618,5.29,5.88,loam,55.3,soilgrids_synthetic,simulated
+COOLR-SYN-0681,25.60803,91.158738,6.32,39.8,sandy clay loam,63.84,soilgrids_synthetic,simulated
+COOLR-SYN-0682,24.915205,94.19653,6.05,46.95,clay loam,41.41,soilgrids_synthetic,simulated
+COOLR-SYN-0683,26.256115,94.497808,5.57,30.49,loam,76.75,soilgrids_synthetic,simulated
+COOLR-SYN-0684,25.03973,94.33504,4.72,2.72,clay loam,62.65,soilgrids_synthetic,simulated
+COOLR-SYN-0685,27.585058,91.503298,6.5,14.14,sandy clay loam,82.11,soilgrids_synthetic,simulated
+COOLR-SYN-0686,23.684849,92.524896,5.08,20.03,sandy loam,48.75,soilgrids_synthetic,simulated
+COOLR-SYN-0687,27.67392,88.364306,6.96,15.94,sandy loam,54.91,soilgrids_synthetic,simulated
+COOLR-SYN-0688,25.307744,91.487033,5.26,21.14,loam,62.87,soilgrids_synthetic,simulated
+COOLR-SYN-0689,23.531008,92.788484,5.87,36.7,loam,54.86,soilgrids_synthetic,simulated
+COOLR-SYN-0690,23.787086,92.629606,5.39,77.78,clay loam,62.31,soilgrids_synthetic,simulated
+COOLR-SYN-0691,24.660055,94.286376,6.72,45.06,clay loam,55.27,soilgrids_synthetic,simulated
+COOLR-SYN-0692,25.426956,91.058902,4.56,19.08,loam,75.58,soilgrids_synthetic,simulated
+COOLR-SYN-0693,26.78347,93.269074,5.83,1.12,loam,54.92,soilgrids_synthetic,simulated
+COOLR-SYN-0694,26.000023,94.467365,5.74,24.15,loam,71.39,soilgrids_synthetic,simulated
+COOLR-SYN-0695,25.977934,93.855268,5.45,1.76,clay loam,44.98,soilgrids_synthetic,simulated
+COOLR-SYN-0696,25.07301,94.32022,6.24,9.39,loam,34.62,soilgrids_synthetic,simulated
+COOLR-SYN-0697,26.229569,94.076351,5.21,8.4,sandy clay loam,69.39,soilgrids_synthetic,simulated
+COOLR-SYN-0698,26.063797,93.916287,5.3,9.06,sandy loam,68.58,soilgrids_synthetic,simulated
+COOLR-SYN-0699,26.974266,92.878625,6.23,76.95,clay loam,46.34,soilgrids_synthetic,simulated
+COOLR-SYN-0700,27.23715,88.372912,4.66,3.66,loam,43.9,soilgrids_synthetic,simulated
+COOLR-SYN-0701,22.759373,92.869729,5.45,3.09,loam,31.78,soilgrids_synthetic,simulated
+COOLR-SYN-0702,24.252785,94.026368,5.04,33.29,clay loam,49.43,soilgrids_synthetic,simulated
+COOLR-SYN-0703,26.798784,94.285923,5.16,6.21,clay loam,51.83,soilgrids_synthetic,simulated
+COOLR-SYN-0704,27.552321,91.68423,6.14,55.22,loam,70.43,soilgrids_synthetic,simulated
+COOLR-SYN-0705,25.754819,92.502423,6.14,4.71,loam,42.53,soilgrids_synthetic,simulated
+COOLR-SYN-0706,24.304366,93.624079,5.31,2.32,loam,56.68,soilgrids_synthetic,simulated
+COOLR-SYN-0707,25.126151,91.666537,6.39,46.97,clay loam,62.06,soilgrids_synthetic,simulated
+COOLR-SYN-0708,26.206049,94.075846,6.55,36.44,loam,80.4,soilgrids_synthetic,simulated
+COOLR-SYN-0709,25.693833,91.60594,6.35,25.97,clay,34.84,soilgrids_synthetic,simulated
+COOLR-SYN-0710,26.708,94.380406,4.51,18.04,sandy loam,72.54,soilgrids_synthetic,simulated
+COOLR-SYN-0711,23.557143,91.272056,5.87,34.22,sandy loam,82.3,soilgrids_synthetic,simulated
+COOLR-SYN-0712,26.732022,92.928404,5.42,51.08,clay loam,71.74,soilgrids_synthetic,simulated
+COOLR-SYN-0713,25.1063,91.987151,6.02,25.57,silty clay loam,76.52,soilgrids_synthetic,simulated
+COOLR-SYN-0714,23.371104,92.718175,6.18,75.21,sandy loam,53.99,soilgrids_synthetic,simulated
+COOLR-SYN-0715,25.632018,92.812646,6.75,17.86,clay loam,83.3,soilgrids_synthetic,simulated
+COOLR-SYN-0716,23.273705,92.930438,5.55,14.51,sandy clay loam,75.56,soilgrids_synthetic,simulated
+COOLR-SYN-0717,24.078651,91.166644,4.87,8.32,clay loam,43.5,soilgrids_synthetic,simulated
+COOLR-SYN-0718,23.148667,92.53794,4.67,36.55,clay loam,42.61,soilgrids_synthetic,simulated
+COOLR-SYN-0719,26.946231,88.33754,4.62,57.46,sandy loam,34.14,soilgrids_synthetic,simulated
+COOLR-SYN-0720,24.815499,94.18762,5.67,23.82,sandy loam,34.67,soilgrids_synthetic,simulated
+COOLR-SYN-0721,27.233318,88.635414,5.44,2.85,clay loam,48.07,soilgrids_synthetic,simulated
+COOLR-SYN-0722,27.205034,93.037761,5.89,53.75,loam,63.95,soilgrids_synthetic,simulated
+COOLR-SYN-0723,27.395799,91.92005,6.64,48.17,silty clay loam,39.89,soilgrids_synthetic,simulated
+COOLR-SYN-0724,23.528512,92.864932,4.73,5.15,loam,72.86,soilgrids_synthetic,simulated
+COOLR-SYN-0725,27.086785,88.480958,6.45,18.84,clay loam,43.94,soilgrids_synthetic,simulated
+COOLR-SYN-0726,27.59599,92.032319,4.76,31.46,clay,83.82,soilgrids_synthetic,simulated
+COOLR-SYN-0727,27.181694,88.636884,6.65,64.05,clay,38.02,soilgrids_synthetic,simulated
+COOLR-SYN-0728,25.705406,91.022302,5.67,63.41,clay loam,34.64,soilgrids_synthetic,simulated
+COOLR-SYN-0729,26.759121,94.049517,6.41,9.82,loam,84.24,soilgrids_synthetic,simulated
+COOLR-SYN-0730,23.432661,92.457497,6.67,18.64,sandy loam,32.48,soilgrids_synthetic,simulated
+COOLR-SYN-0731,23.925424,91.130651,6.41,30.43,clay loam,69.08,soilgrids_synthetic,simulated
+COOLR-SYN-0732,22.991307,92.534658,6.81,100.93,sandy loam,84.66,soilgrids_synthetic,simulated
+COOLR-SYN-0733,27.950072,94.877293,6.66,1.08,silty clay loam,43.14,soilgrids_synthetic,simulated
+COOLR-SYN-0734,26.278095,94.607811,6.31,0.37,loam,43.66,soilgrids_synthetic,simulated
+COOLR-SYN-0735,25.776761,92.508317,5.46,47.94,silty clay loam,68.72,soilgrids_synthetic,simulated
+COOLR-SYN-0736,23.083745,92.648916,5.65,25.49,sandy clay loam,61.84,soilgrids_synthetic,simulated
+COOLR-SYN-0737,26.696804,94.000759,6.94,2.47,sandy loam,53.92,soilgrids_synthetic,simulated
+COOLR-SYN-0738,26.510745,93.988676,5.95,52.16,clay loam,53.53,soilgrids_synthetic,simulated
+COOLR-SYN-0739,25.713283,90.490105,5.45,3.68,sandy loam,70.75,soilgrids_synthetic,simulated
+COOLR-SYN-0740,27.132987,88.789226,6.79,119.64,sandy loam,60.02,soilgrids_synthetic,simulated
+COOLR-SYN-0741,24.717595,93.87237,5.33,34.8,sandy clay loam,56.83,soilgrids_synthetic,simulated
+COOLR-SYN-0742,25.172333,92.141592,5.35,44.45,loam,62.55,soilgrids_synthetic,simulated
+COOLR-SYN-0743,26.118849,94.25937,6.13,9.15,clay,35.57,soilgrids_synthetic,simulated
+COOLR-SYN-0744,26.569241,94.983101,4.94,16.8,clay loam,70.83,soilgrids_synthetic,simulated
+COOLR-SYN-0745,25.340973,91.824508,5.55,36.19,sandy loam,70.5,soilgrids_synthetic,simulated
+COOLR-SYN-0746,27.568802,95.006922,6.25,19.03,loam,40.84,soilgrids_synthetic,simulated
+COOLR-SYN-0747,27.452755,94.938373,4.8,6.18,clay,78.41,soilgrids_synthetic,simulated
+COOLR-SYN-0748,27.08311,93.129381,5.05,17.2,sandy loam,36.97,soilgrids_synthetic,simulated
+COOLR-SYN-0749,25.834086,90.214678,4.97,3.75,clay loam,69.36,soilgrids_synthetic,simulated
+COOLR-SYN-0750,25.322207,92.973936,5.26,2.75,clay loam,79.17,soilgrids_synthetic,simulated
+COOLR-SYN-0751,27.315862,88.457124,6.23,52.64,clay loam,31.46,soilgrids_synthetic,simulated
+COOLR-SYN-0752,22.645664,92.5247,5.18,30.26,silty clay loam,67.03,soilgrids_synthetic,simulated
+COOLR-SYN-0753,23.650226,92.445314,6.71,22.07,silty clay loam,34.7,soilgrids_synthetic,simulated
+COOLR-SYN-0754,27.222189,88.596395,4.72,3.65,sandy loam,71.55,soilgrids_synthetic,simulated
+COOLR-SYN-0755,26.021257,93.645383,5.04,9.89,sandy clay loam,55.92,soilgrids_synthetic,simulated
+COOLR-SYN-0756,25.5492,92.83723,5.5,2.71,loam,68.8,soilgrids_synthetic,simulated
+COOLR-SYN-0757,24.295933,93.949018,5.45,6.1,loam,84.01,soilgrids_synthetic,simulated
+COOLR-SYN-0758,27.294949,93.14502,6.82,31.09,loam,67.97,soilgrids_synthetic,simulated
+COOLR-SYN-0759,26.484774,94.667136,4.78,8.38,clay loam,47.08,soilgrids_synthetic,simulated
+COOLR-SYN-0760,25.041769,94.42235,5.97,18.9,sandy clay loam,81.78,soilgrids_synthetic,simulated
+COOLR-SYN-0761,27.201672,92.920787,5.22,0.33,loam,82.82,soilgrids_synthetic,simulated
+COOLR-SYN-0762,24.009326,91.00893,6.51,5.83,sandy loam,46.65,soilgrids_synthetic,simulated
+COOLR-SYN-0763,27.187209,88.397834,4.86,79.59,clay,48.32,soilgrids_synthetic,simulated
+COOLR-SYN-0764,22.830269,92.906463,5.71,3.91,silty clay loam,42.43,soilgrids_synthetic,simulated
+COOLR-SYN-0765,25.230185,92.459567,5.71,11.31,loam,48.04,soilgrids_synthetic,simulated
+COOLR-SYN-0766,25.178395,94.2647,4.83,40.16,sandy clay loam,45.38,soilgrids_synthetic,simulated
+COOLR-SYN-0767,27.883201,92.038049,4.86,11.16,loam,63.52,soilgrids_synthetic,simulated
+COOLR-SYN-0768,23.183199,92.861685,4.92,10.56,clay loam,35.34,soilgrids_synthetic,simulated
+COOLR-SYN-0769,24.897027,93.863335,5.45,0.56,sandy clay loam,61.3,soilgrids_synthetic,simulated
+COOLR-SYN-0770,24.379121,94.0182,5.79,0.48,sandy clay loam,76.32,soilgrids_synthetic,simulated
+COOLR-SYN-0771,23.602595,92.535338,5.78,43.29,loam,68.48,soilgrids_synthetic,simulated
+COOLR-SYN-0772,26.854009,93.059304,5.36,28.58,clay loam,65.24,soilgrids_synthetic,simulated
+COOLR-SYN-0773,26.363613,93.774978,5.14,10.32,sandy loam,34.68,soilgrids_synthetic,simulated
+COOLR-SYN-0774,23.915312,92.73069,6.51,13.74,clay,72.91,soilgrids_synthetic,simulated
+COOLR-SYN-0775,25.053442,94.520729,5.89,43.59,clay loam,58.38,soilgrids_synthetic,simulated
+COOLR-SYN-0776,24.898577,94.210466,5.98,1.51,silty clay loam,50.24,soilgrids_synthetic,simulated
+COOLR-SYN-0777,26.975513,88.268369,5.64,12.92,loam,35.64,soilgrids_synthetic,simulated
+COOLR-SYN-0778,27.507539,95.466647,5.19,25.4,loam,51.06,soilgrids_synthetic,simulated
+COOLR-SYN-0779,27.626105,88.125079,5.13,16.27,loam,32.18,soilgrids_synthetic,simulated
+COOLR-SYN-0780,25.494484,91.203946,4.94,0.5,silty clay loam,71.63,soilgrids_synthetic,simulated
+COOLR-SYN-0781,27.513137,95.446236,6.95,7.47,silty clay loam,32.99,soilgrids_synthetic,simulated
+COOLR-SYN-0782,25.7328,92.76613,4.51,16.79,clay,66.54,soilgrids_synthetic,simulated
+COOLR-SYN-0783,25.544332,91.478616,6.81,8.95,clay,42.02,soilgrids_synthetic,simulated
+COOLR-SYN-0784,26.556387,94.481586,5.36,35.92,clay,61.79,soilgrids_synthetic,simulated
+COOLR-SYN-0785,26.52397,94.16026,5.9,64.16,loam,82.8,soilgrids_synthetic,simulated
+COOLR-SYN-0786,26.474298,94.361867,6.99,4.63,sandy loam,80.5,soilgrids_synthetic,simulated
+COOLR-SYN-0787,25.47691,92.407977,4.84,3.65,sandy loam,66.58,soilgrids_synthetic,simulated
+COOLR-SYN-0788,25.569427,90.358427,5.11,37.54,sandy clay loam,73.98,soilgrids_synthetic,simulated
+COOLR-SYN-0789,25.155973,93.928757,6.73,1.48,loam,67.99,soilgrids_synthetic,simulated
+COOLR-SYN-0790,27.551395,88.479819,4.77,2.36,loam,81.63,soilgrids_synthetic,simulated
+COOLR-SYN-0791,28.180034,94.848541,5.23,6.45,clay,82.1,soilgrids_synthetic,simulated
+COOLR-SYN-0792,24.486062,93.924776,5.73,14.83,clay,31.79,soilgrids_synthetic,simulated
+COOLR-SYN-0793,28.356406,94.702348,6.1,2.29,sandy loam,38.63,soilgrids_synthetic,simulated
+COOLR-SYN-0794,26.299875,93.987593,5.87,20.8,loam,49.94,soilgrids_synthetic,simulated
+COOLR-SYN-0795,26.773672,92.852306,6.81,49.05,silty clay loam,55.8,soilgrids_synthetic,simulated
+COOLR-SYN-0796,25.986817,94.605904,6.85,15.19,clay,47.5,soilgrids_synthetic,simulated
+COOLR-SYN-0797,25.640985,90.260392,6.44,55.53,loam,32.95,soilgrids_synthetic,simulated
+COOLR-SYN-0798,25.231269,91.039511,5.46,5.42,clay loam,75.43,soilgrids_synthetic,simulated
+COOLR-SYN-0799,23.090915,92.681157,6.66,37.51,clay loam,43.38,soilgrids_synthetic,simulated
+COOLR-SYN-0800,25.35556,91.229199,5.35,119.64,silty clay loam,60.62,soilgrids_synthetic,simulated

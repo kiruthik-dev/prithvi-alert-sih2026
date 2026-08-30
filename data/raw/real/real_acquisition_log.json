@@ -1,0 +1,112 @@
+{
+  "run_timestamp": "2026-08-30T07:57:38.040293+00:00",
+  "max_events": 50,
+  "ner_bbox": {
+    "lat_min": 21.9,
+    "lat_max": 29.5,
+    "lon_min": 88.0,
+    "lon_max": 97.5
+  },
+  "sources": [
+    {
+      "name": "NASA COOLR Global Landslide Catalog",
+      "status": "UNAVAILABLE",
+      "records": 0,
+      "data_quality": "N/A",
+      "source_url": "https://maps.nccs.nasa.gov/arcgis/rest/services/Landslides/COOLR_Reports_Points/MapServer",
+      "source_version": "2024",
+      "license": "NASA Open Data (CC0)",
+      "acquisition_date": "2026-08-30T07:57:38.065611+00:00",
+      "notes": "DNS resolution failed or endpoint unreachable from this network. Download manually from https://gpm.nasa.gov/landslides/data.html",
+      "output_file": "",
+      "checksum": ""
+    },
+    {
+      "name": "ISRO/NRSC Landslide Atlas of India",
+      "status": "UNAVAILABLE",
+      "records": 0,
+      "data_quality": "N/A",
+      "source_url": "https://www.nrsc.gov.in/sites/default/files/pdf/DMS/LandslideAtlas_India_2023.pdf",
+      "source_version": "2023",
+      "license": "GODL-India",
+      "acquisition_date": "2026-08-30T07:57:38.066302+00:00",
+      "notes": "No public API. Manual download from NRSC portal required. The ISRO Landslide Atlas (2023) is available as PDF with district-level statistics but not as a machine-readable event-level CSV. Contact: nrsc-disastermanagement@gov.in",
+      "output_file": "",
+      "checksum": ""
+    },
+    {
+      "name": "Open-Meteo ERA5 Historical Archive",
+      "status": "ERROR",
+      "records": 0,
+      "data_quality": "reanalysis",
+      "source_url": "https://archive-api.open-meteo.com/v1/archive",
+      "source_version": "ERA5 reanalysis",
+      "license": "ERA5: CC BY 4.0 (Copernicus/ECMWF); Open-Meteo service: MIT",
+      "acquisition_date": "2026-08-30T07:58:18.406028+00:00",
+      "notes": "All 50 requests failed.",
+      "output_file": "",
+      "checksum": ""
+    },
+    {
+      "name": "ISRIC SoilGrids v2.0",
+      "status": "SKIPPED",
+      "records": 0,
+      "data_quality": "N/A",
+      "source_url": "https://rest.isric.org/soilgrids/v2.0/properties/query",
+      "source_version": "v2.0",
+      "license": "CC BY 4.0",
+      "acquisition_date": "2026-08-30T07:58:18.406028+00:00",
+      "notes": "Skipped via --skip-soilgrids flag to reduce runtime.",
+      "output_file": "",
+      "checksum": ""
+    },
+    {
+      "name": "OpenTopography SRTM 30m",
+      "status": "UNAVAILABLE",
+      "records": 0,
+      "data_quality": "N/A",
+      "source_url": "https://portal.opentopography.org/API/globaldem",
+      "source_version": "SRTM GL1 30m",
+      "license": "SRTM: Public Domain; OpenTopography service: Academic",
+      "acquisition_date": "2026-08-30T07:58:18.406398+00:00",
+      "notes": "API key required. Register at https://portal.opentopography.org/. Once key obtained, set environment variable OPENTOPO_API_KEY. Can provide: elevation, slope, aspect (30m SRTM) for NER bbox. Manual download alternative: https://dwtkns.com/srtm30m/",
+      "output_file": "",
+      "checksum": ""
+    },
+    {
+      "name": "Copernicus Sentinel-1 SAR (InSAR deformation)",
+      "status": "UNAVAILABLE",
+      "records": 0,
+      "data_quality": "N/A",
+      "source_url": "https://browser.dataspace.copernicus.eu/",
+      "source_version": "2024",
+      "license": "Copernicus Open Access (requires registration)",
+      "acquisition_date": "2026-08-30T07:58:18.406398+00:00",
+      "notes": "ESA registration required. Provides: ground_displacement (InSAR). Alternative: ASF DAAC (https://search.asf.alaska.edu/) for NER time series.",
+      "output_file": "",
+      "checksum": ""
+    },
+    {
+      "name": "Copernicus Sentinel-2 Multispectral (NDVI/land cover)",
+      "status": "UNAVAILABLE",
+      "records": 0,
+      "data_quality": "N/A",
+      "source_url": "https://browser.dataspace.copernicus.eu/",
+      "source_version": "2024",
+      "license": "Copernicus Open Access (requires registration)",
+      "acquisition_date": "2026-08-30T07:58:18.406398+00:00",
+      "notes": "ESA registration required. Provides: NDVI, land_cover. Alternative: Google Earth Engine free tier for NER NDVI time series.",
+      "output_file": "",
+      "checksum": ""
+    }
+  ],
+  "summary": {
+    "real_inventory_events": 0,
+    "real_rainfall_records": 0,
+    "real_soil_records": 0,
+    "sources_acquired": 0,
+    "sources_partial": 0,
+    "sources_unavailable": 5,
+    "sources_skipped": 1
+  }
+}

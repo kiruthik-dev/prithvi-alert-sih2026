@@ -1,0 +1,17 @@
+feature,importance
+num__historical_landslide_distance,0.5857878
+num__is_ner,0.2584282
+num__historical_landslide_frequency,0.11832707
+num__rainfall_12h,0.006399843
+num__rainfall_6h,0.0055453056
+num__rainfall_7d,0.005139882
+num__longitude,0.00512759
+num__latitude,0.0047236783
+num__rainfall_24h,0.0030883458
+num__rainfall_48h,0.003032474
+num__rainfall_1h,0.0028317184
+num__distance_to_road,0.0010788629
+num__distance_to_river,0.00048932293
+num__rainfall_intensity,0.0
+num__population_exposure,0.0
+num__infrastructure_exposure,0.0

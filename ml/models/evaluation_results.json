@@ -1,0 +1,40 @@
+{
+  "xgboost": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "roc_auc": 0.9999999999999999,
+    "pr_auc": 1.0,
+    "fnr": 0.0,
+    "confusion_matrix": [
+      [
+        573,
+        0
+      ],
+      [
+        0,
+        425
+      ]
+    ]
+  },
+  "random_forest": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1": 1.0,
+    "roc_auc": 1.0,
+    "pr_auc": 1.0,
+    "fnr": 0.0,
+    "confusion_matrix": [
+      [
+        573,
+        0
+      ],
+      [
+        0,
+        425
+      ]
+    ]
+  },
+  "test_size": 998,
+  "timestamp": "2026-08-30T09:07:50.739197+00:00"
+}

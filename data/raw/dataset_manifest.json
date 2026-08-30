@@ -1,0 +1,98 @@
+{
+  "datasets": {
+    "isro_atlas": {
+      "dataset_name": "ISRO/NRSC Landslide Atlas of India (NER synthetic)",
+      "source": "NRSC ISRO",
+      "version": "synthetic-0.1",
+      "download_date": "2026-08-30",
+      "record_count": 1200,
+      "feature_count": 15,
+      "license": "GODL-India (synthetic representation only)",
+      "data_quality": "simulated",
+      "checksum": "580e9499897df3215df7ee568e77554d",
+      "path": "C:\\SIH2026 Project\\prithvi-alert-sih\\data\\raw\\isro_atlas\\isro_atlas_ner.csv",
+      "updated": "2026-08-30 08:10:09.123882+00:00"
+    },
+    "nasa_coolr": {
+      "dataset_name": "NASA COOLR Global Landslide Catalog",
+      "source": "NASA COOLR",
+      "version": "2023",
+      "download_date": "2026-08-30",
+      "record_count": 800,
+      "feature_count": 14,
+      "license": "NASA Open Data",
+      "data_quality": "mixed",
+      "checksum": "f353c61d262846ad228ed168e3e77f44",
+      "path": "C:\\SIH2026 Project\\prithvi-alert-sih\\data\\raw\\nasa_coolr\\nasa_glc_ner.csv",
+      "updated": "2026-08-30 08:10:09.452752+00:00"
+    },
+    "gpm_imerg": {
+      "dataset_name": "NASA GPM IMERG Daily Rainfall (synthetic)",
+      "source": "NASA GPM (synthetic monsoon model)",
+      "version": "synthetic-0.1",
+      "download_date": "2026-08-30",
+      "record_count": 2000,
+      "feature_count": 13,
+      "license": "NASA Open Data (synthetic representation)",
+      "data_quality": "simulated",
+      "checksum": "84ccbe9e0170cd0543277850bcd43bc5",
+      "path": "C:\\SIH2026 Project\\prithvi-alert-sih\\data\\raw\\gpm_imerg\\gpm_rainfall_features.csv",
+      "updated": "2026-08-30 08:10:10.422783+00:00"
+    },
+    "soilgrids": {
+      "dataset_name": "ISRIC SoilGrids v2.0",
+      "source": "https://rest.isric.org",
+      "version": "v2.0",
+      "download_date": "2026-08-30",
+      "record_count": 2000,
+      "feature_count": 9,
+      "license": "CC BY 4.0",
+      "data_quality": "mixed",
+      "real_count": 0,
+      "checksum": "996dc6cbb98f386466dcec70c97a0e7a",
+      "path": "C:\\SIH2026 Project\\prithvi-alert-sih\\data\\raw\\soilgrids\\soilgrids_features.csv",
+      "updated": "2026-08-30 08:38:06.138723+00:00"
+    },
+    "dem": {
+      "dataset_name": "SRTM DEM / Terrain (NER synthetic)",
+      "source": "USGS SRTM (synthetic representation)",
+      "version": "synthetic-0.1",
+      "download_date": "2026-08-30",
+      "record_count": 2000,
+      "feature_count": 10,
+      "license": "Public Domain (synthetic representation)",
+      "data_quality": "simulated",
+      "checksum": "3b37900182e95dbef4dac6030f1b6a02",
+      "path": "C:\\SIH2026 Project\\prithvi-alert-sih\\data\\raw\\dem\\terrain_features.csv",
+      "updated": "2026-08-30 08:38:06.459550+00:00"
+    },
+    "sentinel1": {
+      "dataset_name": "Copernicus Sentinel-1 SAR Deformation (synthetic)",
+      "source": "ESA Copernicus (synthetic representation)",
+      "version": "synthetic-0.1",
+      "download_date": "2026-08-30",
+      "record_count": 2000,
+      "feature_count": 7,
+      "license": "Copernicus Open Access (synthetic representation only)",
+      "data_quality": "simulated",
+      "checksum": "b252983896d072dc76d564aacb01a317",
+      "path": "C:\\SIH2026 Project\\prithvi-alert-sih\\data\\raw\\sentinel1\\sentinel1_deformation.csv",
+      "updated": "2026-08-30 08:38:06.919135+00:00"
+    },
+    "sentinel2": {
+      "dataset_name": "Copernicus Sentinel-2 NDVI/LandCover (synthetic)",
+      "source": "ESA Copernicus (synthetic representation)",
+      "version": "synthetic-0.1",
+      "download_date": "2026-08-30",
+      "record_count": 2000,
+      "feature_count": 7,
+      "license": "Copernicus Open Access (synthetic representation only)",
+      "data_quality": "simulated",
+      "checksum": "ef8d05258bd088a427fa1db5f0102b15",
+      "path": "C:\\SIH2026 Project\\prithvi-alert-sih\\data\\raw\\sentinel2\\sentinel2_vegetation.csv",
+      "updated": "2026-08-30 08:38:07.209026+00:00"
+    }
+  },
+  "generated": "2026-08-29 20:01:45.210808",
+  "pipeline_version": "0.1.0-prototype"
+}
