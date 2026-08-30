@@ -5,6 +5,9 @@ import RiskMap from './components/RiskMap';
 import ZoneDetails from './components/ZoneDetails';
 import RiskSummary from './components/RiskSummary';
 import AlertBanner from './components/AlertBanner';
+import Chatbot from './components/Chatbot';
+import WarningWidget from './components/WarningWidget';
+import CitizenWarningBanner from './components/CitizenWarningBanner';
 import { fetchRiskZones, triggerDemoScenario, WS_URL } from './services/api';
 
 export default function App() {
@@ -16,7 +19,21 @@ export default function App() {
   const [simulationMode, setSimulationMode] = useState(false);
   const [userLocation, setUserLocation] = useState(null);
   const [proximityAlert, setProximityAlert] = useState(null);
+  const [publicWarning, setPublicWarning] = useState(null);
+  const [userId, setUserId] = useState("fallback-user-uuid");
   const wsRef = useRef(null);
+
+  // Dummy auto-registration to simulate logged-in user on mount
+  useEffect(() => {
+    fetch('http://localhost:8000/api/v1/citizens/register', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ name: "Demo User", phone: "+91-9999999999", language: "en" })
+    })
+      .then(r => r.json())
+      .then(d => setUserId(d.id))
+      .catch(e => console.error(e));
+  }, []);
 
   const loadZones = useCallback(async () => {
     setLoading(true);
@@ -56,7 +73,9 @@ export default function App() {
         wsRef.current = new WebSocket(WS_URL);
         wsRef.current.onmessage = (event) => {
           const data = JSON.parse(event.data);
-          if (data.status === 'DANGER') {
+          if (data.type === 'WARNING') {
+            setPublicWarning(data);
+          } else if (data.status === 'DANGER') {
             setProximityAlert(data);
           } else {
             setProximityAlert(null);
@@ -65,10 +84,10 @@ export default function App() {
       }
       
       if (wsRef.current.readyState === WebSocket.OPEN) {
-        wsRef.current.send(JSON.stringify(userLocation));
+        wsRef.current.send(JSON.stringify({ ...userLocation, user_id: userId }));
       } else {
         wsRef.current.onopen = () => {
-          wsRef.current.send(JSON.stringify(userLocation));
+          wsRef.current.send(JSON.stringify({ ...userLocation, user_id: userId }));
         };
       }
     } else {
@@ -103,8 +122,23 @@ export default function App() {
     setSelectedZone(zone);
   }, []);
 
+  const handleAcknowledgeWarning = async (notificationId) => {
+    try {
+      await fetch('http://localhost:8000/api/v1/alerts/acknowledge', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ notification_id: notificationId })
+      });
+      setPublicWarning(null);
+    } catch (e) {
+      console.error(e);
+      setPublicWarning(null);
+    }
+  };
+
   return (
     <>
+      <CitizenWarningBanner warning={publicWarning} onAcknowledge={handleAcknowledgeWarning} />
       <AlertBanner alert={proximityAlert} onDismiss={() => setProximityAlert(null)} />
       {/* Header */}
       <Header 
@@ -167,7 +201,8 @@ export default function App() {
         )}
 
         {/* Right detail panel — hidden on small screens */}
-        <div className="hidden xl:flex">
+        <div className="hidden xl:flex flex-col gap-4 p-4 min-w-[320px] max-w-[320px] overflow-y-auto">
+          <WarningWidget />
           <ZoneDetails zone={selectedZone} />
         </div>
       </div>
@@ -198,6 +233,9 @@ export default function App() {
 
       {/* Bottom KPI bar */}
       <RiskSummary zones={sortedZones} />
+
+      {/* Floating Chatbot */}
+      <Chatbot userLocation={userLocation} />
     </>
   );
 }

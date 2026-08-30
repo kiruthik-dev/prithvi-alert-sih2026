@@ -13,6 +13,8 @@ from predict import predict_risk
 import os
 import psycopg2
 from psycopg2.extras import RealDictCursor
+from services.notification_service import NotificationService
+from services.chatbot_service import ChatbotService
 
 app = FastAPI(title="PrithviAlert MVP API")
 
@@ -81,6 +83,24 @@ FALLBACK_ZONES = [
 
 class DemoTriggerRequest(BaseModel):
     scenario: str  # NORMAL, HEAVY_RAIN, CRITICAL
+
+class CitizenRegister(BaseModel):
+    name: str
+    phone: str
+    language: str = "en"
+
+class CitizenLocation(BaseModel):
+    user_id: str
+    lat: float
+    lon: float
+
+class AcknowledgeAlert(BaseModel):
+    notification_id: str
+
+class ChatRequest(BaseModel):
+    query: str
+    lat: float = None
+    lon: float = None
 
 def reset_fallback_zones():
     # Helper to reset fallback data
@@ -254,6 +274,58 @@ def check_proximity(lat: float = Query(...), lon: float = Query(...), radius_m: 
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
 
+@app.post("/api/v1/citizens/register")
+def register_citizen(req: CitizenRegister, db=Depends(get_db)):
+    if db is None:
+        return {"id": "fallback-user-uuid", "message": "Registered in fallback mode"}
+    try:
+        with db.cursor() as cur:
+            cur.execute("""
+                INSERT INTO citizen_profiles (name, phone, language) 
+                VALUES (%s, %s, %s) RETURNING id
+            """, (req.name, req.phone, req.language))
+            user_id = cur.fetchone()["id"]
+            db.commit()
+            return {"id": user_id, "message": "Registration successful"}
+    except Exception as e:
+        db.rollback()
+        raise HTTPException(status_code=500, detail=str(e))
+
+@app.get("/api/v1/alerts/history")
+def get_alert_history(db=Depends(get_db)):
+    if db is None:
+        return []
+    try:
+        with db.cursor() as cur:
+            cur.execute("""
+                SELECT n.id, n.risk_level, n.message, n.status, n.acknowledged, n.created_at, z.name as zone_name
+                FROM notifications n
+                LEFT JOIN risk_zones z ON n.zone_id = z.id
+                ORDER BY n.created_at DESC
+                LIMIT 50
+            """)
+            return cur.fetchall()
+    except Exception as e:
+        return []
+
+@app.post("/api/v1/alerts/acknowledge")
+def acknowledge_alert(req: AcknowledgeAlert, db=Depends(get_db)):
+    if db is None:
+        return {"status": "success", "message": "Acknowledged (Fallback)"}
+    try:
+        with db.cursor() as cur:
+            cur.execute("UPDATE notifications SET acknowledged = TRUE WHERE id = %s", (req.notification_id,))
+            db.commit()
+            return {"status": "success"}
+    except Exception as e:
+        db.rollback()
+        raise HTTPException(status_code=500, detail=str(e))
+
+@app.post("/api/v1/chat")
+def chat_with_assistant(req: ChatRequest, db=Depends(get_db)):
+    bot = ChatbotService(db)
+    return bot.process_query(req.query, req.lat, req.lon)
+
 @app.websocket("/ws/location")
 async def location_websocket(websocket: WebSocket):
     await websocket.accept()
@@ -262,8 +334,10 @@ async def location_websocket(websocket: WebSocket):
     try:
         conn = psycopg2.connect(DATABASE_URL, cursor_factory=RealDictCursor)
         use_fallback = False
+        notification_svc = NotificationService(conn)
     except:
         use_fallback = True
+        notification_svc = None
 
     try:
         while True:
@@ -272,6 +346,7 @@ async def location_websocket(websocket: WebSocket):
                 payload = json.loads(data)
                 lat = payload.get("lat")
                 lon = payload.get("lon")
+                user_id = payload.get("user_id")
             except:
                 await websocket.send_json({"error": "Invalid JSON payload"})
                 continue
@@ -301,6 +376,15 @@ async def location_websocket(websocket: WebSocket):
             else:
                 try:
                     with conn.cursor() as cursor:
+                        # Upsert user location if user_id is provided
+                        if user_id and user_id != "fallback-user-uuid":
+                            cursor.execute("""
+                                INSERT INTO user_locations (user_id, location, last_updated)
+                                VALUES (%s, ST_SetSRID(ST_MakePoint(%s, %s), 4326), CURRENT_TIMESTAMP)
+                                ON CONFLICT (user_id) DO UPDATE 
+                                SET location = EXCLUDED.location, last_updated = CURRENT_TIMESTAMP
+                            """, (user_id, lon, lat))
+
                         cursor.execute("""
                             SELECT name, risk_level,
                                 ST_Distance(boundary::geography, ST_SetSRID(ST_MakePoint(%s, %s), 4326)::geography) as dist
@@ -316,12 +400,25 @@ async def location_websocket(websocket: WebSocket):
                                 status = "DANGER"
                                 alert_zone = row["name"]
                         conn.commit() # commit transaction
+                        
+                        # Process targeted public warning
+                        if user_id and user_id != "fallback-user-uuid" and notification_svc:
+                            new_alert = notification_svc.process_proximity_alert(user_id, lat, lon)
+                            if new_alert:
+                                await websocket.send_json({
+                                    "type": "WARNING",
+                                    "notification_id": str(new_alert["id"]),
+                                    "risk_level": new_alert["risk_level"],
+                                    "message": new_alert["message"],
+                                    "timestamp": new_alert["created_at"].isoformat()
+                                })
                 except Exception as e:
                     print(f"WS DB Error: {e}")
                     if conn:
                         conn.rollback()
 
             response = {
+                "type": "PROXIMITY_ALERT",
                 "status": status,
                 "zone": alert_zone,
                 "distance_m": round(dist, 1) if dist is not None else None,
