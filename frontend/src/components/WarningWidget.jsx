@@ -1,4 +1,5 @@
 import React, { useEffect, useState } from 'react';
+import { API_BASE_URL } from '../services/api';
 
 export default function WarningWidget() {
   const [history, setHistory] = useState([]);
@@ -6,7 +7,7 @@ export default function WarningWidget() {
   useEffect(() => {
     const fetchHistory = async () => {
       try {
-        const res = await fetch('http://localhost:8000/api/v1/alerts/history');
+        const res = await fetch(`${API_BASE_URL}/api/v1/alerts/history`);
         if (res.ok) {
           const data = await res.json();
           setHistory(data);

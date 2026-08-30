@@ -8,7 +8,7 @@ import AlertBanner from './components/AlertBanner';
 import Chatbot from './components/Chatbot';
 import WarningWidget from './components/WarningWidget';
 import CitizenWarningBanner from './components/CitizenWarningBanner';
-import { fetchRiskZones, triggerDemoScenario, WS_URL } from './services/api';
+import { fetchRiskZones, triggerDemoScenario, WS_URL, API_BASE_URL } from './services/api';
 
 export default function App() {
   const [zones, setZones] = useState([]);
@@ -25,7 +25,7 @@ export default function App() {
 
   // Dummy auto-registration to simulate logged-in user on mount
   useEffect(() => {
-    fetch('http://localhost:8000/api/v1/citizens/register', {
+    fetch(`${API_BASE_URL}/api/v1/citizens/register`, {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({ name: "Demo User", phone: "+91-9999999999", language: "en" })
@@ -124,7 +124,7 @@ export default function App() {
 
   const handleAcknowledgeWarning = async (notificationId) => {
     try {
-      await fetch('http://localhost:8000/api/v1/alerts/acknowledge', {
+      await fetch(`${API_BASE_URL}/api/v1/alerts/acknowledge`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ notification_id: notificationId })

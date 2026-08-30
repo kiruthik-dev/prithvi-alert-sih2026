@@ -1,4 +1,5 @@
 import React, { useState, useRef, useEffect } from 'react';
+import { API_BASE_URL } from '../services/api';
 
 export default function Chatbot({ userLocation }) {
   const [isOpen, setIsOpen] = useState(false);
@@ -26,7 +27,7 @@ export default function Chatbot({ userLocation }) {
     setLoading(true);
 
     try {
-      const response = await fetch('http://localhost:8000/api/v1/chat', {
+      const response = await fetch(`${API_BASE_URL}/api/v1/chat`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({
