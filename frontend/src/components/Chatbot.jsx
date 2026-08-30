@@ -32,8 +32,8 @@ export default function Chatbot({ userLocation }) {
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({
           query: query,
-          lat: userLocation?.lat || null,
-          lon: userLocation?.lon || null,
+          lat: userLocation?.lat || 27.3389,
+          lon: userLocation?.lon || 88.6065,
         }),
       });
       const data = await response.json();

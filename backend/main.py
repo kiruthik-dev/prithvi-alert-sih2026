@@ -1,5 +1,6 @@
 from fastapi import FastAPI, Depends, HTTPException, WebSocket, WebSocketDisconnect, Query
 from pydantic import BaseModel, Field
+from typing import Optional
 import json
 import math
 import asyncio
@@ -99,8 +100,8 @@ class AcknowledgeAlert(BaseModel):
 
 class ChatRequest(BaseModel):
     query: str
-    lat: float = None
-    lon: float = None
+    lat: Optional[float] = 27.3389
+    lon: Optional[float] = 88.6065
 
 def reset_fallback_zones():
     # Helper to reset fallback data
