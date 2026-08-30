@@ -54,22 +54,26 @@ Heavy rainfall → soil saturation increases → vulnerable slope identified →
 # AI / ML ENGINE
 **Probabilistic Decision Support**
 
-**Models Ensembled:** XGBoost + Random Forest
+**MODEL**
+XGBoost + Random Forest
 
-**Key Features Extracted:**
-- Rainfall intensity & accumulation
-- Soil moisture
-- Slope & Elevation (Terrain)
-- Vegetation cover
-- Historical susceptibility & Ground movement
-- Exposure
+**TARGET**
+Landslide Event Classification
 
-**Output:**
-Landslide-risk estimate + Categorical Risk Level
-*(LOW → MODERATE → HIGH → VERY HIGH → CRITICAL)*
+**FEATURES**
+Rainfall • Soil • Terrain • Historical Susceptibility
 
+**OUTPUT**
+Landslide Probability
+→ Risk Score
+→ Risk Level
+
+**CURRENT STATUS**
 > [!WARNING]
-> *Prototype model evaluation — requires validation with verified regional historical observations before operational deployment.*
+> Prototype evaluation on synthetic demonstration data.
+
+**NEXT VALIDATION**
+Verified NER historical observations + temporal/spatial validation.
 
 ---
 

@@ -24,6 +24,10 @@ export default function App() {
     try {
       const data = await fetchRiskZones();
       setZones(data);
+      if (data && data.length > 0) {
+        const sorted = [...data].sort((a, b) => b.risk_score - a.risk_score);
+        setSelectedZone(prev => prev || sorted[0]);
+      }
     } catch (err) {
       console.error('Failed to fetch risk zones:', err);
       setError(err.message || 'Backend connection unavailable');

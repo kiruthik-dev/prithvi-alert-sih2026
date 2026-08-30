@@ -101,6 +101,21 @@ export default function RiskMap({ zones, selectedZone, onSelectZone, userLocatio
         </button>
       </div>
 
+      {/* Legend overlay */}
+      <div className="absolute bottom-6 left-3 z-[1000] bg-pa-card/90 backdrop-blur-md border border-pa-border rounded-lg p-3 shadow-xl pointer-events-none w-56">
+        <h4 className="text-xs font-bold text-gray-300 mb-2 uppercase tracking-wider">Risk Level Legend</h4>
+        <div className="flex flex-col gap-1.5 mb-3">
+          <div className="flex items-center gap-2 text-xs text-gray-300"><span className="w-3 h-3 rounded-full bg-[#22c55e]"></span> LOW</div>
+          <div className="flex items-center gap-2 text-xs text-gray-300"><span className="w-3 h-3 rounded-full bg-[#eab308]"></span> MODERATE</div>
+          <div className="flex items-center gap-2 text-xs text-gray-300"><span className="w-3 h-3 rounded-full bg-[#f97316]"></span> HIGH</div>
+          <div className="flex items-center gap-2 text-xs text-gray-300"><span className="w-3 h-3 rounded-full bg-[#ef4444]"></span> VERY HIGH</div>
+          <div className="flex items-center gap-2 text-xs text-gray-300"><span className="w-3 h-3 rounded-full bg-[#dc2626]"></span> CRITICAL</div>
+        </div>
+        <div className="text-[9px] text-gray-500 italic leading-tight border-t border-gray-700 pt-2">
+          Prototype decision thresholds — not scientifically validated
+        </div>
+      </div>
+
       <MapContainer
         center={nerCenter}
         zoom={defaultZoom}
